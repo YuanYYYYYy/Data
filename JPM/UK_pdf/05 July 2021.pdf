@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Coronavirus and homeworking in the UK labour market - Office for National Statistics</title>
+<meta charset="utf-8" />
+<meta content="width=device-width,initial-scale=1.0,user-scalable=1" name="viewport">
+<meta name="theme-color" content="#58595B">
+<meta name="apple-mobile-web-app-status-bar-style" content="#58595B">
+<meta name="description" content="The extent to which different people in the labour market work from home, either on a regular or occasional basis.">
+<link rel="canonical" href="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019" />
+<link rel="stylesheet" type="text/css" href="//cdn.ons.gov.uk/sixteens/1531b39/css/main.css">
+<script>
+
+    // getUsuageCookieValue reads the cookies_policy cookie and returns the value a user has set for usage, 
+    // or defaults to true to opt_out of usage cookie if no cookie is set, or theres an error getting the value
+    function getUsageCookieValue() {
+        var cookiesPolicyCookie = document.cookie.match('(^|;) ?cookies_policy=([^;]*)(;|$)');
+        if (cookiesPolicyCookie) {
+            var decodedCookie = decodeURIComponent(cookiesPolicyCookie[2])
+            var cookieValue = JSON.parse(decodedCookie)
+            return !cookieValue.usage
+        }
+        return true
+    }
+
+    // unescape html entities
+    function htmlUnescape(str){
+        return str
+                .replace(/&#x3D;/g, "=");
+    }
+
+    
+    var dataLayer = [{
+        contentTitle: htmlUnescape("Coronavirus and homeworking in the UK labour market: 2019"),
+        analyticsOptOut: getUsageCookieValue(),
+        "gtm.whitelist": ["google","hjtc","lcl"],
+        "gtm.blacklist": ["customScripts","sp","adm","awct","k","d","j"]
+    }];
+
+    
+    dataLayer[0]["releaseDate"] = "2020/03/24";
+    
+
+    
+
+    
+    
+
+
+    
+    
+        
+            
+                dataLayer[0]["latestRelease"] = "yes";
+                dataLayer[0]["url"] = "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019";
+            
+        
+    
+
+    
+    
+        
+            dataLayer[0]["wordCount"] = 1991
+        
+    
+
+    
+    
+
+    
+
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MBCBVQS');</script>
+
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            
+            "description": "The extent to which different people in the labour market work from home, either on a regular or occasional basis.",
+            
+             "@type": "Article",
+"headLine": "Coronavirus and homeworking in the UK labour market",
+"datePublished": "2020-03-24T00:00:00.000Z",
+"dateModified": "2020-03-24T00:00:00.000Z",
+"author": {
+    "@type": "Person",
+    "name": "Bob Watson"
+},
+
+"image": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/482c4758",
+
+"mainEntityOfPage": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019",
+"publisher": {
+    "@type": "GovernmentOrganization",
+    "name": "Office for National Statistics",  
+    "logo": "https://cdn.ons.gov.uk/assets/images/ons-logo/v2/ons-logo.png"
+}, 
+            
+            "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+        }
+    </script>
+</head>
+<body class="article">
+<script>document.body.className = ((document.body.className) ? document.body.className + ' js' : 'js');</script>
+<form action="/cookies/accept-all" method="GET" id="global-cookie-message" class="cookies-banner cookies-banner--hidden js-cookies-banner-form clearfix" aria-label="cookie banner">
+<div class="cookies-banner__wrapper wrapper js-cookies-banner-inform">
+<div>
+<div class="cookies-banner__message adjust-font-size--18">
+<h3 class="cookies-banner__heading">Tell us whether you accept cookies</h3>
+<p class="cookies-banner__body">We would like to <a href="/cookies">use cookies to collect information</a> about how you use <strong>ons.gov.uk</strong>.</p>
+<p class="cookies-banner__body">We use this information to make the website work as well as possible and improve our services.</p>
+</div>
+<div class="cookies-banner__buttons">
+<div class="nojs--hide cookies-banner__button cookies-banner__button--accept">
+<button class="btn btn--full-width btn--primary btn--focus margin-right--2 font-weight-700 font-size--17 text-wrap js-accept-cookies" data-gtm-accept-cookies="true" type="submit">Accept all cookies</button>
+</div>
+<div class="cookies-banner__button">
+<a role="button" href="/cookies" class="btn btn--full-width btn--primary btn--focus margin-right--2 font-weight-700 font-size--17 text-wrap">Set cookie preferences</a>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden js-cookies-banner-confirmation" tabindex="-1">
+<div class="cookies-banner__wrapper wrapper">
+<div class="col">
+<div class="cookies-banner__message adjust-font-size--18">
+<p class="cookies-banner__confirmation-message">
+You’ve accepted all cookies. You can <a href="/cookies">change your cookie settings</a> at any time.
+<button type="button" class="cookies-banner__button--hide js-hide-cookies-banner">Hide</button>
+</p>
+</div>
+</div>
+</div>
+</div>
+</form>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBCBVQS"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header>
+<a class="skiplink" href="#main" tabindex="0">
+Skip to main content
+</a>
+<div id="pagePath" class="hide">/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019</div>
+<div class="wrapper">
+<div class="header col-wrap">
+<div class="col col--lg-one-third col--md-one-third">
+<a href="/">
+<!--[if lte IE 8]>
+							<img class="logo" src="https://cdn.ons.gov.uk/assets/images/ons-logo/v2/ons-logo.png" alt="Office for National Statistics logo - Homepage">
+						<![endif]-->
+<img class="logo" src="https://cdn.ons.gov.uk/assets/images/ons-logo/v2/ons-logo.svg" alt="Office for National Statistics logo - Homepage">
+</a>
+</div>
+<div class="col col--lg-two-thirds col--md-two-thirds hide--sm print--hide language--js__container">
+<div class="language">
+<span>English (EN) | </span>
+<a href="
+
+
+
+    //cy.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019
+" class="language__link" lang="cy">Cymraeg (CY)</a>
+</div>
+</div>
+<div class="secondary-nav col col--lg-two-thirds col--md-two-thirds print--hide">
+<ul class="secondary-nav__list js-nav-clone__list">
+<li class="secondary-nav__item">
+<a class="secondary-nav__link  js-nav-clone__link" href="/releasecalendar">Release calendar</a>
+</li>
+<li class="secondary-nav__item">
+<a class="secondary-nav__link  js-nav-clone__link" href="/methodology">Methodology</a>
+</li>
+<li class="secondary-nav__item">
+<a class="secondary-nav__link  js-nav-clone__link" href="/news">Media</a>
+</li>
+<li class="secondary-nav__item">
+<a class="secondary-nav__link  js-nav-clone__link" href="/aboutus">About</a>
+</li>
+<li class="secondary-nav__item">
+<a class="secondary-nav__link js-nav-clone__link" rel="noopener noreferrer" href="https://blog.ons.gov.uk/">Blog</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="primary-nav print--hide">
+<nav aria-label="Header links">
+<ul class="nav--controls">
+<li class="nav--controls__item">
+<a href="#nav-primary" id="menu-toggle" aria-controls="nav-primary" aria-expanded="false" class="nav--controls__menu">
+<span class="nav--controls__text">Menu</span>
+</a>
+</li>
+<li class="nav--controls__item ">
+<a href="#nav-search" id="search-toggle" aria-controls="nav-search" aria-expanded="false" class="nav--controls__search">
+<span class="nav--controls__text">Search</span>
+</a>
+</li>
+</ul>
+<ul class="wrapper nav-main--hidden primary-nav__list" id="nav-primary" aria-expanded="false">
+<li class="primary-nav__item  js-nav hide--sm old-ie--display-block"><a class="primary-nav__link col col--md-7 col--lg-9" href="/">Home</a></li>
+<li class="primary-nav__item js-nav js-expandable ">
+<a class="primary-nav__link col col--md-8 col--lg-10" href="/businessindustryandtrade" aria-expanded="false" aria-label="Business, industry and trade sub menu">
+<span aria-hidden="true" class="expansion-indicator"></span>
+<span class="submenu-title">
+Business, industry and trade
+</span>
+</a>
+<ul class="primary-nav__child-list col col--md-16 col--lg-20 js-expandable__content js-nav-hidden jsEnhance" aria-expanded="false" aria-label="submenu">
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/business">Business</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/changestobusiness">Changes to business</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/constructionindustry">Construction industry</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/itandinternetindustry">IT and internet industry</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/internationaltrade">International trade</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/manufacturingandproductionindustry">Manufacturing and production industry</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/retailindustry">Retail industry</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/tourismindustry">Tourism industry</a>
+</li>
+</ul>
+</li>
+<li class="primary-nav__item js-nav js-expandable ">
+<a class="primary-nav__link col col--md-8 col--lg-10" href="/economy" aria-expanded="false" aria-label="Economy sub menu">
+<span aria-hidden="true" class="expansion-indicator"></span>
+<span class="submenu-title">
+Economy
+</span>
+</a>
+<ul class="primary-nav__child-list col col--md-16 col--lg-20 js-expandable__content js-nav-hidden jsEnhance" aria-expanded="false" aria-label="submenu">
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/economy/economicoutputandproductivity">Economic output and productivity</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/economy/environmentalaccounts">Environmental accounts</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/economy/governmentpublicsectorandtaxes">Government, public sector and taxes</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/economy/grossdomesticproductgdp">Gross Domestic Product (GDP)</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/economy/grossvalueaddedgva">Gross Value Added (GVA)</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/economy/inflationandpriceindices">Inflation and price indices</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/economy/investmentspensionsandtrusts">Investments, pensions and trusts</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/economy/nationalaccounts">National accounts</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/economy/regionalaccounts">Regional accounts</a>
+</li>
+</ul>
+</li>
+<li class="primary-nav__item js-nav js-expandable primary-nav__item--active">
+<a class="primary-nav__link col col--md-8 col--lg-10" href="/employmentandlabourmarket" aria-expanded="false" aria-label="Employment and labour market sub menu">
+<span aria-hidden="true" class="expansion-indicator"></span>
+<span class="submenu-title">
+Employment and labour market
+</span>
+</a>
+<ul class="primary-nav__child-list col col--md-16 col--lg-20 js-expandable__content js-nav-hidden jsEnhance" aria-expanded="false" aria-label="submenu">
+<li class="primary-nav__child-item primary-nav__child-item--active js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/employmentandlabourmarket/peopleinwork">People in work</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/employmentandlabourmarket/peoplenotinwork">People not in work</a>
+</li>
+</ul>
+</li>
+<li class="primary-nav__item js-nav js-expandable ">
+<a class="primary-nav__link col col--md-8 col--lg-10" href="/peoplepopulationandcommunity" aria-expanded="false" aria-label="People, population and community sub menu">
+<span aria-hidden="true" class="expansion-indicator"></span>
+<span class="submenu-title">
+People, population and community
+</span>
+</a>
+<ul class="primary-nav__child-list col col--md-16 col--lg-20 js-expandable__content js-nav-hidden jsEnhance" aria-expanded="false" aria-label="submenu">
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/birthsdeathsandmarriages">Births, deaths and marriages</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/crimeandjustice">Crime and justice</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/culturalidentity">Cultural identity</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/educationandchildcare">Education and childcare</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/elections">Elections</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/healthandsocialcare">Health and social care</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/householdcharacteristics">Household characteristics</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/housing">Housing</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/leisureandtourism">Leisure and tourism</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/personalandhouseholdfinances">Personal and household finances</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/populationandmigration">Population and migration</a>
+</li>
+<li class="primary-nav__child-item  js-expandable__child">
+<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/wellbeing">Well-being</a>
+</li>
+</ul>
+</li>
+<li class="primary-nav__item  js-nav">
+<a class="primary-nav__link  col col--md-8 col--lg-10" href="/surveys">
+Taking part in a survey?
+</a>
+</li>
+<li class="hide--md primary-nav__language">
+<span>English (EN) | </span>
+<a href="
+
+
+
+    //cy.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019
+" class="language__link">Cymraeg (CY)</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="search nav-search--hidden print--hide" id="searchBar">
+<div class="wrapper" role="search">
+<form class="col-wrap search__form" action="/search">
+<label class="search__label col col--md-23 col--lg-24" for="nav-search">Search for a keyword(s) or time series ID</label>
+<input type="search" autocomplete="off" class="search__input col col--md-21 col--lg-32" id="nav-search" name="q" value="">
+<button type="submit" class="search__button col--md-3 col--lg-3" id="nav-search-submit">
+<span class="visuallyhidden">Search</span>
+<span class="icon icon-search--light"></span>
+</button>
+</form>
+</div>
+</div>
+<div class="promo__background--plum-gradient">
+<div class="wrapper">
+<div class="banner--half-padding">
+<p class="margin-top--0 margin-bottom--0 padding-bottom--0 padding-top--0 flex flex-wrap-wrap banner--vertical-center">
+<a class="flex" href="/census"><img src="https://cdn.ons.gov.uk/assets/images/census-logo/logo-census-2021-white-landscape.svg" title="Census 2021" alt="" class="header__svg-logo margin-right--1" xmlns="http://www.w3.org/2000/svg" focusable="false" width="167" height="32" viewBox="0 0 242 44" aria-labelledby="census-logo-banner" />
+<a class="margin-top--0 text--white font-size--18 underline-link" href="/census">Find out more about census</a>
+</p>
+</div>
+</div>
+</div>
+</header>
+<main id="main" role="main" tabindex="-1">
+<div class="page-neutral-intro background--gallery">
+<div class="wrapper">
+<div class="col-wrap">
+<div class="col">
+<nav aria-label="Breadcrumbs">
+<div class="breadcrumb print--hide">
+<ol class="breadcrumb__list">
+<li class="breadcrumb__item">
+<a class="breadcrumb__link" href="/">Home</a>
+</li>
+<li class="breadcrumb__item">
+<a class="breadcrumb__link" href="/employmentandlabourmarket">Employment and labour market</a>
+</li>
+<li class="breadcrumb__item">
+<a class="breadcrumb__link" href="/employmentandlabourmarket/peopleinwork">People in work</a>
+</li>
+<li class="breadcrumb__item">
+<a class="breadcrumb__link" href="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes">Employment and employee types</a>
+</li>
+<li class="breadcrumb__item">
+Coronavirus and homeworking in the UK labour market
+</li>
+</ol>
+</div>
+</nav>
+<div class="col col--md-47 col--lg-48">
+<h1 class="page-intro__title ">
+Coronavirus and homeworking in the UK labour market: 2019
+</h1>
+<p class="page-intro__content">The extent to which different people in the labour market work from home, either on a regular or occasional basis.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="alert">
+<div class="wrapper">
+<div class="col-wrap">
+<div class="col">
+<p class="alert__title">This is the latest release.</p>
+<a class="alert__link" href="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/previousReleases">View previous releases</a>
+</div>
+</div>
+</div>
+</div>
+<div class="meta-wrap">
+<div class="wrapper">
+<div class="col-wrap">
+<p class="col col--md-16 col--lg-20 meta__item">
+<span>Contact: </span><br /><a href="mailto:labour.supply@ons.gov.uk">Bob Watson</a>
+</p>
+<p class="col col--md-16 col--lg-20 meta__item">
+<span>Release date: </span><br />24 March 2020<br />
+</p>
+<p class="col col--md-12 col--lg-15 meta__item">
+<span>Next release: </span><br />To be announced
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="page-content">
+<div class="wrapper">
+<div class="col-wrap border-bottom--iron-md">
+<div class="col col--md-31 col--lg-41 margin-left-md--1">
+<div class="table-of-contents print--avoid-break">
+<h2 class="table-of-contents__title">Table of contents</h2>
+<ol id="toc" class="table-of-contents__list">
+<li class="table-of-contents__item">
+<a href="#main-points" class="js-scroll">Main points</a>
+</li>
+<li class="table-of-contents__item">
+<a href="#overview-of-homeworking" class="js-scroll">Overview of homeworking</a>
+</li>
+<li class="table-of-contents__item">
+<a href="#industries-of-homeworkers" class="js-scroll">Industries of homeworkers</a>
+</li>
+<li class="table-of-contents__item">
+<a href="#occupations-of-homeworkers" class="js-scroll">Occupations of homeworkers</a>
+</li>
+<li class="table-of-contents__item">
+<a href="#regions-of-homeworkers" class="js-scroll">Regions of homeworkers</a>
+</li>
+<li class="table-of-contents__item">
+<a href="#ages-of-homeworkers" class="js-scroll">Ages of homeworkers</a>
+</li>
+<li class="table-of-contents__item">
+<a href="#sexes-of-homeworkers" class="js-scroll">Sexes of homeworkers</a>
+</li>
+<li class="table-of-contents__item">
+<a href="#ethnicities-of-homeworkers" class="js-scroll">Ethnicities of homeworkers</a>
+</li>
+<li class="table-of-contents__item">
+<a href="#methodology" class="js-scroll">Methodology</a>
+</li>
+</ol>
+</div>
+</div>
+<div class="col col--md-15 col--lg-16 margin-bottom-sm--2 margin-top-md--7 margin-bottom-md--2 margin-left-lg--2 padding-bottom-sm--2 padding-left-sm--1 padding-bottom-md--1 border-top--iron-sm border-right--iron-sm border-bottom--iron-sm border-left--iron-sm border-top--iron-md border-right--iron-md border-bottom--iron-md border-left--iron-md js-print-pdf print--hide">
+<p class="text-right--md padding-top-md--0 padding-bottom-md--0 height--5 margin-bottom-md--0 print--hide nojs--hide js--show">
+<a href="" class="link-complex nojs--hide js--show js-print-page">
+Print this <span class="lowercase">
+Article
+</span>
+</a>
+<span class="icon icon-print--dark"></span>
+</p>
+<p class="text-right--md padding-top-md--0 padding-bottom-md--0 height--5 margin-top-md--1 print--hide">
+<a href="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/pdf" class="link-complex js-pdf-dl-link" aria-label="Download Coronavirus and homeworking in the UK labour market as PDF">
+Download as PDF
+</a>
+<span class="icon icon-download--dark"></span>
+</p>
+</div>
+</div>
+<div class="hide--md margin-top-sm--1">
+<div class=" margin-bottom-sm--2 margin-bottom-md--2 print--hide">
+<a class="btn btn--primary btn--full-width" href="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/relateddata" data-gtm-title="" data-gtm-type="related-data">
+View all data used in this <span class="lowercase">
+Article
+</span>
+</a>
+</div>
+</div>
+<article class="col col--md-36 col--lg-39 page-content__main-content padding-bottom">
+<div id="main-points" class="section__content--markdown">
+<section>
+<header>
+<h2><span class="section__content-number">1.</span> Main points</h2>
+</header>
+<ul>
+<li>Of the 32.6 million in employment, around 1.7 million people reported working mainly from home, with around 4.0 million working from home in the week prior to being interviewed for the survey.</li>
+<li>Around 8.7 million people said that they have worked from home; this is less than 30% of the workforce.</li>
+<li>Some industrial sectors, such as transportation and storage, accommodation and food services, and wholesale, retail and repair provide relatively few opportunities for people to work from home.</li>
+<li>Other industrial sectors, such as information and communication, professional, scientific and technical activities, financial and insurance activities, and real estate activities, provide far more homeworking opportunities.</li>
+<li>Occupations requiring higher qualifications and experience are more likely to provide homeworking opportunities than elementary and manual occupations.</li>
+<li>Younger workers are the least likely to be working from home, whereas those who continue to work beyond State Pension age are increasingly likely to be working from home.</li>
+</ul>
+<a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+</section>
+</div>
+<div id="overview-of-homeworking" class="section__content--markdown">
+<section>
+<header>
+<h2><span class="section__content-number">2.</span> Overview of homeworking</h2>
+</header>
+<p>With the current outbreak of the coronavirus (COVID-19), most people are expected to work from home where possible. This article investigates to what extent different people within the labour market work from home, either on a regular or occasional basis. It makes use of information from the Annual Population Survey (APS) and covers the 12 month-period from January to December 2019. For further information on the survey and the questions used, see the <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019#methodology">Methodology</a> section. </p><p>
+<div class="markdown-chart-container panel--bottom-mar print--avoid-break">
+<h3 class="flush--third--vertical font-size--18 padding-top--0 margin-bottom--1">Figure 1: Around 1.7 million people reported working mainly from home</h3>
+<h4 class="flush--third--bottom font-size--16 padding-top--0 margin-top--0">Number of people working at or near home in the UK, January to December 2019</h4>
+<div class="scrollable-container">
+<div id="chart-482c4758" data-filename="482c4758" data-uri="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/482c4758" class="markdown-chart">
+<!--[if gt IE 8]><!--><noscript><!--[endif]-->
+            <img src="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/482c4758&width=&hideSource=true" alt="" />
+            <!--[if gt IE 8]><!--></noscript><!--[endif]-->
+</div>
+</div>
+<h4 class="flush--third--bottom font-size--h6 clear-left">Source: Office for National Statistics – Annual Population Survey</h4>
+<div id="notes-482c4758" class="notes-holder-js">
+</div>
+<h4 class="print--hide padding-top--0 margin-top--0 font-size--h6 clear-left"><span role="text">Download this chart <span class="visuallyhidden">Figure 1: Around 1.7 million people reported working mainly from home</span></span></h4>
+<a class="btn btn--primary print--hide js-chart-image-src" data-filename="482c4758" href="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/482c4758" download="Figure 1: Around 1.7 million people reported working mainly from home" data-gtm-title="Figure 1: Around 1.7 million people reported working mainly from home" data-gtm-type="download-chart-image" aria-label="Download Figure 1: Around 1.7 million people reported working mainly from home as an image">Image</a>
+<a class="btn btn--primary print--hide" title="Download as csv" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/482c4758&format=csv" data-gtm-title="Figure 1: Around 1.7 million people reported working mainly from home" data-gtm-type="download-chart-csv" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="csv" aria-label="Download Figure 1: Around 1.7 million people reported working mainly from home as csv">
+.csv
+</a>
+<a class="btn btn--primary print--hide" title="Download as xls" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/482c4758&format=xls" data-gtm-title="Figure 1: Around 1.7 million people reported working mainly from home" data-gtm-type="download-chart-xls" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="xls" aria-label="Download Figure 1: Around 1.7 million people reported working mainly from home as xls">
+.xls
+</a>
+</div>
+</p><p>For the 12-month period from January to December 2019, of the 32.6 million people in employment, around 1.7 million people reported working mainly from home, with around 4.0 million working from home at some point in the week prior to the interview. Meanwhile, 8.7 million people say they have worked from home and 2.9 million people work either in the same grounds or buildings as their home or use home as a base (Figure 1).</p><p>
+<div class="markdown-chart-container panel--bottom-mar print--avoid-break">
+<h3 class="flush--third--vertical font-size--18 padding-top--0 margin-bottom--1">Figure 2: The number and proportion of people who work mainly at home has generally increased over time</h3>
+<h4 class="flush--third--bottom font-size--16 padding-top--0 margin-top--0">Percentage of people in employment who mainly work in their own home, UK, between January to December 2015 and January to December 2019</h4>
+<div class="scrollable-container">
+<div id="chart-0d28df5f" data-filename="0d28df5f" data-uri="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/0d28df5f" class="markdown-chart">
+<!--[if gt IE 8]><!--><noscript><!--[endif]-->
+            <img src="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/0d28df5f&width=&hideSource=true" alt="" />
+            <!--[if gt IE 8]><!--></noscript><!--[endif]-->
+</div>
+</div>
+<h4 class="flush--third--bottom font-size--h6 clear-left">Source: Office for National Statistics – Annual Population Survey</h4>
+<div id="notes-0d28df5f" class="notes-holder-js">
+</div>
+<h4 class="print--hide padding-top--0 margin-top--0 font-size--h6 clear-left"><span role="text">Download this chart <span class="visuallyhidden">Figure 2: The number and proportion of people who work mainly at home has generally increased over time</span></span></h4>
+<a class="btn btn--primary print--hide js-chart-image-src" data-filename="0d28df5f" href="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/0d28df5f" download="Figure 2: The number and proportion of people who work mainly at home has generally increased over time" data-gtm-title="Figure 2: The number and proportion of people who work mainly at home has generally increased over time" data-gtm-type="download-chart-image" aria-label="Download Figure 2: The number and proportion of people who work mainly at home has generally increased over time as an image">Image</a>
+<a class="btn btn--primary print--hide" title="Download as csv" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/0d28df5f&format=csv" data-gtm-title="Figure 2: The number and proportion of people who work mainly at home has generally increased over time" data-gtm-type="download-chart-csv" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="csv" aria-label="Download Figure 2: The number and proportion of people who work mainly at home has generally increased over time as csv">
+.csv
+</a>
+<a class="btn btn--primary print--hide" title="Download as xls" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/0d28df5f&format=xls" data-gtm-title="Figure 2: The number and proportion of people who work mainly at home has generally increased over time" data-gtm-type="download-chart-xls" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="xls" aria-label="Download Figure 2: The number and proportion of people who work mainly at home has generally increased over time as xls">
+.xls
+</a>
+</div>
+</p><p>Over the last five years, the proportion of people who say that they mainly work from home has increased (Figure 2). In the 12-month period from January to December 2019, there were an estimated 1.7 million people who said that they work mainly from home; this represents just over 5% of the total workforce. In addition, around 1% of the total workforce said that they worked in the same grounds or buildings as their home, such as farmers or people with a shop attached to their home, and just over 8% of the total workforce said that they worked from home as a base, for instance, those who are self-employed and work on site at varying locations.</p><p><div class="markdown-box-container
+
+
+">
+<p><strong>More about coronavirus</strong><br> <li>Find the latest on <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases">coronavirus (COVID-19) in the UK</a>. <li>All ONS analysis, summarised in our <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26">coronavirus roundup</a>. <li>View <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist">all coronavirus data</a>. </li> </p>
+</div>
+</p>
+<a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+</section>
+</div>
+<div id="industries-of-homeworkers" class="section__content--markdown">
+<section>
+<header>
+<h2><span class="section__content-number">3.</span> Industries of homeworkers</h2>
+</header>
+<p>The extent to which people can and do work from home varies by industrial sector.</p><p>
+<div class="markdown-chart-container panel--bottom-mar print--avoid-break">
+<h3 class="flush--third--vertical font-size--18 padding-top--0 margin-bottom--1">Figure 3: The extent to which people can and do work from home varied by industrial sector</h3>
+<h4 class="flush--third--bottom font-size--16 padding-top--0 margin-top--0">Percentage of UK workforce homeworking in each industrial sector, January to December 2019</h4>
+<div class="scrollable-container">
+<div id="chart-99e281ca" data-filename="99e281ca" data-uri="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/99e281ca" class="markdown-chart">
+<!--[if gt IE 8]><!--><noscript><!--[endif]-->
+            <img src="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/99e281ca&width=&hideSource=true" alt="" />
+            <!--[if gt IE 8]><!--></noscript><!--[endif]-->
+</div>
+</div>
+<h4 class="flush--third--bottom font-size--h6 clear-left">Source: Office for National Statistics – Annual Population Survey</h4>
+<div id="notes-99e281ca" class="notes-holder-js">
+</div>
+<h4 class="print--hide padding-top--0 margin-top--0 font-size--h6 clear-left"><span role="text">Download this chart <span class="visuallyhidden">Figure 3: The extent to which people can and do work from home varied by industrial sector</span></span></h4>
+<a class="btn btn--primary print--hide js-chart-image-src" data-filename="99e281ca" href="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/99e281ca" download="Figure 3: The extent to which people can and do work from home varied by industrial sector" data-gtm-title="Figure 3: The extent to which people can and do work from home varied by industrial sector" data-gtm-type="download-chart-image" aria-label="Download Figure 3: The extent to which people can and do work from home varied by industrial sector as an image">Image</a>
+<a class="btn btn--primary print--hide" title="Download as csv" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/99e281ca&format=csv" data-gtm-title="Figure 3: The extent to which people can and do work from home varied by industrial sector" data-gtm-type="download-chart-csv" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="csv" aria-label="Download Figure 3: The extent to which people can and do work from home varied by industrial sector as csv">
+.csv
+</a>
+<a class="btn btn--primary print--hide" title="Download as xls" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/99e281ca&format=xls" data-gtm-title="Figure 3: The extent to which people can and do work from home varied by industrial sector" data-gtm-type="download-chart-xls" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="xls" aria-label="Download Figure 3: The extent to which people can and do work from home varied by industrial sector as xls">
+.xls
+</a>
+</div>
+</p><p>For some industrial sectors, it would be very difficult for people to work from home. For example, in both the transportation and storage sector and accommodation and food services sector, only around 10% of people report ever being able to work from home. These two sectors include rail, road, air transport, shipping, warehousing, postal activities, hotels, bars and restaurants (Figure 3).</p><p>In contrast, the information and communication sector and professional and scientific sector both had around 50% of people who reported that they have worked from home as well as high percentages of people who had done so in the week prior to the interview.</p><p>The two largest industrial sectors, accommodation and food services and health and social work, account for over 25% of all employment but only around 16% of the people who have ever worked from home.</p><p>It should be noted that in some cases, just because people can and do work from home on some occasions, this does not necessarily mean that this is done on an ongoing basis. For example, this is likely to be the case in the education sector, which had a relatively high percentage reporting that they have worked from home. This may reflect certain activities such as planning and marking, which can take place at home, whereas very few people in this sector reported that they mainly worked from home.</p>
+<a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+</section>
+</div>
+<div id="occupations-of-homeworkers" class="section__content--markdown">
+<section>
+<header>
+<h2><span class="section__content-number">4.</span> Occupations of homeworkers</h2>
+</header>
+<p>Those with higher-skilled occupations are more likely to work from home than lower-skilled workers.</p><p>
+<div class="markdown-chart-container panel--bottom-mar print--avoid-break">
+<h3 class="flush--third--vertical font-size--18 padding-top--0 margin-bottom--1">Figure 4: Those with higher-skilled occupations were more likely to work from home than lower-skilled workers</h3>
+<h4 class="flush--third--bottom font-size--16 padding-top--0 margin-top--0">Percentage of UK workforce homeworking by occupation, January to December 2019</h4>
+<div class="scrollable-container">
+<div id="chart-8eab40be" data-filename="8eab40be" data-uri="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/8eab40be" class="markdown-chart">
+<!--[if gt IE 8]><!--><noscript><!--[endif]-->
+            <img src="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/8eab40be&width=&hideSource=true" alt="" />
+            <!--[if gt IE 8]><!--></noscript><!--[endif]-->
+</div>
+</div>
+<h4 class="flush--third--bottom font-size--h6 clear-left">Source: Office for National Statistics – Annual Population Survey</h4>
+<div id="notes-8eab40be" class="notes-holder-js">
+</div>
+<h4 class="print--hide padding-top--0 margin-top--0 font-size--h6 clear-left"><span role="text">Download this chart <span class="visuallyhidden">Figure 4: Those with higher-skilled occupations were more likely to work from home than lower-skilled workers</span></span></h4>
+<a class="btn btn--primary print--hide js-chart-image-src" data-filename="8eab40be" href="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/8eab40be" download="Figure 4: Those with higher-skilled occupations were more likely to work from home than lower-skilled workers" data-gtm-title="Figure 4: Those with higher-skilled occupations were more likely to work from home than lower-skilled workers" data-gtm-type="download-chart-image" aria-label="Download Figure 4: Those with higher-skilled occupations were more likely to work from home than lower-skilled workers as an image">Image</a>
+<a class="btn btn--primary print--hide" title="Download as csv" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/8eab40be&format=csv" data-gtm-title="Figure 4: Those with higher-skilled occupations were more likely to work from home than lower-skilled workers" data-gtm-type="download-chart-csv" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="csv" aria-label="Download Figure 4: Those with higher-skilled occupations were more likely to work from home than lower-skilled workers as csv">
+.csv
+</a>
+<a class="btn btn--primary print--hide" title="Download as xls" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/8eab40be&format=xls" data-gtm-title="Figure 4: Those with higher-skilled occupations were more likely to work from home than lower-skilled workers" data-gtm-type="download-chart-xls" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="xls" aria-label="Download Figure 4: Those with higher-skilled occupations were more likely to work from home than lower-skilled workers as xls">
+.xls
+</a>
+</div>
+</p><p>The likelihood to work from home in a particular week or to ever work from home broadly follows the structure of the occupational classification, with those major occupation groups towards the higher end of the classification more likely to work from home than those at the lower end (Figure 4).</p><p>Nearly 80% of those who worked from home in the week prior to the interview, or who ever work from home, came from the first three major occupation groups, while these groups constitute less than 50% of total employment. These three major occupation groups are also the highest-earning major occupation groups, suggesting that higher-paid workers are more likely to have the ability to work from home than lower-paid workers. </p><p>
+<div class="markdown-table-container print--avoid-break">
+<div class="scrollable-container" tabindex="0">
+<div class="markdown-table-wrap">
+<figure class="figure" id="table-81ab06d1">
+<table class="table">
+<caption class="table__caption">Table 1: Homeworking by minor occupation group, UK</caption>
+<colgroup><col /><col /><col /><col /><col /><col /><col /></colgroup>
+<tr class="table__header-row table__nowrap"><td rowspan="2" class="align-left"></td><th scope="col" class="align-center">Level (000&#39;s)</th><th scope="colgroup" colspan="5" class="align-center">Percentage</th></tr>
+<tr class="table__header-row table__nowrap"><th scope="col" class="align-right">Employed</th><th scope="col" class="align-right">Own Home</th><th scope="col" class="align-right">Same grounds<br />or buildings, or<br />home as base</th><th scope="col" class="align-right">Separate from<br />home</th><th scope="col" class="align-right">Work at home in<br />the week prior<br />to interview</th><th scope="col" class="align-right">Ever work<br />at home</th></tr>
+<tr><th scope="row" class="table__nowrap align-left">111 Chief Executives<br />and Senior Officials</th><td class="align-right">114</td><td class="align-right">8.9</td><td class="align-right">16.8</td><td class="align-right">74.3</td><td class="align-right">39.5</td><td class="align-right">69.2</td></tr>
+<tr><th scope="row" class="table__nowrap align-left">247 Media Professionals</th><td class="align-right">187</td><td class="align-right">20.5</td><td class="align-right">11.4</td><td class="align-right">68.2</td><td class="align-right">30.7</td><td class="align-right">58.1</td></tr>
+<tr><th scope="row" class="table__nowrap align-left">341 Artistic, Literary and<br />Media Occupations</th><td class="align-right">454</td><td class="align-right">23.7</td><td class="align-right">29.0</td><td class="align-right">47.2</td><td class="align-right">37.2</td><td class="align-right">57.8</td></tr>
+<tr><th scope="row" class="table__nowrap align-left">231 Teaching and Educational<br />Professionals</th><td class="align-right">1,607</td><td class="align-right">3.8</td><td class="align-right">5.9</td><td class="align-right">90.3</td><td class="align-right">19.0</td><td class="align-right">57.8</td></tr>
+<tr><th scope="row" class="table__nowrap align-left">118 Health and Social Services<br />Managers and Directors</th><td class="align-right">107</td><td class="align-right">2.5</td><td class="align-right">8.0</td><td class="align-right">89.1</td><td class="align-right">23.1</td><td class="align-right">57.0</td></tr>
+<tr><th scope="row" class="table__nowrap align-left">113 Functional Managers and<br />Directors</th><td class="align-right">1,196</td><td class="align-right">13.2</td><td class="align-right">13.5</td><td class="align-right">73.2</td><td class="align-right">33.1</td><td class="align-right">56.1</td></tr>
+<tr><th scope="row" class="table__nowrap align-left">241 Legal Professionals</th><td class="align-right">213</td><td class="align-right">5.4</td><td class="align-right">7.1</td><td class="align-right">87.4</td><td class="align-right">25.2</td><td class="align-right">55.7</td></tr>
+<tr><th scope="row" class="table__nowrap align-left">213 IT and Telecommunications<br />Professionals</th><td class="align-right">1,065</td><td class="align-right">11.4</td><td class="align-right">9.0</td><td class="align-right">79.3</td><td class="align-right">33.8</td><td class="align-right">55.0</td></tr>
+<tr><th scope="row" class="table__nowrap align-left">242 Business, Research and<br />Administrative Professionals</th><td class="align-right">841</td><td class="align-right">8.0</td><td class="align-right">10.7</td><td class="align-right">81.3</td><td class="align-right">31.8</td><td class="align-right">54.8</td></tr>
+<tr><th scope="row" class="table__nowrap align-left">215 Research and Development<br />Managers</th><td class="align-right">55</td><td class="align-right">2.7</td><td class="align-right">6.0</td><td class="align-right">91.0</td><td class="align-right">19.2</td><td class="align-right">54.8</td></tr>
+</table><footer class="figure__footer">
+<p class="figure__source">Source: Office for National Statistics – Annual Population Survey</p>
+</footer>
+</figure>
+</div>
+</div>
+<h4 class="print--hide font-size--h6 padding-top--0"><span role="text">Download this table <span class="visuallyhidden">Table 1: Homeworking by minor occupation group, UK</span></span></h4>
+<a href="/download/table?format=xlsx&uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/81ab06d1.json" title="Download as xls" class="btn btn--primary print--hide" data-gtm-title="Table 1: Homeworking by minor occupation group, UK" data-gtm-type="download-table-xlsx" aria-label="Download Table 1: Homeworking by minor occupation group, UK as xls">.xls</a>
+<a href="/download/table?format=csv&uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/81ab06d1.json" title="Download as csv" class="btn btn--primary print--hide" data-gtm-title="Table 1: Homeworking by minor occupation group, UK" data-gtm-type="download-table-csv" aria-label="Download Table 1: Homeworking by minor occupation group, UK as csv">.csv</a>
+</div></p><p>Looking in more detail at the minor occupation groups, the 10 minor groups with the greatest proportion of people who ever work from home all come from those three major groups.</p>
+<a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+</section>
+</div>
+<div id="regions-of-homeworkers" class="section__content--markdown">
+<section>
+<header>
+<h2><span class="section__content-number">5.</span> Regions of homeworkers</h2>
+</header>
+<p>Homeworking is more prevalent in London, the South East and the South West than the rest of the UK.</p><p>
+<div class="markdown-chart-container panel--bottom-mar print--avoid-break">
+<h3 class="flush--third--vertical font-size--18 padding-top--0 margin-bottom--1">Figure 5: Homeworking was more prevalent in London, the South East and the South West than the rest of the UK</h3>
+<h4 class="flush--third--bottom font-size--16 padding-top--0 margin-top--0">Percentage of workforce homeworking resident in each UK region, January to December 2019</h4>
+<div class="scrollable-container">
+<div id="chart-48debcd9" data-filename="48debcd9" data-uri="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/48debcd9" class="markdown-chart">
+<!--[if gt IE 8]><!--><noscript><!--[endif]-->
+            <img src="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/48debcd9&width=&hideSource=true" alt="" />
+            <!--[if gt IE 8]><!--></noscript><!--[endif]-->
+</div>
+</div>
+<h4 class="flush--third--bottom font-size--h6 clear-left">Source: Office for National Statistics – Annual Population Survey</h4>
+<div id="notes-48debcd9" class="notes-holder-js">
+</div>
+<h4 class="print--hide padding-top--0 margin-top--0 font-size--h6 clear-left"><span role="text">Download this chart <span class="visuallyhidden">Figure 5: Homeworking was more prevalent in London, the South East and the South West than the rest of the UK</span></span></h4>
+<a class="btn btn--primary print--hide js-chart-image-src" data-filename="48debcd9" href="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/48debcd9" download="Figure 5: Homeworking was more prevalent in London, the South East and the South West than the rest of the UK" data-gtm-title="Figure 5: Homeworking was more prevalent in London, the South East and the South West than the rest of the UK" data-gtm-type="download-chart-image" aria-label="Download Figure 5: Homeworking was more prevalent in London, the South East and the South West than the rest of the UK as an image">Image</a>
+<a class="btn btn--primary print--hide" title="Download as csv" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/48debcd9&format=csv" data-gtm-title="Figure 5: Homeworking was more prevalent in London, the South East and the South West than the rest of the UK" data-gtm-type="download-chart-csv" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="csv" aria-label="Download Figure 5: Homeworking was more prevalent in London, the South East and the South West than the rest of the UK as csv">
+.csv
+</a>
+<a class="btn btn--primary print--hide" title="Download as xls" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/48debcd9&format=xls" data-gtm-title="Figure 5: Homeworking was more prevalent in London, the South East and the South West than the rest of the UK" data-gtm-type="download-chart-xls" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="xls" aria-label="Download Figure 5: Homeworking was more prevalent in London, the South East and the South West than the rest of the UK as xls">
+.xls
+</a>
+</div>
+</p><p>People who live in the South East are the most likely to work from home, ahead of those who live in London or the South West. In 2019, those working in the South East were over twice as likely to work from home at some point during the week as those who lived in Northern Ireland, Scotland or the North East (Figure 5).</p>
+<a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+</section>
+</div>
+<div id="ages-of-homeworkers" class="section__content--markdown">
+<section>
+<header>
+<h2><span class="section__content-number">6.</span> Ages of homeworkers</h2>
+</header>
+<p>
+<div class="markdown-chart-container panel--bottom-mar print--avoid-break">
+<h3 class="flush--third--vertical font-size--18 padding-top--0 margin-bottom--1">Figure 6: Workers aged 30 years and under were much less likely to work from home than older workers</h3>
+<h4 class="flush--third--bottom font-size--16 padding-top--0 margin-top--0">Percentage of UK workforce homeworking by age group, January to December 2019</h4>
+<div class="scrollable-container">
+<div id="chart-e140ee6f" data-filename="e140ee6f" data-uri="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/e140ee6f" class="markdown-chart">
+<!--[if gt IE 8]><!--><noscript><!--[endif]-->
+            <img src="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/e140ee6f&width=&hideSource=true" alt="" />
+            <!--[if gt IE 8]><!--></noscript><!--[endif]-->
+</div>
+</div>
+<h4 class="flush--third--bottom font-size--h6 clear-left">Source: Office for National Statistics – Annual Population Survey</h4>
+<div id="notes-e140ee6f" class="notes-holder-js">
+</div>
+<h4 class="print--hide padding-top--0 margin-top--0 font-size--h6 clear-left"><span role="text">Download this chart <span class="visuallyhidden">Figure 6: Workers aged 30 years and under were much less likely to work from home than older workers</span></span></h4>
+<a class="btn btn--primary print--hide js-chart-image-src" data-filename="e140ee6f" href="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/e140ee6f" download="Figure 6: Workers aged 30 years and under were much less likely to work from home than older workers" data-gtm-title="Figure 6: Workers aged 30 years and under were much less likely to work from home than older workers" data-gtm-type="download-chart-image" aria-label="Download Figure 6: Workers aged 30 years and under were much less likely to work from home than older workers as an image">Image</a>
+<a class="btn btn--primary print--hide" title="Download as csv" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/e140ee6f&format=csv" data-gtm-title="Figure 6: Workers aged 30 years and under were much less likely to work from home than older workers" data-gtm-type="download-chart-csv" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="csv" aria-label="Download Figure 6: Workers aged 30 years and under were much less likely to work from home than older workers as csv">
+.csv
+</a>
+<a class="btn btn--primary print--hide" title="Download as xls" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/e140ee6f&format=xls" data-gtm-title="Figure 6: Workers aged 30 years and under were much less likely to work from home than older workers" data-gtm-type="download-chart-xls" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="xls" aria-label="Download Figure 6: Workers aged 30 years and under were much less likely to work from home than older workers as xls">
+.xls
+</a>
+</div>
+</p><p>Workers aged 30 years and under are much less likely to work from home than older workers. They are also less likely to work in the same grounds or buildings as their home or use home as a base. Meanwhile, those that keep working beyond State Pension age are far more likely to work from home than those below that age (Figure 6).</p>
+<a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+</section>
+</div>
+<div id="sexes-of-homeworkers" class="section__content--markdown">
+<section>
+<header>
+<h2><span class="section__content-number">7.</span> Sexes of homeworkers</h2>
+</header>
+<p>
+<div class="markdown-chart-container panel--bottom-mar print--avoid-break">
+<h3 class="flush--third--vertical font-size--18 padding-top--0 margin-bottom--1">Figure 7: Men were over twice as likely to work either in the same grounds or buildings as their home or with home as a base</h3>
+<h4 class="flush--third--bottom font-size--16 padding-top--0 margin-top--0">Percentage of UK workforce homeworking by sex, January to December 2019</h4>
+<div class="scrollable-container">
+<div id="chart-535942a8" data-filename="535942a8" data-uri="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/535942a8" class="markdown-chart">
+<!--[if gt IE 8]><!--><noscript><!--[endif]-->
+            <img src="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/535942a8&width=&hideSource=true" alt="" />
+            <!--[if gt IE 8]><!--></noscript><!--[endif]-->
+</div>
+</div>
+
+<h4 class="flush--third--bottom font-size--h6 clear-left">Source: Office for National Statistics – Annual Population Survey</h4>
+<div id="notes-535942a8" class="notes-holder-js">
+</div>
+<h4 class="print--hide padding-top--0 margin-top--0 font-size--h6 clear-left"><span role="text">Download this chart <span class="visuallyhidden">Figure 7: Men were over twice as likely to work either in the same grounds or buildings as their home or with home as a base</span></span></h4>
+<a class="btn btn--primary print--hide js-chart-image-src" data-filename="535942a8" href="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/535942a8" download="Figure 7: Men were over twice as likely to work either in the same grounds or buildings as their home or with home as a base" data-gtm-title="Figure 7: Men were over twice as likely to work either in the same grounds or buildings as their home or with home as a base" data-gtm-type="download-chart-image" aria-label="Download Figure 7: Men were over twice as likely to work either in the same grounds or buildings as their home or with home as a base as an image">Image</a>
+<a class="btn btn--primary print--hide" title="Download as csv" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/535942a8&format=csv" data-gtm-title="Figure 7: Men were over twice as likely to work either in the same grounds or buildings as their home or with home as a base" data-gtm-type="download-chart-csv" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="csv" aria-label="Download Figure 7: Men were over twice as likely to work either in the same grounds or buildings as their home or with home as a base as csv">
+.csv
+</a>
+<a class="btn btn--primary print--hide" title="Download as xls" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/535942a8&format=xls" data-gtm-title="Figure 7: Men were over twice as likely to work either in the same grounds or buildings as their home or with home as a base" data-gtm-type="download-chart-xls" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="xls" aria-label="Download Figure 7: Men were over twice as likely to work either in the same grounds or buildings as their home or with home as a base as xls">
+.xls
+</a>
+</div>
+</p><p>There are not very large differences between the percentage of men and women working from home, with women a little more likely to work mainly from home while men are a little more likely to have worked from home at some point. However, men are over twice as likely to work either in the same grounds or buildings as their home or with home as a base (Figure 7). This is partially because these are working arrangements prevalent in the agriculture and construction industries, which are both dominated by male employment.</p>
+<a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+</section>
+</div>
+<div id="ethnicities-of-homeworkers" class="section__content--markdown">
+<section>
+<header>
+<h2><span class="section__content-number">8.</span> Ethnicities of homeworkers</h2>
+</header>
+<p>
+<div class="markdown-chart-container panel--bottom-mar print--avoid-break">
+<h3 class="flush--third--vertical font-size--18 padding-top--0 margin-bottom--1">Figure 8: People of Pakistani and Bangladeshi ethnicities were the least likely to work from home</h3>
+<h4 class="flush--third--bottom font-size--16 padding-top--0 margin-top--0">Percentage of UK workforce homeworking by ethnicity, January to December 2019</h4>
+<div class="scrollable-container">
+<div id="chart-6f048e98" data-filename="6f048e98" data-uri="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/6f048e98" class="markdown-chart">
+<!--[if gt IE 8]><!--><noscript><!--[endif]-->
+            <img src="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/6f048e98&width=&hideSource=true" alt="" />
+            <!--[if gt IE 8]><!--></noscript><!--[endif]-->
+</div>
+</div>
+<h4 class="flush--third--bottom font-size--h6 clear-left">Source: Office for National Statistics – Annual Population Survey</h4>
+<div id="notes-6f048e98" class="notes-holder-js">
+</div>
+<h4 class="print--hide padding-top--0 margin-top--0 font-size--h6 clear-left"><span role="text">Download this chart <span class="visuallyhidden">Figure 8: People of Pakistani and Bangladeshi ethnicities were the least likely to work from home</span></span></h4>
+<a class="btn btn--primary print--hide js-chart-image-src" data-filename="6f048e98" href="/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/6f048e98" download="Figure 8: People of Pakistani and Bangladeshi ethnicities were the least likely to work from home" data-gtm-title="Figure 8: People of Pakistani and Bangladeshi ethnicities were the least likely to work from home" data-gtm-type="download-chart-image" aria-label="Download Figure 8: People of Pakistani and Bangladeshi ethnicities were the least likely to work from home as an image">Image</a>
+<a class="btn btn--primary print--hide" title="Download as csv" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/6f048e98&format=csv" data-gtm-title="Figure 8: People of Pakistani and Bangladeshi ethnicities were the least likely to work from home" data-gtm-type="download-chart-csv" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="csv" aria-label="Download Figure 8: People of Pakistani and Bangladeshi ethnicities were the least likely to work from home as csv">
+.csv
+</a>
+<a class="btn btn--primary print--hide" title="Download as xls" href="/generator?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/6f048e98&format=xls" data-gtm-title="Figure 8: People of Pakistani and Bangladeshi ethnicities were the least likely to work from home" data-gtm-type="download-chart-xls" data-gtm-download-file="timeseries-generated-file" data-gtm-download-type="xls" aria-label="Download Figure 8: People of Pakistani and Bangladeshi ethnicities were the least likely to work from home as xls">
+.xls
+</a>
+</div>
+</p><p>People of Pakistani and Bangladeshi ethnicities are the least likely to work from home (Figure 8). This is partially because a higher proportion of people from these ethnic background work in the wholesale, retail and repair; transport and storage; and hotel and catering sectors. These three sectors have a low prevalence of homeworking.</p>
+<a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+</section>
+</div>
+<div id="methodology" class="section__content--markdown">
+<section>
+<header>
+<h2><span class="section__content-number">9.</span> Methodology</h2>
+</header>
+<p>This article makes use of the Annual Population Survey (APS), a survey of people resident in households in the UK. The people selected are asked a number of questions about their relationship with the labour market, including questions on the extent to which they work from home. These questions examine whether people work mainly from home, for those that do not work mainly from home whether they ever work from home, and for all workers whether they did any work from home in the week prior to interview.</p><h3>APS questions</h3><p>The analysis in this article is based on three separate APS questions asking:</p><p>In your main job, do you work mainly:</p>
+<ul>
+<li>in your own home?</li>
+<li>in the same grounds or buildings as your home?</li>
+<li>in different places using home as a base?</li>
+<li>somewhere quite separate from home?</li>
+</ul><p>Do you ever do any paid or unpaid work at home for your main job?<br> (This is asked of those who do not mainly work from home in their main job.)</p><p>In your main job, have you spent at least one full day in the seven days ending Sunday the [date] working:</p>
+<ul>
+<li>in your own home?</li>
+</ul><h3>Weighting</h3><p>Because the questions about ever doing work from home and working from home in the last week are only asked in certain APS interviews, they use a secondary set of weights in the dataset. Consequently, the estimate of the total number of people falling within a category would be different to the estimate derived from the main dataset weights.</p>
+<a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+</section>
+</div>
+
+
+<div class="margin-bottom--4">
+</div>
+</article>
+<div class="col col--md-11 col--lg-20 margin-top-md--3">
+<div class=" margin-bottom-sm--2 margin-bottom-md--2 print--hide">
+<a class="btn btn--primary btn--full-width" href="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019/relateddata" data-gtm-title="" data-gtm-type="related-data">
+View all data used in this <span class="lowercase">
+Article
+</span>
+</a>
+</div>
+<div class="tiles__item tiles__item--nav-type flush-col">
+<h3 class="tiles__title-h3 tiles__title-h3--nav">
+Contact details for this <span class="lowercase">
+Article
+</span>
+</h3>
+<div class="tiles__content--nav">
+<address>
+Bob Watson<br />
+<a href="mailto:labour.supply@ons.gov.uk">labour.supply@ons.gov.uk</a><br />
+Telephone: +44 (0)1633 455070
+</address>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="print--hide">
+<h2 class="visuallyhidden">Footer links</h2>
+<div class="footer">
+<div class="wrapper">
+<nav aria-label="Footer links">
+<div class="footer-nav col-wrap">
+<div class="col col--lg-one-third col--md-one-third">
+<h3 class="footer-nav__heading">Help</h3>
+<ul class="footer-nav__list">
+<li class="footer-nav__item">
+<a href="/help/accessibility">Accessibility</a>
+</li>
+<li class="footer-nav__item">
+<a href="/cookies">Cookies</a>
+</li>
+<li class="footer-nav__item">
+<a href="/help/privacynotice">Privacy</a>
+</li>
+<li class="footer-nav__item">
+<a href="/help/termsandconditions">Terms and conditions</a>
+</li>
+</ul>
+</div>
+<div class="col col--lg-one-third col--md-one-third">
+<h3 class="footer-nav__heading">About ONS</h3>
+<ul class="footer-nav__list">
+<li class="footer-nav__item">
+<a href="/aboutus/whatwedo">What we do</a>
+</li>
+<li class="footer-nav__item">
+<a href="/aboutus/careers">Careers</a>
+</li>
+<li class="footer-nav__item">
+<a href="/aboutus/contactus">Contact us</a>
+</li>
+<li class="footer-nav__item">
+<a href="/news">News</a>
+</li>
+<li class="footer-nav__item">
+<a href="/aboutus/transparencyandgovernance/freedomofinformationfoi">Freedom of Information</a>
+</li>
+</ul>
+</div>
+<div class="col col--lg-one-third col--md-one-third">
+<h3 class="footer-nav__heading">Connect with us</h3>
+<ul class="footer-nav__list">
+<li class="footer-nav__item">
+<a href="https://twitter.com/ONS">Twitter</a>
+</li>
+<li class="footer-nav__item">
+<a href="https://www.facebook.com/ONS">Facebook</a>
+</li>
+<li class="footer-nav__item">
+<a href="https://www.linkedin.com/company/office-for-national-statistics">LinkedIn</a>
+</li>
+<li class="footer-nav__item">
+<a href="https://consultations.ons.gov.uk/">Consultations</a>
+</li>
+<li class="footer-nav__item">
+<a href="https://www.statsusernet.org.uk/login">Discussion forums</a>
+</li>
+<li class="footer-nav__item">
+<a href="https://public.govdelivery.com/accounts/UKONS/subscribers/new">Email alerts</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+<div class="wrapper">
+<div class="footer-license">
+<img class="footer-license__img" alt="OGL" width="60" src="https://cdn.ons.gov.uk/assets/images/logo-ogl-footer.svg">
+<p class="footer-license__text margin-left-sm--0">
+All content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>, except where otherwise stated
+</p>
+</div>
+</div>
+</div>
+</footer>
+<script src="//cdn.ons.gov.uk/sixteens/1531b39/js/main.js"></script>
+<script src="/js/app.js"></script>
+<script src="/js/third-party/highcharts-annotations-5.0.7.js"></script>
+<script src="/js/third-party/highcharts-broken-axis-5.0.7.js"></script>
+<script src="/js/third-party/highcharts-heatmap-5.0.7.js"></script>
+<script src="/js/third-party/highcharts-exporting-5.0.7.js"></script>
+</body>
+</html>

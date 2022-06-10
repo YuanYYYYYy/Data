@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.ngfs.net/en/publications/ngfs-climate-scenarios" rel="alternate" hreflang="en-GB" />
+<link rel="shortcut icon" href="https://www.ngfs.net/sites/all/themes/bdf_ngfs/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:description" content="Dear Reader, please note that the NGFS Climate Scenarios have been updated. The up to date version can be explored via the NGFS Portal or the Presentation. The NGFS scenarios explore the transition and physical impacts of climate change under varying a..." />
+<meta name="twitter:description" content="Dear Reader, please note that the NGFS Climate Scenarios have been updated. The up to date version can be explored via the NGFS Portal or the Presentation. The NGFS scenarios explore the transition and physical impacts of climate change under varying a..." />
+<meta name="description" content="Dear Reader, please note that the NGFS Climate Scenarios have been updated. The up to date version can be explored via the NGFS Portal or the Presentation. The NGFS scenarios explore the transition and physical impacts of climate change under varying a..." />
+<meta property="fb:app_id" content="966242223397117" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.ngfs.net/en/publications/ngfs-climate-scenarios" />
+<link rel="shortlink" href="https://www.ngfs.net/en/node/294092" />
+<meta property="og:site_name" content="Banque de France" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="NGFS CLIMATE SCENARIOS" />
+<meta property="og:url" content="https://www.ngfs.net/en/publications/ngfs-climate-scenarios" />
+<meta property="og:updated_time" content="2021-06-28T10:22:51+02:00" />
+<meta property="og:image" content="https://www.banque-france.fr/sites/all/themes/bdf/images/logo_rs.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="https://www.ngfs.net/en/publications/ngfs-climate-scenarios" />
+<meta name="twitter:title" content="NGFS CLIMATE SCENARIOS" />
+<meta name="twitter:image" content="https://www.banque-france.fr/sites/all/themes/bdf/images/logo_rs.jpg" />
+<meta property="article:published_time" content="2020-06-22T11:42:43+02:00" />
+<meta property="article:modified_time" content="2021-06-28T10:22:51+02:00" />
+<meta itemprop="name" content="NGFS CLIMATE SCENARIOS" />
+     <title>NGFS CLIMATE SCENARIOS | Banque de France</title>
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300,400italic,600italic,700italic,300italic" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__uLUQAN-al3ih9vFVpIpaRRkCYShNeCaaLnsGTf0MaAQ__Gdg2KcS38EdTH0nwRQXEr7gqkCPXBTW1ruqVLB7rrOE__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__ciZ2USmhsP49-Kz3wCZomCino4f99FHY3947p35X11k__1CMyuetdJPjWw4rAU-2WFEfvnBBO65Bgw2yOu2qUgF8__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__kLNC8JaW-Xcn3VoKqi3rOfVs1IA_vNWGG8JY3ktZFSg__svEJs4I5hHrbEZ5Un-ORYS0-sqWdXd01VOD4AUV9H2w__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__HWtxHvQMEn4FZq8-CCGKAYk7bKmgmxNFuBg6ok1pMOU__tomHhkz-C9AebaY6oBTGVvagbGX2iqxlFLCbbwdgE0Q__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__ktUqoFymkYeQWkvhFuXBlUVzs5LyZ6x8u6zeu4pyKqE__NgDTaD4TG3F8ZQZ8U9t-hWt7B1VVrdiu0qEoht45GuQ__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.css" media="all" />
+  <script type="text/javascript" src="https://cdn.trustcommander.net/privacy/5322/privacy_v2_14.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__vmePF4Dp8bPkg81UKngZykilw5OZS1fP5YnScEtCamY__88qaN3RQRoWJWSSy4pYZ0ThWl6Qld-KykYSR11si74k__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__MuR9EAvgaGiGdOa8Y6TzkZzKAqqhxqwkMiA9KV1BGio__4mrgS-QEpy1aSrNQ9-9CIzeh0r91zmeY1ZpIPWUzUv0__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__tszYiiuyqG5JTY_Hegbw0D0TMlcLWABx4WbtHnIQ22E__V_PRhVpDgsuJeouu5W7Fwnv64CnyTOz8vg0wYOMf_Xo__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"bdf_ngfs","theme_token":"fv6HDLF6JOEDG1Ds7fCG-NlIs4p9enN5oXrPGDQmOVU","jquery_version":"1.10","css":{"https:\/\/fonts.googleapis.com\/css?family=Open+Sans:400,600,700,300,400italic,600italic,700italic,300italic":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/custom\/bdf_page_list\/css\/bdf_page_list_pagination.css":1,"sites\/all\/modules\/contrib\/collapsiblock\/collapsiblock.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/bdf_elasticsearch_connector_integration\/assets\/bdf_elasticsearch_connector_integration.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/contrib\/search_api_autocomplete\/search_api_autocomplete.css":1,"sites\/all\/themes\/bdf\/css\/system.menus.css":1,"sites\/all\/themes\/bdf\/css\/system.theme.css":1,"sites\/all\/themes\/bdf\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bdf\/js\/perfect-scrollbar\/css\/perfect-scrollbar.css":1,"sites\/all\/themes\/bdf\/fonts\/style.css":1,"sites\/all\/themes\/bdf\/css\/bdf-base.css":1,"sites\/all\/themes\/bdf\/css\/bdf-base--rich-text.css":1,"sites\/all\/themes\/bdf\/css\/bdf-layout.css":1,"sites\/all\/themes\/bdf\/css\/bdf-menu-mobile.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--common--media.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--common--slider.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--block.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--block--menu.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--accordeon.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--agenda.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--auto-news-custom-number.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--auto-news-load-more.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--banner-with-search.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--bibliotheque-abc.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--biographie-gouverneur.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--bloc-technique.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--blocs-libres.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--calendar.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--dgrh-key-numbers.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--dgrh-mea.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--dgrh-news.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--dgrh-profil.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--dgrh-videos.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--documents.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--external-link-block.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--folder.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--form-commercial-offers.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--governor-list.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--governor-space.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--grande-illustration-3-vignettes.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--highlight-pub.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--i-need.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--illustration-double.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--illustration-pleine-largeur.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--image-and-text.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--image-citation.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--image-link-container.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--internal-link-block.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--key-figures.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--last-news-teaser-small.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--last-publication-teaser-small.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--last-publications.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--links.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--link-cta.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--main-publications.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--manual-news.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--media-slider.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--official-register.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--onglets.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--playlist-video.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--promo-link.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--publications-by-author.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--publications_unique.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--question.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--question-reponse.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--quote.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--recruitment.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--select-publications.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--select-sections.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--sites-bdf.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--slider-images.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--slider-with-thumbnails.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--social-network.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--social-networks.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--statistics.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--teaser-blocks.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--teaser-highlighted.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--teaser-image.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--teaser-image-big.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--teaser-logo.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--teaser-simple.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--teaser-slider.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--teasers-highlighted.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--textes-icons.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--thematic-blocks.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--twitter-content.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--video-and-text.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--video-docs.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--alerte.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--biographie.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--blacklist.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--dossier.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--filtered-table-page.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--intervention.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--liste-rubrique.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--news.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--odp-table-content.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--page-dgrh.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--page-froide.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--page-table-odp.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--protected-site.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--publication.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--question.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--social-media-timeline.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--sommaire.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--table-content.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--webform.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--webstat-parutions-bdf.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--contextual.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--enquete-modal.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--field-map.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--form--filters.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--glossaire.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--list-news.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--liste-alphabetique.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--liste-chercheurs.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--newslettersendy-manage-subscriptions.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--notifications-alert-modal.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--notifications-manage-subscriptions.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--search.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--views--chronologic.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--views--publications.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--views--social-media-content.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--views--time-line-intervention.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--content--timeline-interventions.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph-annonce-contact.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph-paragraphs-item-textes-icons.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph-paragraphs-item-video-docs.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraphs-contact-form.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--offres-commerciales.css":1,"sites\/all\/themes\/bdf\/css\/bdf-components--paragraph--news-image.css":1,"sites\/all\/themes\/bdf\/css\/theme--multisites.css":1,"sites\/all\/themes\/bdf\/css\/colors.css":1,"sites\/all\/themes\/bdf\/css\/print.css":1,"sites\/all\/themes\/bdf_ngfs\/css\/styles.css":1,"sites\/all\/themes\/bdf_ngfs\/css\/bdf-ngfs-styles.css":1},"js":{"sites\/all\/modules\/custom\/bdf_marquage\/assets\/smarttag_prod.js":1,"sites\/all\/modules\/contrib\/collapsiblock\/collapsiblock.js":1,"public:\/\/languages\/en-GB_FsvX1q4CZtmNhEnyV5anxVIkmjDW8Nh8YcAs_spyUy4.js":1,"sites\/all\/modules\/custom\/bdf_custom\/js\/bdf_ap.js":1,"sites\/all\/modules\/custom\/bdf_elasticsearch_connector_integration\/assets\/bdf_elasticsearch_connector_integration.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/jquery-validate\/jquery.validate.min.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/contrib\/search_api_autocomplete\/search_api_autocomplete.js":1,"misc\/progress.js":1,"sites\/all\/libraries\/highcharts\/highcharts.js":1,"sites\/all\/libraries\/highcharts\/highcharts-more.js":1,"sites\/all\/libraries\/highcharts\/stock.js":1,"sites\/all\/libraries\/highcharts\/exporting.js":1,"sites\/all\/libraries\/highcharts\/map.js":1,"sites\/all\/modules\/custom\/bdf_custom\/js\/bdf-custom.dialog.js":1,"sites\/all\/modules\/custom\/bdf_marquage\/assets\/bdf_marquage.js":1,"sites\/all\/themes\/bdf\/js\/slick\/slick.min.js":1,"sites\/all\/themes\/bdf\/js\/jquery.slicknav.js":1,"sites\/all\/themes\/bdf\/js\/stacktable\/stacktable.min.js":1,"sites\/all\/themes\/bdf\/js\/perfect-scrollbar\/js\/perfect-scrollbar.jquery.min.js":1,"sites\/all\/themes\/bdf\/mobile\/js\/classie.js":1,"sites\/all\/themes\/bdf\/mobile\/js\/mlpushmenu-custom.js":1,"sites\/all\/themes\/bdf\/js\/bdf-main.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.ie8.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation_html5\/clientside_validation_html5.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.js":1,"sites\/all\/themes\/bdf\/js\/cookies_management.js":1,"https:\/\/cdn.trustcommander.net\/privacy\/5322\/privacy_v2_14.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/dialog\/misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/themes\/bdf\/mobile\/js\/modernizr.custom.js":1}},"currentUser":0,"collapsiblock":{"blocks":{"block-views-blog-archives-block":"3","block-views-blog-most-read-block":"2","block-views-blog-most-recent-block":"2","block-views-blog-mots-clefs-block":"2","block-block-1":"2","block-block-3":"2","block-block-2":"2","block-block-4":"2","block-block-5":"2","block-block-6":"1","block-bdf-blog-module-bdf-blog-about-block":"2","block-bdf-blog-module-bdf-blog-comment-guideline-block":"3","block-bdf-blog-module-bdf-blog-policy-block":"3","block-bdf-blog-module-bdf-blog-follow-block":"2","block-bdf-blog-module-bdf-blog-logo-block":"2","block-bdf-blog-module-bdf-blog-useful-links-block":"3","block-bdf-blog-module-bdf-blog-competition-block":"1"},"default_state":1,"slide_type":1,"slide_speed":200,"block_title":":header:first","block":"div.block","block_content":"div.content"},"search_api_autocomplete":{"search_api_views_search_loupe":{"delay":100,"custom_path":true}},"urlIsAjaxTrusted":{"\/en":true},"better_exposed_filters":{"views":{"search_loupe":{"displays":{"block_1":{"filters":{"term":{"required":false}}}}}}},"bdf_marquage_nojson":{"page":{"name":"ngfsclimatescenarios","level2":"206"},"customVars":{"site":{"1":"0","2":"[en-gb]"}},"identifiedVisitor":{"id":"0"},"site_id":"206","site_name":"ngfs","pageinfo":"other"},"clientsideValidation":{"forms":{"views-exposed-form-search-loupe-block-1":{"errorPlacement":"5","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":1,"scrollSpeed":"1000","disableHtml5Validation":"1","validateOnBlur":"1","validateOnBlurAlways":"0","validateOnKeyUp":"1","validateBeforeAjax":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"span"},"rules":{"term":{"maxlength":128,"messages":{"maxlength":" field has to have maximum 128 values."}}}}},"general":{"usexregxp":0,"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}},"groups":{"views-exposed-form-search-loupe-block-1":{}}}});
+//--><!]]>
+</script>
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-294092 node-type-page-froide i18n-en-GB bdf-ngfs page-bdf" >
+    <!-- Push Wrapper -->
+<div class="mp-pusher" id="mp-pusher">
+
+        <div id="block-bdf-menu-menu-mobile" class="block block-bdf-menu">
+
+      
+  <div class="content">
+    <nav id="mp-menu" class="mp-menu">
+      <div class="mp-level"><ul><li class="main-nav-item"><a href="https://www.ngfs.net/en" class="icon">About us<i class="icon-Arrow-Right"></i></a><div class="mp-level"><a class="mp-back" href="#"><i class="icon-Arrow-Left"></i>About us</a><ul class="sous-li"><li class="main-nav-item"><a href="https://www.ngfs.net/en/page-sommaire/governance" class="icon">Governance<i class="icon-Arrow-Right"></i></a><div class="mp-level"><a class="mp-back" href="#"><i class="icon-Arrow-Left"></i>Governance</a><ul class="sous-li"><li class="main-nav-item"><a href="https://www.ngfs.net/en/about-us/governance/origin-and-purpose" class="icon">Origin and Purpose</a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/about-us/governance/general-information" class="icon">General information</a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/about-us/governance/workstream-microprudential-and-supervision" class="icon">Workstream “Microprudential / Supervision”</a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/about-us/governance/workstream-macrofinancial" class="icon">Workstream “Macrofinancial”</a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/about-us/governance/workstream-scaling-green-finance" class="icon">Workstream “Scaling up green finance”</a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/about-us/governance/workstream-research" class="icon">Workstream on research</a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/about-us/governance/workstream-bridging-data-gaps" class="icon">Workstream on bridging the data gaps</a></li></ul></div></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/about-us/membership" class="icon">Membership</a></li></ul></div></li><li class="main-nav-item"><a href="https://www.ngfs.net/en" class="icon">Publications<i class="icon-Arrow-Right"></i></a><div class="mp-level"><a class="mp-back" href="#"><i class="icon-Arrow-Left"></i>Publications</a><ul class="sous-li"><li class="main-nav-item"><a href="https://www.ngfs.net/en/liste-chronologique/ngfs-publications" class="icon">NGFS publications</a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/liste-chronologique/ngfs-occasional-papers" class="icon">NGFS Occasional Papers</a></li><li class="main-nav-item"><a href="https://www.ngfs.net/ngfs-scenarios-portal/" class="icon" target="_blank">NGFS Climate Scenarios<i class="icon-Link"></i></a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/liste-chronologique/conversation" class="icon">In conversation with</a></li></ul></div></li><li class="main-nav-item"><a href="https://www.ngfs.net/en" class="icon">Press & Events<i class="icon-Arrow-Right"></i></a><div class="mp-level"><a class="mp-back" href="#"><i class="icon-Arrow-Left"></i>Press & Events</a><ul class="sous-li"><li class="main-nav-item"><a href="https://www.ngfs.net/en/news/communique-de-presse" class="icon" target="_blank">Press release<i class="icon-Link"></i></a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/news/news" class="icon" target="_blank">News<i class="icon-Link"></i></a></li></ul></div></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/page-videos-et-jeux/video-gallery" class="icon">Video gallery</a></li><li class="main-nav-item"><a href="https://www.ngfs.net/en/search-es" class="icon loupe_recherche">Search</a></li><li class="metanav border-color-bdf_main"><span><a href="https://www.banque-france.fr/en" target="_blank">Banque de France<i class="icon-Link"></i></a></span></li><li class="metanav border-color-bdf_publications"><span><a href="https://publications.banque-france.fr/en" target="_blank">Publications<i class="icon-Link"></i></a></span></li><li class="metanav border-color-bdf_abc"><span><a href="https://abc-economie.banque-france.fr/en" target="_blank">ABC de l'économie<i class="icon-Link"></i></a></span></li><li class="metanav "><span><a href="https://blocnotesdeleco.banque-france.fr/en" target="_blank">Blog<i class="icon-Link"></i></a></span></li><li class="social-menu hide_separator"><div id="block-locale-language" class="block block-locale">
+
+    <h2>Languages</h2>
+  
+  <div class="content">
+    <ul class="language-switcher-locale-url"><li class="fr first"><a href="/node/294092" class="language-link bt-rayen link" xml:lang="fr" hreflang="fr" data-text="FR" title="FR" alt="FR"><span>fr</span></a></li>
+<li class="en-GB last active"><a href="/en/publications/ngfs-climate-scenarios" class="language-link bt-rayen link active" xml:lang="en-GB" hreflang="en-GB" data-text="EN" title="EN" alt="EN"><span>en</span></a></li>
+</ul>  </div>
+</div>
+</li></ul></div>    </nav>
+  </div>
+</div>
+  
+  <div id="scroller" class="scroller">
+    <!-- position fixed of the nav -->
+    <div class="scroller-inner">
+      <div class="content clearfix">
+
+        <div class="block-icons">
+          <div class="burger" id="burger"><a id="trigger" href="#"><i
+                class="icon-Burger"></i></a></div>
+          <a id="search-mobile" href="#"><i class="icon-Search"></i></a>
+        </div>
+
+        <div class="pg-index" id="content">
+          
+          
+          <!-- Header -->
+          <header>
+            <div class="container clearfix">
+            <div class="site-logo">
+                 <a href="https://www.ngfs.net/en" class="logo-link" rel="home"><img class="logo-image" src="https://www.ngfs.net/sites/all/themes/bdf_ngfs/img/logo.svg" alt="" /><span class="logo-site-name">NGFS</span></a>            </div>
+            <div class="block-site-title"></div>
+              
+              
+
+            </div>
+          </header>
+          <!-- /#header -->
+
+
+                      <!-- Main nav -->
+            <nav id="navigation">
+                <div id="menu" class="block block-menu main-menu-type--megamenu">
+
+    <h2 class="visually-hidden">BDF NGFS: Main menu EN</h2>
+  
+  <div class="container ct-menu">
+    <ul class="menu"><li class="li-0"><a href="/en" title="Retour à la page d&#039;accueil" alt="Vous permet de revenir sur la page d&#039;accueil" class="logo-fixed icon-Logo-Variante"><span class="menu-link-text">Home</span></a></li><li class="first expanded megamenu-container"><a href="/en"><span class="menu-link-text">About us</span></a><div class="megamenu-item"><div class="container clearfix"><div class="megamenu-left"><h3>About us</h3><div class="megamenu-image"><img typeof="foaf:Image" src="https://www.ngfs.net//sites/default/files/styles/megamenu_thumbnail/public/menuimage/ngfs_-_about_us.jpg?itok=rwhMBMCM" alt="" /></div></div><div class="megamenu-nav"><div
+        class="ul-separator-bloc-container"><ul class="menu"><li class="first collapsed"><a href="/en/page-sommaire/governance"><span class="menu-link-text">Governance</span><span class="picto"></span></a></li>
+      
+<li class="last leaf"><a href="/en/about-us/membership"><span class="menu-link-text">Membership</span><span class="picto"></span></a></li>
+      
+</ul></div></div></div></div></li>
+      
+<li class="expanded megamenu-container"><a href="/en"><span class="menu-link-text">Publications</span></a><div class="megamenu-item"><div class="container clearfix"><div class="megamenu-left"><h3>Publications</h3><div class="megamenu-image"><img typeof="foaf:Image" src="https://www.ngfs.net//sites/default/files/styles/megamenu_thumbnail/public/menuimage/ngfs_-_publications_1.jpg?itok=sd9r6O6P" alt="" /></div></div><div class="megamenu-nav"><div
+        class="ul-separator-bloc-container"><ul class="menu"><li class="first leaf"><a href="/en/liste-chronologique/ngfs-publications"><span class="menu-link-text">NGFS publications</span><span class="picto"></span></a></li>
+      
+<li class="leaf"><a href="/en/liste-chronologique/ngfs-occasional-papers"><span class="menu-link-text">NGFS Occasional Papers</span><span class="picto"></span></a></li>
+      
+<li class="leaf"><a href="https://www.ngfs.net/ngfs-scenarios-portal/"><span class="menu-link-text">NGFS Climate Scenarios</span><span class="picto"></span></a></li>
+      
+<li class="last leaf"><a href="/en/liste-chronologique/conversation"><span class="menu-link-text">In conversation with</span><span class="picto"></span></a></li>
+      
+</ul></div></div></div></div></li>
+      
+<li class="expanded megamenu-container"><a href="/en"><span class="menu-link-text">Press & Events</span></a><div class="megamenu-item"><div class="container clearfix"><div class="megamenu-left"><h3>Press &amp; Events</h3><div class="megamenu-image"><img typeof="foaf:Image" src="https://www.ngfs.net//sites/default/files/styles/megamenu_thumbnail/public/menuimage/ngfs_-_press_and_events.jpg?itok=OvATZCEX" alt="" /></div></div><div class="megamenu-nav"><div
+        class="ul-separator-bloc-container"><ul class="menu"><li class="first leaf"><a href="https://www.ngfs.net/en/news/news"><span class="menu-link-text">News</span><span class="picto"></span></a></li>
+      
+<li class="last leaf"><a href="https://www.ngfs.net/en/news/communique-de-presse"><span class="menu-link-text">Press release</span><span class="picto"></span></a></li>
+      
+</ul></div></div></div></div></li>
+      
+<li class="leaf megamenu-container"><a href="/en/page-videos-et-jeux/video-gallery" class="loupe-menu-bdf-esurfi-assurance-mp loupe-direct"><span class="menu-link-text">Video gallery</span></a></li>
+      
+<li class="last leaf megamenu-container"><div class="obf" baseurl="bG91cGVfbWVudS1iZGYtbmdmcy1tYWluLW1lbnUtZW4="  class="last leaf megamenu-container">
+              <span  class="loupe_recherche loupe-menu-bdf-ngfs-main-menu-en icon-Search" title="Search" alt="Vous permet de réaliser une recherche"><span class="menu-link-text">Loupe</span>
+              </span>
+            </div></li>
+      
+</ul>  </div>
+</div>
+<div id="block-views-search-loupe-block-1" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-search-loupe view-id-search_loupe view-display-id-block_1 view-dom-id-139f44f1ef766d34b26b4df4083c9198">
+        
+
+  
+          <div class="view-filters container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+             
+
+            <form action="/en" method="get" id="views-exposed-form-search-loupe-block-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-term-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-term">
+            Search          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-term">
+  <input placeholder="Search" class="auto_submit form-text form-autocomplete" data-search-api-autocomplete-search="search_api_views_search_loupe" data-min-autocomplete-length="3" type="text" id="edit-term" name="term" value="" size="60" maxlength="128" /><input type="hidden" id="edit-term-autocomplete" value="https://www.ngfs.net/en/bdf_es_autocomplete?machine_name=search_api_views_search_loupe" disabled="disabled" class="autocomplete" />
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>
+            <span class="after-exposed-cross">x</span>          </div>
+        </div>
+      </div>
+    
+
+  
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+            </nav>
+            <!-- /#nav -->
+          
+          <div class="clearfix"></div>
+
+                      <div class="bg-top">
+             <img title="image de fond" alt="image d'arrière plan" src="https://www.ngfs.net/sites/all/themes/bdf/img/bg-ngfs.png"/>
+            </div>
+          
+
+          
+          <!-- MIDDLE -->
+          <main role="main" id="middle" >
+
+            
+            
+            
+                          <div class="container pos-relative">
+                <div class="row">
+                            <div class="clearfix section first-content">
+
+                  
+                  <!-- SIDEBAR -->
+                  
+                  <!-- CONTENT -->
+                                      <div id="content-region"
+                         class="ct-middle col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                      <div class="ct-section">
+
+                        <div class="content-wizi">
+                                                                                <h1 class="titre">
+                                                                                            NGFS CLIMATE SCENARIOS                                                                                        </h1>
+                                                                                <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+<div id="node-294092"
+     class="node node-page-froide clearfix" about="/en/publications/ngfs-climate-scenarios" typeof="sioc:Item foaf:Document">
+
+      <span property="dc:title" content="NGFS CLIMATE SCENARIOS" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  <div class="node-content">
+        <div class="item-list"><h3>Share links</h3><ul class="bdf-share-links clearfix"><li class="bdf-share-links-wrapper--print first"><a href="javascript:window.print()" class="bdf-share-link bdf-share-link--print icon-Print" alt="Print" title="Print"><span class="sr-only">Print</span></a></li>
+<li class="bdf-share-links-wrapper--email"><a href="mailto:?subject=NGFS%20-%20NGFS%20CLIMATE%20SCENARIOS&amp;body=Hello%2C%20The%20following%20link%20will%20take%20you%20to%20resource%20that%20may%20be%20of%20interest%20to%20you%3A%20https%3A//www.ngfs.net/en/publications/ngfs-climate-scenarios" class="bdf-share-link bdf-share-link--email icon-Mail" alt="Send by email" title="Email"><span class="sr-only">Send by email</span></a></li>
+<li class="bdf-share-links-wrapper--share last"><a href="#" class="bdf-share-link bdf-share-link--share icon-Share"><span>Share</span></a><div class="item-list"><ul class="bdf-share-links-wrapper--share"><li class="bdf-share-links-wrapper--facebook first"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.ngfs.net/en/publications/ngfs-climate-scenarios" class="bdf-share-link bdf-share-link--facebook icon-Facebook" alt="Share on Facebook" title="Facebook" target="_blank"><span class="sr-only">Facebook</span></a></li>
+<li class="bdf-share-links-wrapper--twitter"><a href="https://twitter.com/intent/tweet?text=NGFS%20CLIMATE%20SCENARIOS&amp;url=https%3A//www.ngfs.net/en/publications/ngfs-climate-scenarios" class="bdf-share-link bdf-share-link--twitter icon-Twitter" alt="Share on Twitter" title="Twitter" target="_blank"><span class="sr-only">Twitter</span></a></li>
+<li class="bdf-share-links-wrapper--linkedin last"><a href="https://www.linkedin.com/shareArticle?title=NGFS%20CLIMATE%20SCENARIOS&amp;url=https%3A//www.ngfs.net/en/publications/ngfs-climate-scenarios" class="bdf-share-link bdf-share-link--linkedin icon-Linkedin" alt="Share on LinkedIn" title="LinkedIn" target="_blank"><span class="sr-only">LinkedIn</span></a></li>
+</ul></div></li>
+</ul></div>      
+    
+        
+            
+<div class="paragraphs-items paragraphs-items-field-publication-body paragraphs-items-field-publication-body-full paragraphs-items-full">
+  <div class="entity entity-paragraphs-item paragraphs-item-body" about="" typeof="" id="paragraphs-item--304657">
+  <div class="field field-name-field-parag-body field-type-text-long field-label-hidden"><div class="field-item even rich-text"><p style="color:red;"><b>Dear Reader, please note that the NGFS Climate Scenarios have been updated. The up to date version can be explored via the <a href="https://www.ngfs.net/ngfs-scenarios-portal/">NGFS Portal</a> or the <a href="https://www.ngfs.net/sites/default/files/medias/documents/ngfs_climate_scenarios_phase2_june2021.pdf">Presentation</a>. </b></p><p>The NGFS scenarios explore the transition and physical impacts of climate change under varying assumptions, with the aim of providing a common reference framework for central banks and supervisors.&nbsp;</p><p>The NGFS climate scenarios were selected in partnership with an academic consortium including the Potsdam Institute for Climate Impact Research (PIK), the International Institute for Applied Systems Analysis (IIASA), the Center for Global Sustainability at the University of Maryland (UMD) and Climate Analytics (CA).</p><p>This first iteration of the scenarios explores a set of 8 types of scenarios, which are consistent with the NGFS framework published in the First NGFS Comprehensive Report in April 2019. While developed primarily for use by central banks and supervisors, they may also be useful to broader financial, academic and corporate communities.</p><p><strong>NGFS Scenarios and Scenario Analysis:</strong></p><ul><li>For a high-level description of the NGFS scenarios, please consult the<a href="/sites/default/files/medias/documents/820184_ngfs_scenarios_final_version_v6.pdf"> </a><strong><a href="/sites/default/files/medias/documents/820184_ngfs_scenarios_final_version_v6.pdf"><em>NGFS climate scenarios for central banks and supervisors</em></a></strong>.</li><li>For a broad overview on how to perform scenario analysis for financial purposes, please refer to the <strong><a href="/sites/default/files/medias/documents/ngfs_guide_scenario_analysis_final.pdf" target="_blank"><em>NGFS</em> <em>Guide to climate scenario analysis for central banks and supervisors</em></a></strong>.</li></ul><p><strong>Databases and Technical documentation relating to the NGFS Scenarios.</strong></p><p>The NGFS provides public access to the data underlying the NGFS Scenarios:</p><ul><li>The transition scenarios selected for the NGFS are available in the <a href="https://data.ene.iiasa.ac.at/ngfs/">NGFS Scenario Explorer</a>, hosted by IIASA. The Scenario Explorer is a web-based user interface, which provides intuitive visualisations and display of time series data. The scenario data is available for download as xlsx or csv files via the Scenario Explorer. Alternatively, the data can be accessed via a RestAPI or the <a href="https://pyam-iamc.readthedocs.io/en/stable/">open-source Python package pyam</a>. More information is available at <a href="https://data.ene.iiasa.ac.at/ngfs/#/extra/API">https://data.ene.iiasa.ac.at/ngfs/#/extra/API</a></li><li>The physical impact data collected by the Inter-Sectoral Impact Model Intercomparison Project (ISIMIP) are directly downloadable <a href="https://www.isimip.org/outputdata/isimip-data-on-the-esgf-server/">here</a>. To download larger quantity of datasets at the same time or to further process them with python, a separate readme on the installation steps and tutorial (jupyter notebook) can be found at the <a href="https://gitlab.com/climateanalytics/ngfs/-/tree/ISIMIP">Climate Analytics gitlab</a>.</li></ul><p>Additionally, <a href="/sites/default/files/ngfs_climate_scenario_technical_documentation_final.pdf" target="_blank">technical documentation</a>&nbsp;have been prepared to help users access the datasets. It describes the models and variables, as well as provides detailed guidance for database users.</p></div></div></div>
+</div>
+
+<div
+  class="field field-name-field-exclude-dom-tom-map field-type-list-boolean field-label-hidden">
+<div
+  class="field-item even  "></div></div>  </div>
+    <div class="date-dl">
+    <p>Updated on: 06/28/2021 10:22 </p>
+  </div>
+  </div>
+  </div>
+</div>
+                        </div>
+                      </div>
+                    </div>
+                                  </div>
+                            </div>
+              </div>
+                      </main><!-- /#middle -->
+
+          <!-- FOOTER -->
+          <footer>
+            <div class="container clearfix">
+              <div class="row">
+                
+                                  <div id="footer-region" class="footer-region clearfix">
+                      <div id="block-bdf-custom-bloc-footer-logo-current-site"
+     class="block block-bdf-custom block-bdf-custom-logo">
+  <a href="https://www.ngfs.net/en" class="logo-link" rel="home"><img class="logo-image" src="/sites/all/themes/bdf_ngfs/logo.svg" alt="" /></a></div><div id="block-menu-menu-bdf-ngfs-service-menu-en" class="block block-menu service-menu count-2">
+
+    <h2 class="visually-hidden">BDF NGFS: Service Menu En</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/en/how-contact-us-0" title="Details" class="icon-Contact internal-link"><span class="menu-link-text">How to contact us</span> <span class="service-menu-subtitle">Details&nbsp;<i
+      class="icon-Arrow-Circle"></i></span></a></li>
+      
+<li class="last leaf"><a href="https://www.ngfs.net/en/notification/subscriptions-management-request?destination=notification/subscriptions-management-request" title="Create &amp; Manage my alerts" class="icon-Abonnement internal-link" target="_blank"><span class="menu-link-text">Subscription</span> <span class="service-menu-subtitle">Create & Manage my alerts&nbsp;<i
+      class="icon-Arrow-Circle"></i></span></a></li>
+      
+</ul>  </div>
+</div>
+                  </div>
+                              </div>
+            </div>
+                          <div id="footer-bottom-region"
+                   class="footer-bottom-region clearfix">
+                <div class="container clearfix">
+                  <div class="row">
+                    <div class="footer-bottom-wrapper col-xs-12">
+                        <div id="block-bdf-custom-copyright" class="block block-bdf-custom block-bdf-custom-copyright">
+
+    
+  <div class="content">
+    &copy; NGFS  </div>
+</div>
+<div id="block-menu-menu-bdf-ngfs-informations-en" class="block block-menu block-menu-informations">
+
+    <h2 class="visually-hidden">BDF NGFS: Informations EN</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/en/site-map"><span class="menu-link-text">Website plan</span></a></li>
+      
+<li class="leaf"><a href="/en/help-ngfs"><span class="menu-link-text">Help</span></a></li>
+      
+<li class="leaf"><a href="/en/accessibility-ngfs"><span class="menu-link-text">Accessibilty</span></a></li>
+      
+<li class="leaf"><a href="/en/legal-information"><span class="menu-link-text">Legal information</span></a></li>
+      
+<li class="last leaf"><a href="/en" class="privacy-center"><span class="menu-link-text">Privacy center</span></a></li>
+      
+</ul>  </div>
+</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                      </footer>
+          <!-- /#footer -->
+
+          <a class="btn-top" style="display: none;" href="#scroller"
+             title="Top of page">Top of page</a>
+        </div><!-- /#content -->
+      </div><!-- /.content -->
+    </div><!-- /.scroller-inner -->
+  </div><!-- /#scroller -->
+</div><!-- /#mp-pusher -->
+
+  <script type="text/javascript" src="/sites/default/files/advagg_js/js__tqFq3aahBeYa4fEIp3n9-FeIEPfEKjnc-5lIoSGhA4M__UzJsiuchYl1bx_siHV5Um-F8OsKeGzsbhhykH_h7l3g__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__6gxA7PkTgkNd7FHwjU9IKpPGzC9-lgfCRWaK1-QbYHY__Wut5UVRuaTS9qusPEpFWv4Put5XjRNJ9dKgxQjja41Q__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__uEztGhQweSlIqtgJiMMRrlkhXEq7uVNYyDq1JeT7k58__zIBrDqxd5AUTXXwuSlrkXgC8bm5XhVkbIDoom7mVOHo__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery('#footer-region').append('<div class="vendor-js-wrapper" data-src="" data-cookie-vendor-id="11" data-content="KGZ1bmN0aW9uKGgsbyx0LGosYSxyKXsKICBoLmhqPWguaGp8fGZ1bmN0aW9uKCl7KGguaGoucT1oLmhqLnF8fFtdKS5wdXNoKGFyZ3VtZW50cyl9OwogIGguX2hqU2V0dGluZ3M9e2hqaWQ6IjI0MDYzMzIiLGhqc3Y6IjYifTsKICBhPW8uZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXTsKICByPW8uY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7ci5hc3luYz0xOwogIHIuc3JjPXQraC5faGpTZXR0aW5ncy5oamlkK2oraC5faGpTZXR0aW5ncy5oanN2OwogIGEuYXBwZW5kQ2hpbGQocik7Cn0pKHdpbmRvdyxkb2N1bWVudCwnLy9zdGF0aWMuaG90amFyLmNvbS9jL2hvdGphci0nLCcuanM/c3Y9Jyk7"></div>')
+//--><!]]>
+</script>
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__1VBur8bYdWHVpcwScveuM1jDl-jDHvBel_j3erNZDNo__YOa1OrQoaqmsMfFOQhKRAmTpNznD8eWXsIx7Y85yBtE__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__HokXHsOSl9Oa06BzWCFEnKG7Bh6ednXfuXWmoqd_egU__TODdX86hntj83gelHfQ10vV7u5TYYs6jf0uohDkH8ZE__HFtN-k5AuVgz5nBODb_j4Ka9J2tDApZW0oby3G_asy4.js"></script>
+</body>
+</html>

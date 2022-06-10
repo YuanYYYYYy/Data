@@ -1,0 +1,1261 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    
+    
+    <script>
+        function getCookie(name) {
+            var value = "; " + document.cookie;
+            var parts = value.split("; " + name + "=");
+            if (parts.length == 2) return parts.pop().split(";").shift();
+        }
+
+        var items = 'Home,News,InsightsCovid19AndTheRiseOfTheContactlessConsumer'.split(',');
+        var pageDepth = items.length;
+        var ccpCookie = getCookie('CCP');
+        var ccpCookieValues = {cat2:'off',cat3:'off',cat4:'off'};
+        var newReturning = 'undefined' !== typeof getCookie('CCP_OTM') ? "returning" : "new";
+        var categoryTags = 'Growth,COVID'.split(',');
+        var categoryTagIds = 'home\u002Dbarclays:News\u002Darticles\/News\/Growth,home\u002Dbarclays:News\u002Darticles\/topics\/covid'.split(',');
+
+        if ('undefined' !== typeof ccpCookie) {
+            var decodedCcpCookieValues = JSON.parse(decodeURIComponent(getCookie('CCP')));
+            if ('undefined' !== typeof decodedCcpCookieValues.publicuser){
+                ccpCookieValues = decodedCcpCookieValues.publicuser
+            }
+        }
+
+        var digitalData = {
+            page: {
+                pageInfo: {
+                    pageName: items.join(':'),
+                    cmsPageName: 'Insights\u002D\u002DCOVID\u002D19\u002Dand\u002Dthe\u002Drise\u002Dof\u002Dthe\u002Dcontactless\u002Dconsumer',
+                    cmsPath: '\/content\/home\u002Dbarclays\/en\/home\/news\/2021\/02\/Insights\u002D\u002DCOVID\u002D19\u002Dand\u002Dthe\u002Drise\u002Dof\u002Dthe\u002Dcontactless\u002Dconsumer',
+                    level1: items[0],
+                    level2: pageDepth > 1 ? items[1] : '',
+                    level3: pageDepth > 2 ? items[2] : '',
+                    level4: pageDepth > 3 ? items[3] : '',
+                    urlProtocol: document.location.protocol,
+                    urlHost: document.location.hostname,
+                    urlPath: document.location.pathname,
+                    urlQueryString: document.location.search,
+                    urlHash: document.location.hash,
+                    urlContent: "",
+                    templateId: "\/apps\/homebarclays\/templates\/tier_3_article",
+                    pageId:  "",
+                    breadcrumb: items.join('>'),
+                    accessibility: "",
+                    segment: items[0],
+                    pageVersion: "",
+                    impressions: "",
+                    buildVersion: "",
+                    applicationId: "",
+                    applicationType: "",
+
+                    // W3C Data Layer recommendation
+                    timeStamp: new Date(),
+                    destinationURL: document.location,
+                    referringURL: document.referrer,
+                    breadCrumbs: items,
+                    categoryTags:{
+                        tags: categoryTags,
+                        tagIds: categoryTagIds
+                    }
+                },
+                searchInfo: {},
+                linkInfo: {
+                    dl_category: ""
+                }
+            },
+            user: {
+                ccp: {
+                    cat2: ccpCookieValues.cat2,
+                    cat3: ccpCookieValues.cat3,
+                    cat4: ccpCookieValues.cat4
+                },
+                newReturning: newReturning,
+                external: ""
+            },
+            events: []
+        };
+    </script>
+
+    <meta charset="utf-8"/>
+<meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<title>Consumer spending trends and COVID-19 | Growth | Barclays</title>
+<meta property="og:title" content="Consumer spending trends and COVID-19 | Growth | Barclays"/>
+<meta name="twitter:title" content="Consumer spending trends and COVID-19 | Growth | Barclays"/>
+
+<meta name="description" content="Ashok Vaswani, Chief Executive Officer of Consumer Banking and Payments at Barclays, shares insights on how the pandemic has affected how consumers shop."/>
+<meta property="og:description" content="Ashok Vaswani, Chief Executive Officer of Consumer Banking and Payments at Barclays, shares insights on how the pandemic has affected how consumers shop."/>
+<meta name="twitter:description" content="Ashok Vaswani, Chief Executive Officer of Consumer Banking and Payments at Barclays, shares insights on how the pandemic has affected how consumers shop."/>
+
+<meta property="og:type" content="article"/>
+<meta name="twitter:card" content="summary"/>
+
+<meta property="og:locale" content="en_GB"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<meta name="keywords" content="contactless payment, consumer spending"/>
+
+<meta name="robots" content="index,follow"/>
+
+
+    <link rel="canonical" href="https://home.barclays/news/2021/02/Insights--COVID-19-and-the-rise-of-the-contactless-consumer/"/>
+    <meta property="og:url" content="https://home.barclays/news/2021/02/Insights--COVID-19-and-the-rise-of-the-contactless-consumer/"/>
+    <meta name="twitter:url" content="https://home.barclays/news/2021/02/Insights--COVID-19-and-the-rise-of-the-contactless-consumer/"/>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/content/dam/icons/favicons/barclays/favicon.ico"/>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/content/dam/icons/favicons/barclays/apple-touch-icon-180x180.png"/>
+<link rel="apple-touch-icon" sizes="167x167" href="/content/dam/icons/favicons/barclays/apple-touch-icon-167x167.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/content/dam/icons/favicons/barclays/apple-touch-icon-152x152.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/content/dam/icons/favicons/barclays/apple-touch-icon-120x120.png"/>
+
+
+
+    
+    
+        
+            <meta property="og:image" content="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-3_1 copy.large.medium_quality.jpg"/>
+            <meta name="twitter:image" content="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-3_1 copy.large.medium_quality.jpg"/>
+        
+    
+
+    
+        <link rel="preload" href="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-16_9%20copy.xxsmall.medium_quality.jpg" as="image" media="(max-width: 479px)"/>
+        <link rel="preload" href="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-16_9%20copy.xsmall.medium_quality.jpg" as="image" media="(min-width: 480px) and (max-width: 767px)"/>
+        <link rel="preload" href="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-3_1%20copy.small.medium_quality.jpg" as="image" media="(min-width: 768px) and (max-width: 1023px)"/>
+        <link rel="preload" href="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-3_1%20copy.large.medium_quality.jpg" as="image" media="(min-width: 1024px) and (max-width: 1439px)"/>
+        <link rel="preload" href="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-3_1%20copy.large.medium_quality.jpg" as="image" media="(min-width: 1440px)"/>
+    
+    
+
+
+
+<link rel="preload" href="/etc/designs/assetsBundle/clientlib/resources/fonts/expert-sans-b14.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/etc/designs/assetsBundle/clientlib/resources/fonts/expert-sans-regular.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/etc/designs/assetsBundle/clientlib/resources/fonts/expert-sans-light.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/etc/designs/assetsBundle/clientlib/resources/fonts/barclays-icons-new.woff" as="font" type="font/woff" crossorigin/>
+
+
+<link rel="preconnect" href="//smetrics.barclays.co.uk" crossorigin/>
+
+
+
+
+<script src="/etc/designs/componentlibrary/commonlibs/js/libs/modernizr.min.js"></script>
+
+    
+    
+
+
+
+    <script type="text/javascript">
+            (function() {
+                window.ContextHub = window.ContextHub || {};
+
+                /* setting paths */
+                ContextHub.Paths = ContextHub.Paths || {};
+                ContextHub.Paths.CONTEXTHUB_PATH = "/etc/cloudsettings/default/contexthub";
+                ContextHub.Paths.RESOURCE_PATH = "\/content\/home\u002Dbarclays\/en\/home\/news\/2021\/02\/Insights\u002D\u002DCOVID\u002D19\u002Dand\u002Dthe\u002Drise\u002Dof\u002Dthe\u002Dcontactless\u002Dconsumer\/_jcr_content\/contexthub";
+                ContextHub.Paths.SEGMENTATION_PATH = "\/etc\/segmentation\/contexthub";
+                ContextHub.Paths.CQ_CONTEXT_PATH = "";
+
+                /* setting initial constants */
+                ContextHub.Constants = ContextHub.Constants || {};
+                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/m/mT4Y971Fb3AWuvKRF-X6";
+                ContextHub.Constants.MODE = "no-ui";
+            }());
+        </script><script src="/etc/cloudsettings/default/contexthub.kernel.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+            
+                <script src="//assets.adobedtm.com/launch-EN0720aabc15584d0c850c8dc66bf8b936.min.js" async></script>
+            
+        
+        
+        
+    
+
+
+
+
+
+
+
+
+
+<!-- TEST : theme.barclays -->
+
+
+    
+    
+<link rel="stylesheet" href="/etc/designs/bdl1.7.4/clientlib.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/componentlibrary/clientlib.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/componentlibrary/commonlibs.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/componentlibrary/theme.barclays/clientlib.css" type="text/css">
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+<!-- this is the page sub header libs -->
+
+
+    
+<script src="/etc/designs/componentlibrary/jquery/clientlib.js"></script>
+
+
+
+
+
+<script>
+    window.$CQ = jQuery;
+</script>
+
+<script src="/etc/designs/componentlibrary/commonlibs/js/libs/cookiepolicy.js"></script>
+
+
+
+
+    
+
+
+	
+		
+	    	
+				<meta name="google-site-verification" content="ShuSiJ2JUCwj-7j84buD8-ppH-A6SGxGNU8U-vfUCq8"/>
+			
+		
+	    	
+				<meta name="msvalidate.01" content="98A13871C70E93EB57C5F15D7A25A243"/>
+			
+		
+	
+
+
+
+
+
+
+
+
+</head>
+<body data-runmode-publish="true" data-template="/apps/homebarclays/templates/tier_3_article" class="segment-visible desktop skiplinks-hidden">
+
+
+
+
+
+
+
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="custom_tags_head_sitewide iparsys parsys"><div class="custom_tag parbase section">
+
+
+   	
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+   
+    
+    
+
+
+
+
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="navigation iparsys parsys"><div class="teaser section">
+
+	
+    
+
+	<div class="js-teaser" data-contexthub="false" data-default-experience="/content/home-barclays/en/common/navigation/default_navigation/jcr:content/header" data-experiences="[{&#34;segmentName&#34;:&#34;Home&#34;,&#34;experience&#34;:&#34;/content/home-barclays/en/common/navigation/Test/jcr:content/header&#34;}]">
+		
+		<noscript>
+			
+
+	
+    
+
+	
+
+		</noscript>
+	</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="cookies iparsys parsys"><div class="pecr-banner parbase section">
+   
+    <aem-pecr-banner header-text="Updated cookie policy" body-text="Barclays uses cookies on this website. They help us to know a little bit about you and how you use our website, which improves the browsing experience and marketing - both for you and for others. They are stored locally on your computer or mobile device. To accept cookies continue browsing as normal. Or go to the cookies policy for more information and preferences." link-text="Manage cookies" accept-all-button-text="Accept all cookies" days-until-expiry="90" cookie-removal-date="2021-02-28T14:30:00.000+05:30" is-sticky>
+        <div slot="pecr-banner-cookie-policy-acceptance-text">
+            
+    
+    
+
+    <div class="aem-rte ">
+        
+        
+        
+            
+        
+        
+    </div>
+
+
+        </div>
+    </aem-pecr-banner>
+
+</div>
+<div class="pecr-modal-control-panel parbase section">
+    
+
+
+    <aem-pecr-modal-control-panel title="Data preferences" header-text="The types of cookies used on this website fall into one of four categories - Strictly Necessary, Performance, Targeting and Functionality &amp; Profile. You can find out more information in our cookie policy. Please indicate the categories you wish to consent to using the sliders below and then click &#34;Save preferences&#34; to retain your preferences for future visits. You can change these preferences at any time by clicking on the cookie policy link on our website." cookie-policy-link="/cookie-policy.html" cookie-policy-text="Cookie Policy" categories="[{&#34;category&#34;:&#34;cat1&#34;,&#34;title&#34;:&#34;Strictly necessary&#34;,&#34;description&#34;:&#34;Data collected in this category is essential to provide our services to you. The data is necessary for the website to operate and to maintain your security and privacy while using the website. Data is not used for marketing purposes, or for the purposes covered by the other three categories below. These strictly necessary cookies are always on, as without this data, the services you\u0027ve asked for can\u0027t be provided.&#34;,&#34;disabled&#34;:true,&#34;status&#34;:&#34;on&#34;},{&#34;category&#34;:&#34;cat2&#34;,&#34;title&#34;:&#34;Performance&#34;,&#34;description&#34;:&#34;Data collected in this category is used to inform us how the website is used, improve how our website works and to help us to identify issues you may have when using our services. This data is not used to target you with online advertising.&#34;,&#34;disabled&#34;:false,&#34;status&#34;:&#34;off&#34;},{&#34;category&#34;:&#34;cat3&#34;,&#34;title&#34;:&#34;Functionality \u0026 Profile&#34;,&#34;description&#34;:&#34;Data collected in this category enables the website to remember choices you make. This means a more personalised experience for features of the website that can be customised. It may also be used to provide services you\u0027ve asked for, such as watching a video, or commenting on a blog.&#34;,&#34;disabled&#34;:false,&#34;status&#34;:&#34;off&#34;},{&#34;category&#34;:&#34;cat4&#34;,&#34;title&#34;:&#34;Targeting&#34;,&#34;description&#34;:&#34;Data collected in this category is used to help make our messages more relevant to you. The data is shared with other Barclays systems or with third parties, such as advertisers and platforms we may use to deliver personalised advertisements and messages. If you don\u0027t wish to consent to this category, it\u0027s important to note that you may still receive generic advertising or service messages, but they will be less relevant to you.&#34;,&#34;disabled&#34;:false,&#34;status&#34;:&#34;off&#34;}]" save-button-text="Save" cancel-button-text="Cancel" days-until-expiry="90"></aem-pecr-modal-control-panel>
+
+
+</div>
+</div>
+</div>
+
+
+
+
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="upgrade-browser iparsys parsys"><div class="upgrade-browser parbase section">
+    
+
+    
+    
+    
+    
+    
+
+
+
+    
+
+    
+        <!-- [if lt IE 9]>
+
+        <div class="aem-upgrade-browser" role="alert" data-component-type="UpgradeBrowser">
+            <div class="aem-upgrade-browser__content">
+                
+                <div class="aem-upgrade-browser__body">
+                    
+                    <div class="aem-upgrade-browser__message">
+                        <p>To have the best eperience using our site, please upgrade to one of the latest browsers.</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <![endif] -->
+    
+
+</div>
+</div>
+</div>
+
+
+
+
+<main class="main" role="main" id="main-content">
+
+    <!-- Placeholder <a> tag to ensure main content receives focus with skip link -->
+    <div class="skipwrapper"><a id="skip-nav" name="skip-nav">-</a></div>
+
+    
+    
+    
+
+    <section data-component-type="Hero">
+        
+        
+        
+        
+        
+    <div class="jumbo">
+        
+        
+    
+    <div>
+      <div class="jumbo-breadcrumb">
+        <div class="jumbo-breadcrumb-body">   
+          <ul class="breadcrumb" data-component-type="Breadcrumb" vocab="http://schema.org/" typeof="BreadcrumbList">
+            
+            <li property="itemListElement" typeof="ListItem">
+              <a property="item" typeof="WebPage" href="/">
+                <span property="name">Home</span>
+              </a>
+            </li>
+          
+            
+            <li property="itemListElement" typeof="ListItem">
+              <a property="item" typeof="WebPage" href="/news/">
+                <span property="name">News</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div> 
+    </div>
+
+
+        
+        
+        <picture>
+            
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-3_1 copy.large.medium_quality.jpg" media="(min-width: 1440px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-3_1 copy.medium.medium_quality.jpg" media="(min-width: 1024px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-3_1 copy.small.medium_quality.jpg" media="(min-width: 768px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-16_9 copy.xsmall.medium_quality.jpg" media="(min-width: 480px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-16_9 copy.xxsmall.medium_quality.jpg"/>
+            
+            <img class="jumbo-media" src="/content/dam/home-barclays/images/news/2021/02/HERO-BARCLAYS-INSIGHTS-ASHOK-VASWANI-3_1%20copy.large.medium_quality.jpg" alt="Illustration of a home delivery."/>
+            
+        </picture>
+        <div class="jumbo-body-d">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="jumbo-content-d col-md-9">
+                        <div class="row">
+                            <div class="col-xs-12 jumbo-col">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <div class="aperture-left">
+                                        	<p class="hero-category-title">Growth</p>
+                                            
+                                            
+                                                <h1 class="h2 jumbo-title">Insights: COVID-19 and the rise of the contactless consumer</h1>
+                                            
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4 text-right-sm">
+                                        
+
+
+
+
+
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <div class="margin-bottom-on-last-paragraph">
+                                            <p>
+                                                05 February 2021
+                                                
+                                            </p>
+                                            
+                                        </div>
+                                        
+    
+    
+
+    <div class="aem-rte ">
+        
+        
+        
+            
+        
+        
+    </div>
+
+
+                                        
+
+
+
+
+    
+    
+
+    
+
+        
+    
+    
+
+    <div class="aem-rte ">
+        
+        
+        
+            <p><span class="h4">COVID-19 has accelerated existing trends in consumer behaviour around the world as well as creating new ones – from when we buy things to how we pay. Ashok Vaswani, Chief Executive Officer of Consumer Banking and Payments, tells us why the pandemic could have a permanent impact on the way we shop and how Barclays is innovating to support changing customer needs.</span></p>
+
+        
+        
+    </div>
+
+
+
+        
+
+    
+
+    
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    
+
+
+
+
+
+
+        
+        
+        
+    </section>
+
+    
+
+
+
+    <div>
+        
+<section id="social-share" class="wrapper" data-component-type="SocialShare">
+    <div class="container-fluid">
+                
+        <div class="row">
+            <div class="col-xs-12 social-share-group">
+                <a href="#" id="ss-facebook" title="Share page via Facebook" class="icon-social-share icon-social-share-facebook"></a>
+                <a href="#" id="ss-linkedin" title="Share page via LinkedIn" class="icon-social-share icon-social-share-linkedin"></a>
+                <a href="#" id="ss-twitter" title="Share page via Twitter" class="icon-social-share icon-social-share-twitter"></a>
+                <a href="#" id="ss-mailto" title="Share page via Email" class="icon-social-share icon-social-share-email"></a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+
+
+
+
+    
+    
+
+    
+
+        
+    
+    
+
+    
+
+    <section class="wrapper" data-component-type="Section">
+        
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    
+
+
+
+
+    
+    
+
+    
+
+        
+	
+
+	<div class="aem-column-wrapper" data-component-type="Column">
+		
+
+    
+    
+    
+
+    <div class="aem-column aem-column--arrangement-6-6 ">
+        <div class="aem-column__item aem-column__item--span-6">
+            <div class="aem-column__content">
+                
+
+
+
+
+    
+    
+
+    
+
+        
+   
+   
+    
+    
+    
+    
+    <div data-component-type="Image">
+        
+        
+            <picture>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-2%20copy.large.medium_quality.jpg" media="(min-width: 1440px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-2%20copy.medium.medium_quality.jpg" media="(min-width: 1024px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-2%20copy.small.medium_quality.jpg" media="(min-width: 768px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-2%20copy.xsmall.medium_quality.jpg" media="(min-width: 480px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-2%20copy.xxsmall.medium_quality.jpg"/>
+                <img class="adaptive-image " src="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-2%20copy.full.high_quality.jpg" alt="Ashok Vaswani, Chief Executive Officer of Consumer Banking and Payments"/>
+                
+            </picture>
+            
+        
+    </div>
+    
+
+
+
+
+        
+
+    
+
+    
+
+            </div>
+        </div>
+        <div class="aem-column__item aem-column__item--span-6">
+            <div class="aem-column__content">
+                
+
+
+
+
+    
+    
+
+    
+
+        
+    
+    
+
+    
+    
+    
+        <div data-component-type="quote">
+            <p class="quote-text"><q class="show-quotes">Our homes have become our ‘cocoon’ - a safe haven. We want to be very careful every time we step out of our ‘cocoon’ or allow anything into it, so we’re very sensible about where we shop, how we shop and when we shop.</q></p>
+            
+            <p class="post-quote quote-author">Ashok Vaswani</p>
+            <p class="post-quote">Chief Executive Officer of Consumer Banking and Payments</p>
+        </div>
+    
+
+
+        
+
+    
+
+    
+
+            </div>
+        </div>
+    </div>
+
+
+	</div>
+
+
+
+        
+
+    
+
+    
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+        
+
+    
+
+    
+    
+    
+
+    
+
+        
+    
+    
+
+    
+
+    <section class="wrapper" data-component-type="Section">
+        
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    
+
+
+
+
+    
+    
+
+    
+
+        
+    
+    
+
+    <div class="aem-rte ">
+        
+        <div class=" row">
+            <div class="col-xs-12 col-md-8 col-md-offset-2">
+                <p>The pandemic has created a fundamental shift in consumer behaviour. In previous crises, we have tended to see consumer borrowing increase but this time around, the customer has hunkered down, cut back spending, and increased savings quite considerably. Bank of England figures show that families in Britain saved over £150bn over the course of 2020 – the highest figure since records began.</p>
+<p>That’s partly because there are fewer opportunities to spend, but there are also those consumers who have said: ‘I need to protect myself and my family from the financial difficulties that could potentially arise during the pandemic’.</p>
+<p>Due to lockdown restrictions and ‘stay at home’ orders, many of us have been forced to retreat into a ‘cocoon’ – our homes have become a safe haven. We want to be very careful every time we step out of our ‘cocoon’ or allow anything into it, so we’re very sensible about where we shop, how we shop and when we shop.</p>
+
+            </div>
+        </div>
+        
+        
+    </div>
+
+
+
+        
+
+    
+
+    
+    
+    
+
+    
+
+        
+    
+    
+
+    <div class="aem-rte ">
+        
+        <div class=" row">
+            <div class="col-xs-12 col-md-8 col-md-offset-2">
+                <p>Companies that can offer ‘at home’ products and services have thrived, and the power has moved to those that control the gateway to the customer’s ‘cocoon’. For example, before the pandemic, I used to go out to a small restaurant in my neighbourhood where I knew the owner, Jane, who makes the best Turkish food. Today, I'm ordering deliveries. To stay in business, Jane is now dependent on delivery companies who take 15% of the bill.</p>
+<p>Meanwhile, many consumers are increasingly reluctant to touch cash or PIN pads when they go to shops so innovations that enable a ‘low-touch’ experience, such as contactless payments, have really taken off. Data from Barclaycard has revealed that 88.6% of all eligible payments in the UK were contactless in 2020 – and the average value of these payments rose by 29% after the contactless limit was increased from £30.</p>
+<p>Uptake of contactless payments in the US has lagged behind due to the infrastructure and lack of issuers actually producing contactless cards. But more recently, a lot of things have moved either online or to virtual wallets, and contactless card usage has increased in the US as well.</p>
+<p>Mastercard research revealed a 136% increase in contactless transactions in the US in the full year to July 2020, while <a href="https://usa.visa.com/visa-everywhere/blog/bdp/2020/04/30/merchants-and-consumers-1588276426783.html" target="_blank" title="Opens in a new window">Visa data</a> points to the US having 175m contactless cards ­– the most of any market globally. Barclays US Consumer Bank issues cards with contactless technology for American Airlines and JetBlue card members, and new cards issued as part of the bank’s partnership with Emirates are now also contactless. All the cards issued can also be added into mobile wallets, which are continuing to increase in popularity.</p>
+<p>All these trends obviously have huge implications for banks like Barclays, because we want to be useful and stay relevant to our customers. Think of the pace of these changes as a treadmill, which is getting faster and faster every single year. This year, the treadmill slope has also gone up. As a bank, we cannot slow down. We are ready to keep running on that treadmill faster and at a steeper incline.</p>
+
+            </div>
+        </div>
+        
+        
+    </div>
+
+
+
+        
+
+    
+
+    
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+        
+
+    
+
+    
+    
+    
+
+    
+
+        
+    
+    
+
+    
+
+    <section class="wrapper" data-component-type="Section">
+        
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    
+
+
+
+
+    
+    
+
+    
+
+        
+	
+
+	<div class="aem-column-wrapper" data-component-type="Column">
+		
+
+    
+    
+    
+
+    <div class="aem-column aem-column--arrangement-6-6 ">
+        <div class="aem-column__item aem-column__item--span-6">
+            <div class="aem-column__content">
+                
+
+
+
+
+    
+    
+
+    
+
+        
+    
+    
+
+    
+    
+    
+        <div data-component-type="quote">
+            <p class="quote-text"><q class="show-quotes">I have always seen the customer as the ‘north star’ of our business. No matter what the geography or market, we are working with our customers to provide the services and products they need in these uncertain times.</q></p>
+            
+            <p class="post-quote quote-author">Ashok Vaswani</p>
+            <p class="post-quote">Chief Executive Officer of Consumer Banking and Payments</p>
+        </div>
+    
+
+
+        
+
+    
+
+    
+
+            </div>
+        </div>
+        <div class="aem-column__item aem-column__item--span-6">
+            <div class="aem-column__content">
+                
+
+
+
+
+    
+    
+
+    
+
+        
+   
+   
+    
+    
+    
+    
+    <div data-component-type="Image">
+        
+        
+            <picture>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-1%20copy.large.medium_quality.jpg" media="(min-width: 1440px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-1%20copy.medium.medium_quality.jpg" media="(min-width: 1024px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-1%20copy.small.medium_quality.jpg" media="(min-width: 768px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-1%20copy.xsmall.medium_quality.jpg" media="(min-width: 480px)"/>
+                <source srcset="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-1%20copy.xxsmall.medium_quality.jpg"/>
+                <img class="adaptive-image " src="/content/dam/home-barclays/images/news/2021/02/BARCLAYS-INSIGHTS-ASHOK-VASWANI-DOWNPAGER-1%20copy.full.high_quality.jpg" alt="Ashok Vaswani, Chief Executive Officer of Consumer Banking and Payments"/>
+                
+            </picture>
+            
+        
+    </div>
+    
+
+
+
+
+        
+
+    
+
+    
+
+            </div>
+        </div>
+    </div>
+
+
+	</div>
+
+
+
+        
+
+    
+
+    
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+        
+
+    
+
+    
+    
+    
+
+    
+
+        
+    
+    
+
+    
+
+    <section class="wrapper" data-component-type="Section">
+        
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    
+
+
+
+
+    
+    
+
+    
+
+        
+    
+    
+
+    <div class="aem-rte ">
+        
+        <div class=" row">
+            <div class="col-xs-12 col-md-8 col-md-offset-2">
+                <h4>Moving online</h4>
+<p>I think 2020 will be seen as the point of inflection, as far as <a href="https://home.barclays/news/2020/09/how-covid-19-is-accelerating-tech-trends-in-financial-services/" target="_blank" title="Opens in a new window">digital activity</a> is concerned ­– it’s gone through the roof. There were naysayers pre-COVID, but today, no one is doubting that digital is the way to go. Larger corporates were already doing some level of digital activity, and although it’s increased for them since the start of the pandemic, it's really smaller businesses who have seen a big change in their volume of digital activity.</p>
+<p>The payments data that we have on this is very interesting. During the first UK lockdown, payment volumes fell between 40 to 45%. And during the second lockdown, payment volumes fell between 20 to 25%. What that tells you is that, since the first lockdown, businesses have put systems in place to be able to do more online.</p>
+<p>It’s not only the pace of change that has surprised me, it’s the permanence. The level of digital activity didn’t diminish between the first and second lockdowns in the UK, which indicates a lasting behaviour for the customer. Early indications are that this trend is continuing in the current lockdown.</p>
+<p>As more and more people are engaging with digital solutions – many for the first time – the Barclays’ <a href="https://www.barclays.co.uk/digital-confidence/eagles/" target="_blank" title="Opens in a new window">Digital Eagles</a> have been delivering free online training sessions to help build confidence with technology, and have helped residents and staff in 500 UK care homes use technology to stay connected to loved ones.</p>
+<h4>Adapting to evolving trends</h4>
+<p>I think we’ll see more innovation as these trends continue. Some of the more recent innovations that Barclays has launched include <a href="https://www.barclays.co.uk/ways-to-bank/mobile-banking-app/features/digital-receipts/" target="_blank" title="Opens in a new window">digital receipts</a>, where customers can get a receipt in their mobile banking app; and digital loyalty, where they can automatically collect reward points without using a physical loyalty card.</p>
+<p>We took a leading role in helping our merchants be among the first to accept the new <a href="https://home.barclaycard/insights/2020/04/contactless-is-now-our-way-of-life/" target="_blank" title="Opens in a new window">contactless limit</a>; we’re helping empower small businesses to sell online; and we’re working with some of the <a href="https://home.barclaycard/press-releases/2020/11/Amazon-partners-with-Barclaycard-Germany/" target="_blank" title="Opens in a new window">biggest e-commerce platforms like Amazon</a><span style="letter-spacing: 0.0px;">, so that as consumers shift more of their shopping online, they have the ability to get financing for their purchases.</span></p>
+<p>The list the team is working on goes on. I have always seen the customer as the ‘north star’ of our business. No matter what the geography or market, we are adapting our business model ­– and we are working with our customers to make sure that we provide the services and products that they need in these uncertain times. </p>
+
+            </div>
+        </div>
+        
+        
+    </div>
+
+
+
+        
+
+    
+
+    
+    
+    
+
+    
+
+        
+	
+    
+    <div class="DynamicArticle" data-component-type="DynamicArticle" data-default-layout="tile" data-default-number="4" data-default-description="Meta" data-default-hide-description="false" data-category="Growth" data-toggle-layout="false" data-more-articles="true" data-category-title="true" data-category-filter="false" data-creation-date="true" data-disable-image-focus="false" data-offset="0">
+        <div class="DynamicArticle-filter">
+            
+            
+                <div class="DynamicArticle-layout">
+                    <button class="DynamicArticle-layoutToggle">
+                        <img src="#" alt=""/>
+                    </button>
+                </div>
+            
+        </div>
+        <div class="DynamicArticle-articles"></div>
+
+        <div class="DynamicArticle-moreArticles">
+            <button class="DynamicArticle-moreArticlesToggle">
+                + More Stories
+            </button>
+        </div>
+    </div>
+
+
+        
+
+    
+
+    
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+        
+
+    
+
+    
+
+        <section class="wrapper hidden" id="legal-statements">
+            <div class="container-fluid">
+                
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3 wrapper-heading">
+                        <h2>Important information</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div id="legals-placeholder"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</main>
+
+
+
+
+
+
+
+
+
+
+<div class="footer iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer iparsys parsys"><div class="teaser section">
+
+	
+    
+
+	<div class="js-teaser" data-contexthub="false" data-default-experience="/content/home-barclays/en/common/navigation/default_navigation/jcr:content/footer" data-experiences="[{&#34;segmentName&#34;:&#34;Home&#34;,&#34;experience&#34;:&#34;/content/home-barclays/en/common/navigation/Test/jcr:content/footer&#34;}]">
+		
+		<noscript>
+			
+
+	
+    
+
+	
+
+		</noscript>
+	</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="custom_tags_footer_sitewide iparsys parsys"><div class="custom_tag parbase section">
+
+
+   	
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+            
+                <script type="text/javascript">_satellite.pageBottom();</script>
+<script>
+if ((window.location !== window.parent.location) && (document.referrer.indexOf(window.location.host) < 0)) {
+            document.write('<img src="/content/dam/common/loaded-in-iframe.png?referrer=' + encodeURI(document.referrer) + '&initiator=' + encodeURI(window.location.href) +'" alt="">');
+    }
+</script>
+            
+        
+        
+        
+    
+
+
+
+
+
+
+   
+
+
+   <script type="text/javascript">
+      var bcpublic = bcpublic || {};
+      bcpublic.helpandsupport = bcpublic.helpandsupport || {};
+      bcpublic.helpandsupport.rootConfig = {
+ "cookieWebchat": [],
+ "cookieNav": [],
+ "cookieSegment": [],
+ "cookieSecure": [],
+ "cookieColleague": []
+ };
+
+   </script>
+
+
+
+
+
+
+
+
+<!-- TEST : theme.barclays -->
+
+    
+        
+    
+<script src="/etc/designs/bdl1.7.4/clientlib.js"></script>
+<script src="/etc/designs/componentlibrary/profilecookie/clientlib.js"></script>
+<script src="/etc/designs/componentlibrary/clientlib.js"></script>
+<script src="/etc/designs/componentlibrary/commonlibs.js"></script>
+<script src="/etc/designs/componentlibrary/theme.barclays/clientlib.js"></script>
+<script src="/etc/designs/componentlibrary/iFrameDetection.js"></script>
+
+
+
+    
+    
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<!-- this is the page sub footer libs -->
+</body>
+</html>

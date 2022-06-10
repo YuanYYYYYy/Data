@@ -1,0 +1,736 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="h-100">
+  <head>
+    <title>Climate Change: Atmospheric Carbon Dioxide | NOAA Climate.gov</title>
+    <meta charset="utf-8" />
+<script async src="/sites/default/files/google_analytics/gtag.js?r9tvep"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-42795060-1", {"groups":"default","linker":{"domains":["*.climate.gov","*.noaa.gov"]},"anonymize_ip":true,"page_path":location.pathname + location.search + location.hash,"link_attribution":true,"allow_ad_personalization_signals":false});</script>
+<link rel="canonical" href="http://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide" />
+<meta name="description" content="Human activities, mainly burning fossil fuels, are increasing the amount of carbon dioxide in our atmosphere, amplifying the natural greenhouse effect and making the pH of the ocean more acidic." />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="revision" href="http://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide" />
+
+    <link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Merriweather%7CSource+Sans+Pro%7CCabin">
+    <link rel="shortcut icon"                    href="https://www.climate.gov/favicon.ico" />
+    <link rel="apple-touch-icon"                 href="https://www.climate.gov/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57"   href="https://www.climate.gov/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72"   href="https://www.climate.gov/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.climate.gov/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.climate.gov/apple-touch-icon-180x180.png">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_n6dzSyHrrwjxiTYLy_9iQiS8J8ei1LeUt9XCXI4ntPQ.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_M_l5NXzFhPmWDbHqEP5D-6e-jftO2qABqQ62uQ118Rw.css" />
+
+    </head>
+  <body class="path-node page-node-type-nf-feature d-flex flex-column h-100">
+    <div class="global-wrapper">
+      <a href="#main-content" tabindex="-1" class="sr-only sr-only-focusable usa-skipnav">Skip to main content</a>
+      
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header class="usa-header usa-header-extended container-fluid px-0"><button class="usa-menu-btn">Menu</button>
+  
+  <nav id="primary-nav" class="usa-nav container">
+    <div class="usa-nav-inner container"><button class="usa-nav-close"><img src="/themes/custom/climategov/img/close.svg" alt="close"></button>
+
+              
+        <div class="site-branding">
+          <a href="/" accesskey="1" title="Home" rel="home" aria-label="Climate.gov" class="link" tabindex="1">
+            <div class="usa-logo row" id="logo">
+              <div class="col-1 col-sm-1 col-md-1 col-lg-3 col-xl-3 pl-0 pr-0 site-branding__logo logo-wrapper">
+                <img src="/themes/custom/climategov/images/noaa_logo_circle_72x72.svg" alt="Climate.gov" title="Climate.gov Home" class="logo" />
+              </div>
+              <div class="col-11 col-sm-11 col-md-11 col-lg-9 col-xl-9 pl-0 text-wrapper">
+                <span class="site-branding__name usa-logo-text">Climate<small>.gov</small></span>
+                <span class="site-branding__tagline usa-logo-tagline">Science &amp; information for a climate-smart nation</span>
+              </div>
+            </div>
+          </a>
+        </div>
+      
+      <section class="region region-primary-menu">
+  <h2 class="visually-hidden" aria-hidden="true">Main Menu</h2>
+  <nav  id="block-mainmenu" class="settings-tray-editable usa-nav" data-drupal-settingstray="editable">
+            <ul class="usa-nav-primary usa-accordion">
+    
+    <li class="usa-footer-primary-link">
+      <h4 class="visually-hidden">Main menu</h4> 
+    </li>              <li class="menu-item menu-item--expanded dropdown"><button class="usa-accordion-button usa-nav-link" aria-controls="megamenu-1" aria-expanded="false">News &amp; Features</button><ul class="usa-nav-submenu usa-megamenu usa-grid-full list-unstyled" id="megamenu-1" aria-hidden="true"><li class="usa-megamenu-col"><div class="container"><div class="row"><ul class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 list-unstyled pd-0 mt-0"><li><a href="/news-features" class="sub-link item-1">Home</a></li><li><a href="/news-features/all" class="sub-link item-2">All News &amp; Features</a></li><li><a href="/news-features/blogs" class="sub-link item-3">Blogs</a></li><li><a href="/news-features/blogs/beyond-data" class="sub-link item-4">Beyond the Data Blog</a></li><li><a href="/news-features/blogs/enso" class="sub-link item-5">ENSO Blog</a></li><li><a href="/news-features/climate-and" class="sub-link item-6">Climate And ...</a></li><li><a href="/news-features/climate-case-studies" class="sub-link item-7">Climate Case Studies</a></li><li><a href="/climatedashboard" class="sub-link item-8">Climate Dashboard</a></li></ul><ul class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 list-unstyled pd-0 mt-0"><li><a href="/news-features/climate-qa" class="sub-link item-9">Climate Q&amp;A</a></li><li><a href="/news-features/climate-tech" class="sub-link item-10">Climate Tech</a></li><li><a href="/news-features/decision-makers-take-5" class="sub-link item-11">Decision Makers Take 5</a></li><li><a href="/news-features/decision-makers-toolbox" class="sub-link item-12">Decision Makers Toolbox</a></li><li><a href="/enso" class="sub-link item-13">El Niño &amp; La Niña Page</a></li><li><a href="/news-features/event-tracker" class="sub-link item-14">Event Tracker</a></li><li><a href="/news-features/featured-images" class="sub-link item-15">Featured Images</a></li><li><a href="/news-features/videos" class="sub-link item-16">Videos</a></li></ul><ul class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 list-unstyled pd-0 mt-0"><li><a href="/news-features/features" class="sub-link item-17">Features</a></li><li><a href="/news-features/news-research-highlights" class="sub-link item-18">News &amp; Research Highlights</a></li><li><a href="/news-features/understanding-climate" class="sub-link item-19">Understanding Climate</a></li></ul></div><div class="row"><div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 pd-0 mt-0"><hr class="bg-light" /><h4 class="heading-4"><a href="/news-features">View News &amp; Features section <i class="fa fa-chevron-right" aria-hidden="true"></i></a></h4></div></div></div></li></ul></li><li class="menu-item menu-item--expanded dropdown"><button class="usa-accordion-button usa-nav-link" aria-controls="megamenu-2" aria-expanded="false">Maps &amp; Data</button><ul class="usa-nav-submenu usa-megamenu usa-grid-full list-unstyled" id="megamenu-2" aria-hidden="true"><li class="usa-megamenu-col"><div class="container"><div class="row"><ul class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 list-unstyled pd-0 mt-0"><li><a href="/maps-data" class="sub-link item-1">Home</a></li><li><a href="/maps-data/all" class="sub-link item-2">All Maps &amp; Data</a></li><li><a href="/climatedashboard" class="sub-link item-3">Climate Dashboard</a></li><li><a href="/maps-data/climate-data-primer" class="sub-link item-4">Climate Data Primer</a></li><li><a href="/maps-data/data-snapshots" class="sub-link item-5">Data Snapshots</a></li><li><a href="/maps-data/all?listingMain=datasetgallery" class="sub-link item-6">Dataset Gallery</a></li><li><a href="/maps-data/tools-interactives" class="sub-link item-7">Tools &amp; Interactives</a></li></ul></div><div class="row"><div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 pd-0 mt-0"><hr class="bg-light" /><h4 class="heading-4"><a href="/maps-data">View Maps &amp; Data section <i class="fa fa-chevron-right" aria-hidden="true"></i></a></h4></div></div></div></li></ul></li><li class="menu-item menu-item--expanded dropdown"><button class="usa-accordion-button usa-nav-link" aria-controls="megamenu-3" aria-expanded="false">Teaching Climate</button><ul class="usa-nav-submenu usa-megamenu usa-grid-full list-unstyled" id="megamenu-3" aria-hidden="true"><li class="usa-megamenu-col"><div class="container"><div class="row"><ul class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 list-unstyled pd-0 mt-0"><li><a href="/teaching" class="sub-link item-1">Home</a></li><li><a href="/climatedashboard" class="sub-link item-2">Climate Dashboard</a></li><li><a href="/teaching/demos-experiments" class="sub-link item-3">Demos &amp; Experiments</a></li><li><a href="/teaching/interactive-tools" class="sub-link item-4">Interactive Tools</a></li><li><a href="/teaching/learning-activities" class="sub-link item-5">Learning Activities</a></li><li><a href="/teaching/multimedia" class="sub-link item-6">Multimedia</a></li><li><a href="/teaching/partnership-with-clean-collection" class="sub-link item-7">Partnership with CLEAN collection</a></li><li><a href="/teaching/energy" class="sub-link item-8">Teaching Energy</a></li></ul><ul class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 list-unstyled pd-0 mt-0"><li><a href="/teaching/climate" class="sub-link item-9">Teaching Climate</a></li><li><a href="/teaching/toolbox" class="sub-link item-10">Toolbox for Climate &amp; Energy</a></li><li><a href="/teaching/all" class="sub-link item-11">All Teaching Climate</a></li></ul></div><div class="row"><div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 pd-0 mt-0"><hr class="bg-light" /><h4 class="heading-4"><a href="/teaching">View Teaching Climate section <i class="fa fa-chevron-right" aria-hidden="true"></i></a></h4></div></div></div></li></ul></li><li class="menu-item"><a href="https://toolkit.climate.gov" class="main-link">Resilience Toolkit</a></li><li class="menu-item menu-item--expanded dropdown"><button class="usa-accordion-button usa-nav-link" aria-controls="megamenu-5" aria-expanded="false">About</button><ul class="usa-nav-submenu usa-megamenu usa-grid-full list-unstyled" id="megamenu-5" aria-hidden="true"><li class="usa-megamenu-col"><div class="container"><div class="row"><ul class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 list-unstyled pd-0 mt-0"><li><a href="/about" class="sub-link item-1">About Us</a></li><li><a href="/whats-new" class="sub-link item-2">What&#039;s New</a></li><li><a href="/contact" class="sub-link item-3">Contact</a></li><li><a href="/faqs" class="sub-link item-4">FAQs</a></li><li><a href="/sitemap" class="sub-link item-5">Sitemap</a></li></ul></div></div></li></ul></li>
+<div class="socialmedia-mobile d-lg-none d-xl-none">
+  <div class="socialmedia-list">
+  <ul class="socialmedia-list">
+    <li class="socialmedia-list__icon"><a href="https://www.facebook.com/NOAAClimateGov" class="facebook" target="_blank" title="Climate.gov on Facebook"><span class="sr-only">Facebook</span><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+    <li class="socialmedia-list__icon"><a href="https://www.twitter.com/NOAAClimate" class="twitter" target="_blank" title="Climate.gov on Twitter"><span class="sr-only">Twitter</span><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+	<li class="socialmedia-list__icon"><a href="https://www.instagram.com/NOAAClimate" class="instagram" target="_blank" title="Climate.gov on Instagram"><span class="sr-only">Instagram</span><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+	<li class="socialmedia-list__icon"><a href="https://www.youtube.com/user/NOAAClimate" class="youtube" target="_blank" title="Climate.gov on YouTube"><span class="sr-only">YouTube</span><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+  </ul></div>
+</div>
+      </ul>
+</nav>
+</section>
+
+
+      <div class="text-center socialmedia-search-bar"><div class="socialmedia-header d-none d-lg-block d-xl-block">
+          <div class="socialmedia-list">
+  <ul class="socialmedia-list">
+    <li class="socialmedia-list__icon"><a href="https://www.facebook.com/NOAAClimateGov" class="facebook" target="_blank" title="Climate.gov on Facebook"><span class="sr-only">Facebook</span><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+    <li class="socialmedia-list__icon"><a href="https://www.twitter.com/NOAAClimate" class="twitter" target="_blank" title="Climate.gov on Twitter"><span class="sr-only">Twitter</span><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+	<li class="socialmedia-list__icon"><a href="https://www.instagram.com/NOAAClimate" class="instagram" target="_blank" title="Climate.gov on Instagram"><span class="sr-only">Instagram</span><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+	<li class="socialmedia-list__icon"><a href="https://www.youtube.com/user/NOAAClimate" class="youtube" target="_blank" title="Climate.gov on YouTube"><span class="sr-only">YouTube</span><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+  </ul></div>
+        </div>
+        <form role="search" action="/search" method="get" class="usa-search usa-search-small inline-form search-form float-none" accept-charset="UTF-8">
+          <div class="wl_search_cgov_autocomplete_box">
+            <fieldset>
+              <legend class="visually-hidden">Search</legend>
+              <input id="search-field-small" type="search" name="query" placeholder="Search Climate.gov" tabindex="1" autocomplete="off" />
+              <button type="submit"><span class="usa-sr-only">Search</span><i class="fa fa-search" aria-hidden="true"></i></button>
+              <div class="wl_search_cgov_autocomplete_result wl_search_cgov_autocomplete_result_small"></div>
+            </fieldset>
+          </div></form>
+        <div class="wl-credit-label d-none d-lg-block d-xl-block">powered by <a href="https://www.weblyzard.com" tabindex="-1">webLyzard</a> technology</div>
+
+      </div>
+    </div></nav></header>
+
+
+      <section class="region region-breadcrumb container-fluid">
+      <div id="block-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+        <div class="container container--breadcrumb">
+          <div class="row">
+            <div class="col-12">
+              <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+                <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+                <ol>
+                  <li><a href="/">Home</a></li>
+                  <li><a href="/news-features">News &amp; Features</a></li>
+                  <li>
+                                                                                                                                                                                                                                                                    <a href="/news-features/understanding-climate">                                        Understanding Climate</a></li>
+                </ol>
+              </nav>
+            </div>
+          </div></div></div>
+    </section>
+  
+  
+        
+  
+    <div class="page page--news-features page--article nf-feature" id="page">
+    <main class="main" id="main-content" role="main">
+      <article class="main-content">
+        <div class="container">
+
+          <div class="row pb-5">
+            <div class="col-12"><header class="page-title">
+                <h1 class="title page__title heading-1">Climate Change: Atmospheric Carbon Dioxide</h1>
+                              </header><footer>
+                <div class="metadata metadata--article-meta">
+                  <span class="metadata__item metadata__item--author metadata__item--inline">
+                    <span class="inner">
+                      By&nbsp;
+                                                                              Rebecca Lindsey                    </span>
+                  </span>
+                                      <span class="metadata__item metadata__item--reviewer metadata__item--inline">
+                      <span class="inner">
+                      Reviewed By&nbsp;
+                                                  Ed Dlugokencky                      </span>
+                    </span>
+                                  </div>
+                <div class="metadata metadata--article-meta">
+                                                                        <span class="metadata__item metadata__item--published metadata__item--inline">
+                    <time class="inner">Published August 14, 2020</time>
+                  </span>
+                                      <span class="metadata__item metadata__item--updated metadata__item--inline">
+                      <time class="inner">Updated October 7, 2021</time>
+                    </span>
+                                  </div>
+              </footer>
+            </div></div><div class="row">
+            <div class="col-12">            </div>
+          </div>
+
+                                
+                                
+          <div class="row"><aside class="sidebar sidebar-first col-12 col-sm-12 col-md-12 col-lg-3" role="complementary">
+
+                              <div class="highlights block--highlights">
+                  <h5 class="heading-5 heading-5--block-heading">Highlights</h5>
+                  <ul>
+	<li>Human activities have increased the concentration of carbon dioxide in our atmosphere, amplifying Earth's natural greenhouse effect.</li>
+	<li>Despite the global pandemic, the global average amount of carbon dioxide hit a new record high in 2020: 412.5 parts per million.</li>
+	<li>The annual rate of increase in atmospheric carbon dioxide over the past 60 years is about 100 times faster than previous natural increases, such as those that occurred at the end of the last ice age 11,000-17,000 years ago.&nbsp;&nbsp;</li>
+	<li>The ocean has absorbed enough carbon dioxide to lower its pH by 0.1 units, a 30% increase in acidity.&nbsp;</li>
+</ul>
+                </div>
+              
+              
+
+              <div class="block block--social-media">
+    <h5 class="heading-5 heading-5--block-heading">Share</h5>
+    <div class="socialmedia-list socialmedia-list--sidebar">
+        <ul class="usa-unstyled-list">
+            <li class="socialmedia-list__icon">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.climate.gov%2Fnews-features%2Funderstanding-climate%2Fclimate-change-atmospheric-carbon-dioxide&amp;t=Climate%20Change%3A%20Atmospheric%20Carbon%20Dioxide" class="facebook" target="_blank" title="Climate.gov on facebook"><span class="sr-only">facebook</span><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            </li>
+            <li class="socialmedia-list__icon">
+                <a href="https://twitter.com/intent/tweet?text=Climate%20Change%3A%20Atmospheric%20Carbon%20Dioxide&amp;url=https%3A%2F%2Fwww.climate.gov%2Fnews-features%2Funderstanding-climate%2Fclimate-change-atmospheric-carbon-dioxide" class="twitter"  target="_blank" title="Climate.gov on twitter"><span class="sr-only">twitter</span><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            </li>
+            <li class="socialmedia-list__icon">
+                <a href='mailto:?subject=Climate.gov shared article: Climate%20Change%3A%20Atmospheric%20Carbon%20Dioxide&amp;body=Please read this article from climate.gov: https%3A%2F%2Fwww.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide' class="envelope" target="_blank" title="Climate.gov on envelope"><span class="sr-only">envelope</span><i class="fa fa-envelope" aria-hidden="true"></i></a>
+            </li>
+            <li class="socialmedia-list__icon">
+                <a href="#" class="print"    target="_blank" title="Climate.gov in print" onclick="window.print()"><span class="sr-only">print</span><i class="fa fa-print" aria-hidden="true"></i></a>
+            </li>
+        </ul>
+    </div>
+</div>
+              <div class="block block--related-content">
+  <a class="usa-button d-block" href="#related-content" id="scroll-to-related-content">Related Content</a>
+</div>
+            </aside>
+
+
+            <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-7" role="main">
+              
+                                  <section class="region region-content">
+  
+<article data-history-node-id="8431" role="article" class="node node--type-nf-feature node--promoted node--sticky node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Based on preliminary analysis, the global average atmospheric carbon dioxide in 2020 was 412.5 parts per million (ppm for short), setting a new record high amount despite the economic slowdown due to the COVID-19 pandemic. In fact, the jump of 2.6 ppm over 2019 levels was the fifth-highest annual increase in NOAA's 63-year record. Since 2000, the global atmospheric carbon dioxide amount has grown by 43.5 ppm, an increase of 12 percent.</p>
+<figure class="align-center media media--type-image media--view-mode-full-width-620-original-image"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <a href="http://www.climate.gov/media/13611"><img src="/sites/default/files/styles/full_width_620_original_image/public/2021-10/ClimateDashboard-atmospheric-carbon-dioxide-graph-20211004-1400px.jpg?itok=W57BtpJB" width="620" height="531" alt="LIne graph of monthly atmospheric carbon dioxide levels and the 12-month running average" loading="lazy" class="image-style-full-width-620-original-image" /></a></div>
+      
+            <div class="clearfix text-formatted field field--name-field-media-caption field--type-text-long field--label-hidden field__item"><p>The modern record of atmospheric carbon dioxide levels began with observations recorded at Mauna Loa Observatory in Hawaii. This graph shows the station's monthly average carbon dioxide measurements since 1960 in parts per million (ppm). The seasonal cycle of highs and lows (small peaks and valleys) is driven by summertime growth and winter decay of Northern Hemisphere vegetation. The long-term trend of rising carbon dioxide levels is driven by human activities. NOAA Climate.gov image, based on data from NOAA Global Monitoring Lab. </p>
+</div>
+      
+  </figure><p>Carbon dioxide levels today are higher than at any point in at least the past 800,000 years. In fact, the last time the atmospheric CO₂ amounts were this high was more than 3 million years ago, during the Mid-Pliocene Warm Period, when temperature was 2°–3°C (3.6°–5.4°F) higher than during the pre-industrial era, and sea level was 15–25 meters (50–80 feet) higher than today.</p>
+<figure class="align-center media media--type-image media--view-mode-full-width-620-original-image"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <a href="http://www.climate.gov/media/12987"><img src="/sites/default/files/styles/full_width_620_original_image/public/2021-07/ClimateDashboard-atmospheric-carbon-dioxide-image-20210505-1400px.jpg?itok=4oD09Wc0" width="620" height="531" alt="Line graph showing carbon dioxide over past million years compared to 2020 amounts" loading="lazy" class="image-style-full-width-620-original-image" /></a></div>
+      
+            <div class="clearfix text-formatted field field--name-field-media-caption field--type-text-long field--label-hidden field__item"><p>Global atmospheric carbon dioxide concentrations (CO<sub>2</sub>) in parts per million (ppm) for the past 800,000 years. The peaks and valleys track ice ages (low CO<sub>2</sub>) and warmer interglacials (higher CO<sub>2</sub>). During these cycles, CO<sub>2</sub> was never higher than 300 ppm. On the geologic time scale, the increase (orange dashed line) looks virtually instantaneous. Graph by NOAA Climate.gov based on data from Lüthi, et al., 2008, via  NOAA NCEI Paleoclimatology Program. <em>[Correction: August 20, 2020. An earlier version of this image had an error in the time scaling on the X axis. This affected the apparent duration and timing of the most recent ice ages, but did not affect the modern or paleoclimate carbon dioxide values.]</em></p>
+</div>
+      
+  </figure><p>Carbon dioxide concentrations are rising mostly because of the fossil fuels that people are burning for energy. Fossil fuels like coal and oil contain carbon that plants pulled out of the atmosphere through photosynthesis over many millions of years; we are returning that carbon to the atmosphere in just a few hundred years. According to <em><a href="https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/">State of the Climate in 2019</a> </em>from<em> </em>NOAA and the American Meteorological Society, </p>
+<blockquote><p>From 1850 to 2018, 440 ± 20 Pg C (1 Pg C = 10¹⁵ g C) were emitted as CO₂ from fossil fuel burning (Friedlingstein et al. 2019). For 2018 alone, global fossil fuel emissions reached 10 ± 0.5 Pg C yr−1 for the first time in history (Friedlingstein et al. 2019). About half of the CO₂ emitted since 1850 remains in the atmosphere. The rest of it has partially dissolved in the world’s oceans… . While the terrestrial biosphere is currently also a sink for fossil fuel CO₂, the cumulative emissions of CO₂ from land use changes such as deforestation cancel terrestrial uptake over the 1850–2018 period (Friedlingstein et al. 2019).</p>
+</blockquote>
+<p>Each year we put more carbon dioxide into the atmosphere than natural processes can remove, which means the net global amount of carbon dioxide rises. The more we overshoot what natural processes remove, the faster the annual growth rate. In the 1960s, the global growth rate of atmospheric carbon dioxide was roughly 0.6 ± 0.1 ppm per year. Between 2009-18, however, the growth rate has been 2.3 ppm per year. [These statistics, along with the final global average for the prior year, are updated each year in the American Meteorological Society's <em>State of the Climate Report</em>, which comes out in late summer]. The annual rate of increase in atmospheric carbon dioxide over the past 60 years is about 100 times faster than previous natural increases, such as those that occurred at the end of the last ice age 11,000-17,000 years ago. </p>
+<h3>Why carbon dioxide matters</h3>
+<p>Carbon dioxide is a <a href="https://www.climate.gov/news-features/understanding-climate/climate-change-annual-greenhouse-gas-index">greenhouse gas</a>: a gas that absorbs and radiates heat. Warmed by sunlight, Earth’s land and ocean surfaces continuously radiate thermal infrared energy (heat). Unlike oxygen or nitrogen (which make up most of our atmosphere), greenhouse gases absorb that heat and release it gradually over time, like bricks in a fireplace after the fire goes out. Without this natural <a href="https://www.koshland-science-museum.org/explore-the-science/interactives/what-is-the-greenhouse-effect">greenhouse effect</a>, Earth’s average annual temperature would be below freezing instead of close to 60°F. But increases in greenhouse gases have tipped the Earth's energy budget out of balance, trapping additional heat and raising Earth's average temperature. </p>
+<p>Carbon dioxide is the most important of Earth’s<a href="https://www.climate.gov/news-features/understanding-climate/climate-change-annual-greenhouse-gas-index"> long-lived greenhouse gases</a>. It absorbs less heat per molecule than the greenhouse gases methane or nitrous oxide, but it’s more abundant, and it stays in the atmosphere much longer. Increases in atmospheric carbon dioxide are responsible for about two-thirds of the <a href="/news-features/understanding-climate/climate-change-annual-greenhouse-gas-index">total energy imbalance </a>that is causing Earth's temperature to rise.</p>
+<p>Another reason carbon dioxide is important in the Earth system is that it dissolves into the ocean like the fizz in a can of soda. It reacts with water molecules, producing carbonic acid and lowering the ocean's pH (raising its acidity). Since the start of the Industrial Revolution, the pH of the ocean's surface waters has dropped from 8.21 to 8.10. This drop in pH is called <em><a href="http://www.whoi.edu/OCB-OA/page.do?pid=112076">ocean acidification</a></em>.  </p>
+<p>A drop of 0.1 may not seem like a lot, but the pH scale is logarithmic; a 1-unit drop in pH means a tenfold increase in acidity. A change of 0.1 means a roughly 30% increase in acidity. Increasing acidity interferes with the ability of marine life to extract calcium from the water to build their shells and skeletons</p>
+<figure class="align-center media media--type-image media--view-mode-inline-all"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <a href="/media/12989" hreflang="en"><img src="/sites/default/files/styles/inline_all/public/2021-07/pteropod_comparison_620.jpg?itok=GTCO9UGr" width="620" height="337" alt="macro photo of tiny ocean snail shells showing a healthy snail shell compared to one damaged by ocean acidification" loading="lazy" class="image-style-inline-all" /></a>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-media-caption field--type-text-long field--label-hidden field__item"><p>(<strong>left</strong>) A healthy ocean snail has a transparent shell with smoothly contoured ridges. (<strong>right</strong>) A shell exposed to more acidic, corrosive waters is cloudy, ragged, and pockmarked with ‘kinks’ and weak spots. <a href="https://www.climate.gov/news-features/featured-images/ocean-acidity-dissolving-tiny-snails%E2%80%99-protective-shell">Photos</a> courtesy Nina Bednarsek, NOAA PMEL. </p>
+</div>
+      
+  </figure><h3>Past and future carbon dioxide</h3>
+<p>Natural increases in carbon dioxide concentrations have periodically warmed Earth’s temperature during ice age cycles over the past million years or more. The warm episodes (interglacials) began with a small increase in sunlight due to a tiny wobble in Earth’s axis of rotation or in the path of its orbit around the Sun.</p>
+<p>That little bit of extra sunlight caused a little bit of warming. As the oceans warmed, they outgassed carbon dioxide—like a can of soda going flat in the heat of a summer day. The extra carbon dioxide in the atmosphere amplified the initial warming.</p>
+<p>Based on air bubbles trapped in mile-thick <a href="https://www.climate.gov/news-features/climate-tech/climate-core-how-scientists-study-ice-cores-reveal-earth%E2%80%99s-climate">ice cores</a> (and other paleoclimate evidence), we know that during the ice age cycles of the past million years or so, carbon dioxide never exceeded 300 ppm. Before the Industrial Revolution started in the mid-1700s, the global average amount of carbon dioxide was about 280 ppm.</p>
+<figure class="align-center media media--type-image media--view-mode-full-width-620-original-image"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <a href="http://www.climate.gov/media/12990"><img src="/sites/default/files/styles/full_width_620_original_image/public/2021-07/CO2_emissions_vs_concentrations_1751-2020_1400x700.gif?itok=by3TWT77" width="620" height="310" alt="line graph showing human carbon dioxide emissions (gray line) and the resulting atmopsheric carbon dioxide levels (blue line)" loading="lazy" class="image-style-full-width-620-original-image" /></a></div>
+      
+            <div class="clearfix text-formatted field field--name-field-media-caption field--type-text-long field--label-hidden field__item"><p>The amount of carbon dioxide in the atmosphere (blue line) has increased along with human emissions (gray line) since the start of the Industrial Revolution in 1750. Emissions rose slowly to about 5 billion tons per year in the mid-20<sup>th</sup> century before skyrocketing to more than 35 billion tons per year by the end of the century. NOAA Climate.gov graph, adapted from original by Dr. Howard Diamond (NOAA ARL). Atmospheric CO<sub>2</sub> data from <a href="https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html">NOAA</a> and <a class="confirmation confirmation-check-processed" href="https://iac.ethz.ch/" target="_blank">ETHZ</a>. CO<sub>2</sub> emissions data from <a class="confirmation confirmation-check-processed" href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#how-have-global-co2-emissions-changed-over-time" target="_blank">Our World in Data</a> and the <a class="confirmation confirmation-check-processed" href="https://www.globalcarbonproject.org/" target="_blank">Global Carbon Project</a>. </p>
+</div>
+      
+  </figure><p>By the time continuous observations began at Mauna Loa Volcanic Observatory in 1958, global atmospheric carbon dioxide was already 315 ppm. On May 9, 2013, the daily average carbon dioxide measured at Mauna Loa surpassed 400 ppm for the first time on record. Less than two years later, in 2015, the global amount went over 400 ppm for the first time. If global energy demand continues to grow and to be met mostly with fossil fuels, atmospheric carbon dioxide is projected to exceed 900 ppm by the end of this century.</p>
+<h3>More on carbon dioxide</h3>
+<p><a href="https://www.esrl.noaa.gov/gmd/ccgg/trends/">NOAA carbon dioxide observations</a></p>
+<p><a href="https://earthobservatory.nasa.gov/Features/CarbonCycle/">Carbon cycle factsheet</a></p>
+<p><a href="http://www.globalcarbonatlas.org/en/CO2-emissions">Carbon dioxide emissions by country over time</a></p>
+<p><a href="https://www.epa.gov/ghgemissions/understanding-global-warming-potentials">Comparing greenhouse gases by their global warming potential</a></p>
+<h3>References</h3>
+<p>Collins, M., R. Knutti, J. Arblaster, J.-L. Dufresne, T. Fichefet, P. Friedlingstein, X. Gao, W.J. Gutowski, T. Johns, G. Krinner, M. Shongwe, C. Tebaldi, A.J. Weaver and M. Wehner, 2013: <a href="http://ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter12_FINAL.pdf">Long-term Climate Change: Projections, Commitments and Irreversibility</a>. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.</p>
+<p>X. Lan, B. D. Hall, G. Dutton, J. Mühle, and J. W. Elkins. (2020). Atmospheric composition [in <em>State of the Climate in 2018, </em><a href="https://journals.ametsoc.org/bams/article-pdf/101/8/S9/4988923/bamsd200104.pdf">Chapter 2: Global Climate</a>]. Special <a href="https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/">Online Supplement </a>to the Bulletin of the American Meteorological Society, Vol.101, No. 8, August, 2020. </p>
+<p>Lüthi, D., M. Le Floch, B. Bereiter, T. Blunier, J.-M. Barnola, U. Siegenthaler, D. Raynaud, J. Jouzel, H. Fischer, K. Kawamura, and T.F. Stocker. (2008). High-resolution carbon dioxide concentration record 650,000-800,000 years before present. <em>Nature</em>, Vol. 453, pp. 379-382. doi:10.1038/nature06949.</p>
+<p>Woods Hole Oceanographic Institution. (2015). <a href="http://www.whoi.edu/OCB-OA/page.do?pid=112076">Introduction to ocean acidification.</a> Accessed October 4, 2017.</p>
+<p>Lindsey, R. (2009). <a href="https://earthobservatory.nasa.gov/Features/EnergyBalance/page1.php">Climate and Earth’s energy budget.</a> Accessed October 4, 2017. </p>
+</div>
+      
+  </div>
+
+</article>
+
+
+</section>
+
+                <div class="container pl-0 pr-0">
+  <div class="row">
+    <div class="col mt-5">
+      <span id="webform-submission-feedback-node-8431-form-ajax-content"></span><div id="webform-submission-feedback-node-8431-form-ajax" class="webform-ajax-form-wrapper" data-effect="fade" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-feedback-form webform-submission-feedback-add-form webform-submission-feedback-node-8431-form webform-submission-feedback-node-8431-add-form js-webform-submit-once js-webform-details-toggle webform-details-toggle" autocomplete="off" data-drupal-selector="webform-submission-feedback-node-8431-add-form" action="/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide" method="post" id="webform-submission-feedback-node-8431-add-form" accept-charset="UTF-8">
+  
+  
+<h3>We value your feedback</h3>
+
+<p>Help us improve our content</p>
+
+<input data-drupal-selector="edit-referring-page" type="hidden" name="referring_page" value="http://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide" class="form-item form-item__" /><div class="js-form-item form-item js-form-type-email form-type-email js-form-item-email form-item-email">
+        <input data-drupal-selector="edit-email" type="email" id="edit-email" name="email" value="" size="60" maxlength="254" placeholder="Your Email Address" class="form-email form-item form-item__" />
+        <label for="edit-email" class="option"><span class="hidden--visually">Your Email Address</span></label>
+      </div>
+<div class="js-form-item form-item js-form-type-textarea form-type-textarea js-form-item-feedback form-item-feedback">
+        <div class="form-textarea-wrapper">
+  <textarea autocomplete="off" data-webform-required-error="Your feedback message is required." data-drupal-selector="edit-feedback" id="edit-feedback" name="feedback" rows="5" cols="60" placeholder="Feedback" class="form-textarea required resize-vertical" required="required" aria-required="true"></textarea>
+</div>
+
+        <label for="edit-feedback" class="option js-form-required form-required"><span class="hidden--visually">Feedback</span></label>
+      </div>
+    <div  data-drupal-selector="edit-captcha" class="captcha"><input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="4196530" class="form-item form-item__" /><input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="nbBrxXHLy1EcbElGMPObgLa9Rq41_a6MX-f9gXZ3dO8" class="form-item form-item__" /><img data-drupal-selector="edit-captcha-image" src="/image-captcha-generate/4196530/1649166492" width="180" height="72" alt="Image CAPTCHA" title="Image CAPTCHA" loading="lazy" /><div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-captcha-response form-item-captcha-response">
+
+  <input autocomplete="off" data-drupal-selector="edit-captcha-response" aria-describedby="edit-captcha-response--description" type="text" id="edit-captcha-response" name="captcha_response" value="" size="15" maxlength="128" class="form-text required form-item form-item__" required="required" aria-required="true" placeholder="Type the security code" />
+
+
+  <label for="edit-captcha-response" class="js-form-required form-required"><span class="hidden--visually">Security code</span></label>
+  
+</div>
+
+<div class="reload-captcha-wrapper">
+    <a href="/image-captcha-refresh/webform_submission_feedback_node_8431_add_form" class="reload-captcha">Get new captcha!</a>
+</div>
+</div>
+<input autocomplete="off" data-drupal-selector="form-ksdw-kzff-cdlpo6g5mp6wi1yqwyz0qaqnwvdvajhnk" type="hidden" name="form_build_id" value="form-ksdW-kZff_cDlPo6g5mp6wI1YQwYZ0qaQnwVdVaJhnk" class="form-item form-item__" /><input data-drupal-selector="edit-webform-submission-feedback-node-8431-add-form" type="hidden" name="form_id" value="webform_submission_feedback_node_8431_add_form" class="form-item form-item__" /><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="webform-button--submit button button--primary js-form-submit form-submit form-item form-item__" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit" name="op" value="Submit" />
+</div>
+
+
+  
+</form>
+</div>
+    </div>
+  </div>
+</div>
+                          </div><aside class="sidebar sidebar--second col-12 col-sm-12 col-md-12 col-lg-3" role="complementary">
+            </aside>
+
+          </div></div>      <div class="container-fluid">
+      <section class="region region--content-bottom" id="related-content">
+        <section class="region region-content-bottom">
+  <div id="block-weblyzardrelatedcontentblock" class="settings-tray-editable block block-wl-search-cgov block-wl-search-cgov-relatedcontent" data-drupal-settingstray="editable">
+  
+    
+      
+<section class="region region--content-bottom usa-section" id="related-content">
+    <section class="section section--content-bottom">
+        <section class="section section--related-content section--subsection">
+            <header class="section-header"><div class="wrapper"><h2 class="section-title">Related Content</h2></div></header>
+            
+            <div class="usa-grid">
+                <div class="row">
+                                        <div class="col-sm-12 col-lg-6 col-xl-3">
+                        <div class="related-content__list">
+                            <div class="related-content__heading">
+                                <h3 class="heading-3 heading-3--block-heading">NEWS &amp; FEATURES</h3>
+                            </div>
+                            <div class="related-content__image"><a class="image" href="#">
+                                                                                                                            </a></div>
+                            <div class="related-content__list-items">
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="http://www.climate.gov/news-features/understanding-climate/carbon-dioxide-earths-hottest-topic-just-warming">Carbon Dioxide: Earth&#039;s Hottest Topic is Just Warming Up</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">10/21/2009</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="http://www.climate.gov/news-features/features/upwelling-crisis-ocean-acidification-0">An Upwelling Crisis: Ocean Acidification</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">10/30/2009</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="http://www.climate.gov/news-features/featured-images/increasing-ocean-acidification-threatens-alaska%E2%80%99s-valuable-commercial">Increasing ocean acidification threatens Alaska’s valuable commercial and subsistence fisheries </a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">09/26/2014</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="http://www.climate.gov/news-features/climate-qa/how-much-will-earth-warm-if-carbon-dioxide-doubles-pre-industrial-levels">How much will Earth warm if carbon dioxide doubles pre-industrial levels?</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">01/24/2014</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-sm-12 col-lg-6 col-xl-3">
+                        <div class="related-content__list">
+                            <div class="related-content__heading">
+                                <h3 class="heading-3 heading-3--block-heading">MAPS &amp; DATA</h3>
+                            </div>
+                            <div class="related-content__image"><a class="image" href="#">
+                                                                                                                                                                                                </a></div>
+                            <div class="related-content__list-items">
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="https://www.climate.gov/maps-data/dataset/greenhouse-gas-concentrations-graphing-tool"> Greenhouse Gas Concentrations - Graphing Tool</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">01/14/2015</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="https://www.climate.gov/maps-data/climate-data-primer/predicting-climate/climate-forcing">Climate Forcing</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">11/21/2014</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="https://www.climate.gov/maps-data/climate-data-primer/predicting-climate/future-climate">Future Climate</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">11/21/2014</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-sm-12 col-lg-6 col-xl-3">
+                        <div class="related-content__list">
+                            <div class="related-content__heading">
+                                <h3 class="heading-3 heading-3--block-heading">TEACHING CLIMATE</h3>
+                            </div>
+                            <div class="related-content__image"><a class="image" href="#">
+                                                                                                                                                                                                </a></div>
+                            <div class="related-content__list-items">
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="https://www.climate.gov/teaching/resources/carbon-dioxide-and-carbon-cycle">Carbon Dioxide and the Carbon Cycle</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">09/08/2020</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="https://www.climate.gov/teaching/resources/using-mass-balance-model-understand-carbon-dioxide-and-its-connection-global">Using a mass balance model to understand carbon dioxide and its connection to global warming</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">12/19/2012</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="https://www.climate.gov/teaching/resources/climate-science-nutshell-where-does-carbon-dioxide-come">Climate Science in a Nutshell: Where Does Carbon Dioxide Come From?</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">03/28/2021</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-sm-12 col-lg-6 col-xl-3">
+                        <div class="related-content__list">
+                            <div class="related-content__heading">
+                                <h3 class="heading-3 heading-3--block-heading">CLIMATE RESILIENCE TOOLKIT</h3>
+                            </div>
+                            <div class="related-content__image"><a class="image" href="#">
+                                                                                                                                                                                                </a></div>
+                            <div class="related-content__list-items">
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="https://toolkit.climate.gov/topics/ecosystem-vulnerability/carbon-balance">Carbon Balance</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">07/06/2016</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="https://toolkit.climate.gov/tool/annual-greenhouse-gas-index-aggi">Annual Greenhouse Gas Index</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">01/26/2018</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="related-content__item">
+                                    <div class="related-content__title">
+                                        <h4 class="heading-4"><a class="link heading-4__link" href="https://toolkit.climate.gov/case-studies/better-soil-better-climate">Better Soil, Better Climate</a></h4>
+                                    </div>
+                                    <div class="related-content__metadata">
+                                        <div class="metadata metadata--related-content">
+                                                                                                                                    <span class="metadata__item metadata__item--published metadata__item--inline"><span class="inner">10/24/2019</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </section>
+    </section> 
+</section>
+  </div>
+
+</section>
+
+      </section>
+    </div>
+  
+      </article>
+    </main>
+  </div><footer class="usa-footer usa-footer-big">
+
+  <div class="container usa-footer-return-to-top"><a href="#" title="Click to return to the top of the page">Return to top</a></div>
+
+  <div class="subsection-title"><div class="wrapper"><h2 class="section-title">Stay Connected</h2></div></div>
+
+  <div class="usa-footer-primary-section">
+    <div class="container">
+      <div class="row"><div class="footer__socialmedia col-12">
+          <div class="usa-footer-primary-content text-center">
+            <h4 class="block-title">Follow Climate.gov</h4><div class="socialmedia-list">
+  <ul class="socialmedia-list">
+    <li class="socialmedia-list__icon"><a href="https://www.facebook.com/NOAAClimateGov" class="facebook" target="_blank" title="Climate.gov on Facebook"><span class="sr-only">Facebook</span><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+    <li class="socialmedia-list__icon"><a href="https://www.twitter.com/NOAAClimate" class="twitter" target="_blank" title="Climate.gov on Twitter"><span class="sr-only">Twitter</span><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+	<li class="socialmedia-list__icon"><a href="https://www.instagram.com/NOAAClimate" class="instagram" target="_blank" title="Climate.gov on Instagram"><span class="sr-only">Instagram</span><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+	<li class="socialmedia-list__icon"><a href="https://www.youtube.com/user/NOAAClimate" class="youtube" target="_blank" title="Climate.gov on YouTube"><span class="sr-only">YouTube</span><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+  </ul></div>
+          </div>
+        </div>
+
+      </div>
+    </div></div><div class="usa-footer-secondary-section">
+    <div class="usa-grid">
+      <div class="row">
+        <div class="usa-footer-big-secondary-section col-xs-12">
+
+                    <nav class="usa-footer-nav footer-nav" aria-label="Secondary">
+
+            <div class="row">
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                <section class="region region-footer-sitemap-01">
+  <nav>
+      <ul class="usa-unstyled-list list-unstyled usa-footer-primary-content">
+    
+    <li class="usa-footer-primary-link">
+      <h4>Main Menu</h4> 
+    </li>
+                                <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+          <li>
+        <a href="/news-features" data-drupal-link-system-path="node/838090">News &amp; Features</a>
+              </li>
+          <li>
+        <a href="/teaching" data-drupal-link-system-path="node/838089">Teaching Climate</a>
+              </li>
+          <li>
+        <a href="/maps-data" data-drupal-link-system-path="node/838088">Maps &amp; Data</a>
+              </li>
+          <li>
+        <a href="/faqs" data-drupal-link-system-path="node/9534">FAQs</a>
+              </li>
+          <li>
+        <a href="/contact" data-drupal-link-system-path="node/9418">Contact</a>
+              </li>
+          <li>
+        <a href="/feeds" data-drupal-link-system-path="node/838236">Feeds</a>
+              </li>
+          <li>
+        <a href="/sitemap" data-drupal-link-system-path="node/838271">Sitemap</a>
+              </li>
+      
+
+      </ul>
+</nav>
+</section>
+
+              </div>
+
+              <div class="col-xs-12 col-sm-6 col-md-2">
+                <section class="region region-footer-sitemap-02">
+  <nav>
+      <ul class="usa-unstyled-list list-unstyled usa-footer-primary-content">
+    
+    <li class="usa-footer-primary-link">
+      <h4>News &amp; Features</h4> 
+    </li>
+                                <li>
+        <a href="/news-features" data-drupal-link-system-path="node/838090">News &amp; Features Home</a>
+              </li>
+          <li>
+        <a href="/news-features/blogs/beyond-data" data-drupal-link-system-path="node/838140">Beyond the Data Blog</a>
+              </li>
+          <li>
+        <a href="/news-features/all?listingMain=climateCaseStudies&amp;sorting=date" data-drupal-link-query="{&quot;listingMain&quot;:&quot;climateCaseStudies&quot;,&quot;sorting&quot;:&quot;date&quot;}" data-drupal-link-system-path="news-features/all">Climate Case Studies</a>
+              </li>
+          <li>
+        <a href="/news-features/all?listingMain=climateQA&amp;sorting=date" data-drupal-link-query="{&quot;listingMain&quot;:&quot;climateQA&quot;,&quot;sorting&quot;:&quot;date&quot;}" data-drupal-link-system-path="news-features/all">Climate Q&amp;A</a>
+              </li>
+          <li>
+        <a href="/news-features/all?listingMain=climateTech&amp;sorting=date" data-drupal-link-query="{&quot;listingMain&quot;:&quot;climateTech&quot;,&quot;sorting&quot;:&quot;date&quot;}" data-drupal-link-system-path="news-features/all">Climate Tech</a>
+              </li>
+          <li>
+        <a href="/news-features/all?listingMain=climateAnd&amp;sorting=date" data-drupal-link-query="{&quot;listingMain&quot;:&quot;climateAnd&quot;,&quot;sorting&quot;:&quot;date&quot;}" data-drupal-link-system-path="news-features/all">Climate and …</a>
+              </li>
+          <li>
+        <a href="/news-features/all?listingMain=decisionMakersTake5&amp;sorting=date" data-drupal-link-query="{&quot;listingMain&quot;:&quot;decisionMakersTake5&quot;,&quot;sorting&quot;:&quot;date&quot;}" data-drupal-link-system-path="news-features/all">Decision Makers Take 5</a>
+              </li>
+          <li>
+        <a href="/news-features/all?listingMain=decisionMakersToolbox&amp;sorting=date" data-drupal-link-query="{&quot;listingMain&quot;:&quot;decisionMakersToolbox&quot;,&quot;sorting&quot;:&quot;date&quot;}" data-drupal-link-system-path="news-features/all">Decision Makers Toolbox</a>
+              </li>
+          <li>
+        <a href="/news-features/blogs/enso" data-drupal-link-system-path="node/838139">ENSO Blog</a>
+              </li>
+          <li>
+        <a href="/news-features/event-tracker" data-drupal-link-system-path="news-features/event-tracker">Event Tracker</a>
+              </li>
+          <li>
+        <a href="/news-features/featured-images" data-drupal-link-system-path="news-features/featured-images">Featured Images</a>
+              </li>
+          <li>
+        <a href="/news-features/videos" data-drupal-link-system-path="news-features/videos">Featured Videos</a>
+              </li>
+          <li>
+        <a href="/news-features/all?listingMain=features&amp;sorting=date" data-drupal-link-query="{&quot;listingMain&quot;:&quot;features&quot;,&quot;sorting&quot;:&quot;date&quot;}" data-drupal-link-system-path="news-features/all">Features</a>
+              </li>
+          <li>
+        <a href="/news-features/all?listingMain=nrHighlights&amp;sorting=date" data-drupal-link-query="{&quot;listingMain&quot;:&quot;nrHighlights&quot;,&quot;sorting&quot;:&quot;date&quot;}" data-drupal-link-system-path="news-features/all">News and Research Highlights</a>
+              </li>
+          <li>
+        <a href="/news-features/all?listingMain=understandingClimate&amp;sorting=date" data-drupal-link-query="{&quot;listingMain&quot;:&quot;understandingClimate&quot;,&quot;sorting&quot;:&quot;date&quot;}" data-drupal-link-system-path="news-features/all">Understanding Climate</a>
+              </li>
+      
+
+      </ul>
+</nav>
+</section>
+
+              </div>
+
+              <div class="col-xs-12 col-sm-6 col-md-2">
+                <section class="region region-footer-sitemap-03">
+  <nav>
+      <ul class="usa-unstyled-list list-unstyled usa-footer-primary-content">
+    
+    <li class="usa-footer-primary-link">
+      <h4>Maps &amp; Data</h4> 
+    </li>
+                                <li>
+        <a href="/maps-data" data-drupal-link-system-path="node/838088">Maps and Data Home</a>
+              </li>
+          <li>
+        <a href="/climatedashboard" data-drupal-link-system-path="maps-data/global-climate-dashboard">Climate Dashboard</a>
+              </li>
+          <li>
+        <a href="/maps-data/climate-data-primer" data-drupal-link-system-path="node/426663">Climate Data Primer</a>
+              </li>
+          <li>
+        <a href="/maps-data/data-snapshots" data-drupal-link-system-path="maps-data/data-snapshots">Data Snapshots</a>
+              </li>
+          <li>
+        <a href="/maps-data/all?listingMain=datasetgallery" data-drupal-link-query="{&quot;listingMain&quot;:&quot;datasetgallery&quot;}" data-drupal-link-system-path="maps-data/all">Dataset Gallery</a>
+              </li>
+      
+
+      </ul>
+</nav>
+</section>
+
+              </div>
+
+              <div class="col-xs-12 col-sm-6 col-md-2">
+                <section class="region region-footer-sitemap-04">
+  <nav>
+      <ul class="usa-unstyled-list list-unstyled usa-footer-primary-content">
+    
+    <li class="usa-footer-primary-link">
+      <h4>Teaching Climate</h4> 
+    </li>
+                                <li>
+        <a href="/teaching" data-drupal-link-system-path="node/838089">Teaching Climate Home</a>
+              </li>
+          <li>
+        <a href="/teaching/demos-experiments" data-drupal-link-system-path="teaching/demos-experiments">Demos &amp; Experiments</a>
+              </li>
+          <li>
+        <a href="/teaching/interactive-tools" data-drupal-link-system-path="teaching/interactive-tools">Interactive Tools</a>
+              </li>
+          <li>
+        <a href="/teaching/multimedia" data-drupal-link-system-path="teaching/multimedia">Multimedia</a>
+              </li>
+          <li>
+        <a href="/teaching/resources" data-drupal-link-system-path="teaching/resources">Resources</a>
+              </li>
+      
+
+      </ul>
+</nav>
+</section>
+
+              </div>
+
+              <div class="col-xs-12 col-sm-6 col-md-2">
+                
+              </div>
+            </div><!--end .row-->
+
+          </nav>
+
+        </div>
+      </div>
+    </div><!--.usa-grid-->
+  </div><!--.usa-footer-secondary-section-->
+
+  <div class="usa-footer-required-section">
+    <div class="usa-grid">
+      <div class="row">
+        <div class="col-xs-12">
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+</div>
+  </div>
+
+      
+    </div><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/8431","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,captcha\/base,classy\/base,classy\/messages,classy\/node,climategov\/global,core\/jquery.form,core\/normalize,extlink\/drupal.extlink,google_analytics\/google_analytics,image_captcha\/image-captcha-refresh,media\/filter.caption,statistics\/drupal.statistics,system\/base,webform\/webform.ajax,webform\/webform.element.details.save,webform\/webform.element.details.toggle,webform\/webform.element.message,webform\/webform.form,webform\/webform.form.submit_once,webform\/webform.theme.classy,wl_search_cgov\/wl_search_cgov_common","theme":"climategov","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/news-features\/understanding-climate\/climate-change-atmospheric-carbon-dioxide?ajax_form=1":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-wave\u0022\u003E\n              \u003Cdiv class=\u0022sk-rect sk-rect1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-rect sk-rect2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-rect sk-rect3\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-rect sk-rect4\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-rect sk-rect5\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":true,"throbberPosition":"body"},"google_analytics":{"account":"UA-42795060-1","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":2,"trackCrossDomains":["*.climate.gov","*.noaa.gov"],"trackUrlFragments":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"You are exiting climate.gov.\r\n\r\nThank you for visiting our site. We have provided a link because it has information which may interest you. Climate.gov does not endorse the views expressed, the information presented, or any commercial products that may be advertised or available on that site.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"ajax":{"edit-submit":{"callback":"::submitAjaxForm","event":"click","effect":"fade","speed":1000,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/news-features\/understanding-climate\/climate-change-atmospheric-carbon-dioxide?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"statistics":{"data":{"nid":"8431"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"f63eade9b45563eadba56e10ab99bb9beb22d8fee71a466f47b58cda65042a7e"}}</script>
+<script src="/sites/default/files/js/js_-9wwQ-Fvn8IBBOwn5_Q4cnKFVQQSPoODIb6uLrWzpUU.js"></script>
+
+  </body>
+</html>
