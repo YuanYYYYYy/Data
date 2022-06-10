@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!--[if IE 11]>         <html class="no-js ie11"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+<head>
+  
+
+ 
+        
+        
+        	<!-- OneTrust Cookies Consent Notice start -->
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="6ac36279-bcc2-45cf-bdc3-26181c88a30e"></script>
+<script type="text/javascript">
+function OptanonWrapper() {
+	
+		if ( document.location.href.indexOf('cookie') > -1 ) {
+			$('#onetrust-pc-sdk, .onetrust-pc-dark-filter, #onetrust-banner-sdk').hide();
+			$('.ot-sdk-show-settings').show();
+		}
+	
+	if(window.optanonActiveGroupsAux === undefined){
+		   window.optanonActiveGroupsAux = window.OptanonActiveGroups;
+	}
+	var currentActiveGroups = OptanonActiveGroups.split(',').slice(1,OptanonActiveGroups.split(',').length-1);
+	for(var i=0; i<currentActiveGroups.length; i++){
+	  if(optanonActiveGroupsAux.indexOf(currentActiveGroups[i]) == -1){
+		   switch(currentActiveGroups[i]){
+				 case 'C0002':
+					   _satellite.track("DCRPerformance");
+					   break;
+				 case 'C0003':
+					   _satellite.track("DCRFunctional");
+					   break;
+				 case 'C0004':
+					   _satellite.track("DCRTargeting");
+					   break;
+				 case 'C0005':
+					   _satellite.track("DCRSocialMedia");
+					   break;
+				 case 'C0009':
+					   _satellite.track("DCRAnonAnalytics");
+					   break;
+		   }
+	  }   
+	}
+	optanonActiveGroupsAux = window.OptanonActiveGroups;             
+}
+</script>
+<!-- OneTrust Cookies Consent Notice end -->
+        
+ 
+<meta  name="twitter:card" content="summary_large_image" />
+<meta  name="twitter:title" content="NatWest completes market’s first SONIA loan for National Express" />
+<meta  name="twitter:Description" content="Following the announcement on 17 June that NatWest is to offer the market’s first SONIA (Sterling Overnight Index Average) loans, the bank has announced this week the delivery of its first SONIA loan for its corporate customer, National Express Group PLC." />
+<meta  name="twitter:image" content="https://www.rbs.com/content/dam/rbs_com/rbs/Images/news/2017/07/economy_580.jpg" />
+<meta  name="twitter:creator" content="@RBS" />
+<meta  name="twitter:site" content="@RBS" />
+<link rel="canonical" href="https://www.rbs.com/rbs/news/2019/07/natwest-completes-markets-first-sonia-loan-for-national-express.html"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/apps/settings/wcm/designs/arete_theme/arete_rbs-com/arete_rbs-com-v1_0/clientlibs/resources/favicon.ico"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=976,user-scalable=yes" />
+    <meta
+    http-equiv="keywords"
+    content=""
+  />
+
+  <meta http-equiv="Last-Modified" content="Wed Jul 03 14:44:46 BST 2019" /><meta name="title" content="NatWest completes market’s first SONIA loan for National Express" /><meta name="description" content="Following the announcement on 17 June that NatWest is to offer the market’s first SONIA (Sterling Overnight Index Average) loans, the bank has announced this week the delivery of its first SONIA loan for its corporate customer, National Express Group PLC." /><meta property="og:title" content="NatWest completes market’s first SONIA loan for National Express"/>
+    <meta property="og:type" content=""/>
+    <meta property="og:image" content=""/>
+    <meta property="og:url" content="https://www.rbs.com/rbs/news/2019/07/natwest-completes-markets-first-sonia-loan-for-national-express.html"/>
+	    <meta property="og:description" content="Following the announcement on 17 June that NatWest is to offer the market’s first SONIA (Sterling Overnight Index Average) loans, the bank has announced this week the delivery of its first SONIA loan for its corporate customer, National Express Group PLC." />
+    <meta class="swiftype" name="swiftTitle" data-type="string" content="NatWest completes market’s first SONIA loan for National Express"/>
+ <meta class="swiftype" name="swiftDescription" data-type="string" content="Following the announcement on 17 June that NatWest is to offer the market’s first SONIA (Sterling Overnight Index Average) loans, the bank has announced this week the delivery of its first SONIA loan for its corporate customer, National Express Group PLC."/>
+  <meta class="swiftype" name="swiftPublished_at" data-type="date" content="Wed Nov 25 01:16:55 GMT 2020"/>
+ <meta class="swiftype" name="swifturl" data-type="enum" content="https://www.rbs.com/rbs/news/2019/07/natwest-completes-markets-first-sonia-loan-for-national-express.html"/>
+ <meta class="swiftype" name="swiftBrand" data-type="string" content="NATWESTGROUP_COM" />
+    <meta class="swiftype" name="swiftSegment" data-type="string" content="natwestgroup" />
+
+  <title>NatWest completes market’s first SONIA loan for National Express</title>
+    <link rel="stylesheet" media="screen" href="/etc.clientlibs/dmp/arete_clientlibs/rbs-com_clientlibs/clientlibs_rbs-com_desktop-v1_0/resources/css/desktop_1-_7ad603327c300d88c7efdd686a27d4b6.min.css">
+			<link rel="stylesheet" media="screen" href="/etc.clientlibs/dmp/arete_clientlibs/rbs-com_clientlibs/clientlibs_rbs-com_desktop-v1_0/resources/css/desktop_2-_7ad603327c300d88c7efdd686a27d4b6.min.css">
+			<link rel="stylesheet" media="screen" href="/etc.clientlibs/dmp/arete_clientlibs/rbs-com_clientlibs/clientlibs_rbs-com_desktop-v1_0/resources/css/desktop_3-_7ad603327c300d88c7efdd686a27d4b6.min.css">
+			<link rel="stylesheet" media="screen" href="/etc.clientlibs/dmp/arete_clientlibs/rbs-com_clientlibs/clientlibs_rbs-com_desktop-v1_0/resources/css/desktop_4-_7ad603327c300d88c7efdd686a27d4b6.min.css">
+			<link rel="stylesheet" media="screen" href="/etc.clientlibs/dmp/arete_clientlibs/rbs-com_clientlibs/clientlibs_rbs-com_desktop-v1_0/resources/css/desktop_5-_7ad603327c300d88c7efdd686a27d4b6.min.css">
+			<link rel="stylesheet" media="screen" href="/etc.clientlibs/dmp/arete_clientlibs/rbs-com_clientlibs/clientlibs_rbs-com_desktop-v1_0/resources/css/desktop_6-_7ad603327c300d88c7efdd686a27d4b6.min.css">
+			<link rel="stylesheet" media="screen" href="/etc.clientlibs/dmp/arete_clientlibs/rbs-com_clientlibs/clientlibs_rbs-com_desktop-v1_0/resources/css/desktop_7-_7ad603327c300d88c7efdd686a27d4b6.min.css">
+			<link rel="stylesheet" media="screen" href="/etc.clientlibs/dmp/arete_clientlibs/rbs-com_clientlibs/clientlibs_rbs-com_desktop-v1_0/resources/css/desktop_8-_7ad603327c300d88c7efdd686a27d4b6.min.css">
+		<link rel="stylesheet" href="/etc.clientlibs/dmp/clientlibs/clientlibs_base/resources/fonts/nw-icons/style-_7ad603327c300d88c7efdd686a27d4b6.css">
+	<link rel="stylesheet" media="print" href="/etc.clientlibs/dmp/clientlibs/clientlibs_base/resources/css/print-_7ad603327c300d88c7efdd686a27d4b6.css">
+<link rel="stylesheet" href="/etc.clientlibs/dmp/clientlibs/clientlibs_base/resources/css/smartbanner-_7ad603327c300d88c7efdd686a27d4b6.css">
+
+<script type="text/javascript" src="/etc.clientlibs/dmp/clientlibs/clientlib_head-_7ad603327c300d88c7efdd686a27d4b6.min.js" async></script>
+
+<script type="text/javascript">
+ var IDM = IDM || {};
+    IDM.validationRules = {};
+    IDM.validationMsgs = {};
+	IDM.lightboxPaths = {};
+    lightboxMessage={};
+    var isFirstTime=0;
+</script>
+<meta name="google-site-verification" content="aZXMvhGht9th3cdgiq5SstvT29tdSEe3TWhsibWT0Xo" />
+	<script src="https://assets.adobedtm.com/launch-EN3575722e6ab9421e85dc0db0407eaa7b.min.js"></script>
+      <link rel="stylesheet" href="/etc.clientlibs/foundation/clientlibs/main.min.css" type="text/css"/>
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/shared.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/main.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.js"></script>
+</head>
+<body>
+        <input type="hidden" name="isAuthorModeFlag" id="isAuthorModeFlag" value="false" />
+		<h1 class="global-header">NatWest completes market’s first SONIA loan for National Express</h1>
+        <div class="wrapper">
+            <ul class="skip-links reset">
+    <li>
+        <a accesskey="a" class="txt-p-1" href="/rbs/news/2019/07.html">Jump to Accessibility</a>
+            </li>
+    <li>
+        <a accesskey="s" class="txt-p-1" href="#access_content">Jump to Content</a>
+    </li>
+  
+</ul><input id="dumpParams" type="hidden" value="[intcam, extcam, olbcam, xtcam, sc_*, s_tnt, adobe_mc_sdid, adobe_mc_ref, alloy_redirect]"/>
+ 
+
+
+
+
+<header class="header--global-nav dynamicHeader" role="banner">
+
+    
+    
+    <div class="mnav">
+        <div class="mnav-content">  
+
+        
+
+
+	<a class="logo">
+    	<img class="logo-img"/>
+    </a>
+
+
+    
+
+
+			
+        </div> 
+    </div>
+
+
+
+
+</header>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        var device ='desktop';
+        var hideInMobile ='';
+        var hideInBrochure = '';
+
+        if(device == "mobile" && hideInMobile == "true"){
+            $.each($(document).find('.displaysidebar-webchat'), function() {
+                $(this).css('visibility', 'hidden');
+            });
+            $('.mobile-chat').each(function(){
+                $('.mobile-chat').hide();
+                $('.mobile-chat').css("position","static");
+            });
+            
+            setTimeout(function(){
+                $(document).find('.displaysidebar-webchat').hide();
+            },1000);
+        }
+        if(device == "desktop" && hideInBrochure == "true"){
+            $.each($(document).find('.displaysidebar-webchat'), function() {
+                $(this).css('visibility', 'hidden');
+            });
+
+            setTimeout(function(){
+                $(document).find('.displaysidebar-webchat').hide();
+            },1000);
+        }
+
+        if(("" == "rbs" || "" == "natwest") && "" != ""){
+            $('header form, .header form').each(function(index){
+                var searchboxinput = $(this).find(':input');
+                var searchboxbutton = $(this).find(':button');
+                if(searchboxinput.attr('name') == 'q'){
+
+                        if(device == "desktop" && "" != "true" ){
+                            var GSAhtml = $("#gsaurlcsearch").html();
+                            var searchHiddenData = $(GSAhtml).find('#GSAhiddenparameters').html();
+                            $("#gsaurlcsearch").remove();
+                            $(this).attr('action',$(GSAhtml).attr('action'));
+                            $(this).attr('method',$(GSAhtml).attr('method'));
+                            $(this).find("button").remove();
+                            $(this).find('input[type="hidden"]').remove();
+                            $(this).prepend( "<label class=\"search-label1\" for=\"search\">search</label>" );
+                            $(this).append(searchHiddenData);
+                        }else if(device == "mobile" && "" != "true"){
+                            var GSAhtml = $("#gsaurlcsearch").html();
+                            var searchHiddenData = $(GSAhtml).find('#GSAhiddenparameters').html();
+                            $(this).attr('action',$(GSAhtml).attr('action'));
+                            $(this).attr('method',$(GSAhtml).attr('method'));
+                            $(this).find("button").remove();
+                            $(this).find('input[type="hidden"]').remove();
+                            $(this).find('span').remove();
+                            $(this).find('div').append(searchHiddenData);
+                            $("#gsaurlcsearch").remove();
+                        }
+
+                     $('<input>').attr({
+                        type: 'hidden',
+                        name: 'agent',
+                        value: 'desktop'
+                    }).appendTo('header form, .header form');
+                }
+            });
+        }
+    });
+</script>
+
+
+<script src="/etc.clientlibs/arete/clientlibs/clientlib_arete_app_components/clientlib_app_articleandblog.min.js"></script>
+<div class="hidden-Webchat-attributes" data-devicemode='desktop' data-lpunit="" data-lpname="chat-marketing-" data-exclude="" data-lpngroupame="" data-section="Marketing" data-product="" data-language="english" data-group="" class="webchatHidden"></div>
+<input type="hidden" name="navigationTag" id="navigationTag" value=""/>
+<div class="main article-blog-template">
+	
+
+    
+	    
+		<div class="communication-banner" data-shelf-name="Communication Banner">
+			<div class="communication-banner__content">
+				<div class="communication-banner__title-wrapper">
+					<h3 class="title-comp">We’re now NatWest Group</h3>
+				</div>
+				<div class="communication-banner__text-wrapper">
+					<span class="text-comp"><p>Come and visit us for all our latest news, insights and everything NatWest Group.</p>
+</span>
+				</div>
+			</div>
+				  
+					<div class="communication-banner__cta-wrapper">
+						<a class="cta cta-secondary  " title="www.natwestgroup.com" href="https://www.natwestgroup.com">
+							<span class="cta-text">www.natwestgroup.com</span>
+						</a>
+					</div>
+				
+		</div>
+	
+<a href="#" onclick="return false;" name="access-content" id="access-content"></a>
+    <div class="breadcrumb">
+	<ul class="breadcrumb__list no-back">
+		<li class="back">
+			    	<a href="/rbs/news.html" id="backLink" alt="back" title="back"><span>Back</span></a>				
+	    		</li>
+			<li class="first">
+						<a href="https://www.natwestgroup.com/" title="RBS"><span>RBS</span></a>						
+					</li>		
+				<li class="">
+						<span class="breadcrumb__slash"> / </span>
+                    	<a href="/rbs/news.html" title="News and opinion"><span>News and opinion</span></a>						
+					</li>		
+				<li class="last">
+						<span class="breadcrumb__slash"> / </span>
+                    	<a href="/rbs/news.html" title="2019"><span>2019</span></a>						
+					</li>		
+				</ul> 
+	</div>
+<script src="/etc.clientlibs/dmp/clientlibs/clientlibs_dmp_global_breadcrumb-_7ad603327c300d88c7efdd686a27d4b6.min.js" async></script>
+
+<div class="abt-first-canvas">
+	<style>
+    .lm-blog-breadcrumb-theme .breadcrumb__list li a, 
+    .lm-blog-breadcrumb-theme .breadcrumb__list li a span, 
+    .lm-blog-breadcrumb-theme .breadcrumb__list .last a span,
+    .lm-blog-breadcrumb-theme .breadcrumb__list .breadcrumb__slash {
+        color:#fff;
+	}
+</style>
+<section id="" class='shelf theme--white shelf--first canvas-shelf' >
+    <div class= ""></div>
+
+	<div class="lifemoments-blog">
+        
+</div>
+
+	<div class="tile--header-group  ">
+        	<h2 class="header-group__headline tile--headline-text">NatWest completes market’s first SONIA loan for National Express</h2>
+        	<h2 class="header-group__sign-post tile--signpost-text">   </h2>
+        </div>
+    <div class="shelf__inner shelf--padded ">
+		<div class="grid ">
+	<div class="grid__item desk--two-thirds">
+				
+
+
+    
+    
+        <p class="stand-first-text">Following the announcement on 17 June that NatWest is to offer the market’s first SONIA (Sterling Overnight Index Average) loans, the bank has announced this week the delivery of its first SONIA loan for its corporate customer, National Express Group PLC.</p>
+        
+    
+
+
+
+
+
+
+
+</div>
+		    <div class="grid__item desk--one-third">
+				<div class="blog-author-info">
+
+<div class="blog-avatar">
+		
+</div>
+
+<div class="blog-name-title">
+
+    
+
+	
+
+</div>
+
+</div>
+
+
+    
+<script src="/etc.clientlibs/dmp/arete_clientlibs/clientlib_app_tagsearch-_7ad603327c300d88c7efdd686a27d4b6.min.js" defer></script>
+
+
+
+
+	
+        
+    		
+				<input id="news-about-RBS" type="hidden" value="/content/rbs_com/en_uk/rbs/news/blog-search.html?tag=news-about-RBS&tagname=Our news"/>
+	   			<a class="tag-list-item" href="#" id="news-about-RBS_anchor" title="Our news"> Our news </a>
+			 
+    	
+   
+
+
+
+
+
+
+
+
+
+
+ 
+
+	<p class="blog-publish-date">02 July 2019 </p>
+
+
+
+
+
+
+</div>
+		</div>
+<div class="clear"></div>
+
+</div>	
+    <div class= ""></div>
+</section></div>
+<style>
+    .lm-blog-breadcrumb-theme .breadcrumb__list li a, 
+    .lm-blog-breadcrumb-theme .breadcrumb__list li a span, 
+    .lm-blog-breadcrumb-theme .breadcrumb__list .last a span,
+    .lm-blog-breadcrumb-theme .breadcrumb__list .breadcrumb__slash {
+        color:#fff;
+	}
+</style>
+<section id="" class='shelf theme--light-grey  canvas-shelf' >
+    <div class= ""></div>
+
+	<div class="lifemoments-blog">
+        
+</div>
+
+	<div class="shelf__inner shelf--padded ">
+		<div class="grid ">
+	<div class="grid__item desk--two-thirds">
+				<img class="image" src="/content/dam/rbs_com/rbs/Images/news/2017/10/image.dim.full.economy-space-580.jpg" alt="Graph showing inflation" title="" longdesc=""/>
+			 <div class="comp-rich-text " data-rte="0.689331374601546" >
+            <p>National Express is a leading public transport operator with bus, coach and rail services across the UK, Europe, North Africa, North America and the Middle East, delivering nearly 900 million journeys in 2018. The loan has been provided as a committed Revolving Credit Facility. Ashurst LLP acted as legal adviser to the bank in this transaction.<br>
+<br>
+The loan is the first in the pilot the bank is running with a small number of customers, before launching the product to the wider market later this year in response to calls from the Financial Conduct Authority (FCA) to accelerate the transition away from LIBOR (London Interbank Offered Rate) to Risk-Free Rates by the end of 2021.<br>
+<br>
+Taking methodology already used in the sterling public bond market, SONIA will be applied using daily compounding with a five-day reset lag, and represents the convention of choice by the market so far.<br>
+<br>
+Bhavin Shah, Head of LIBOR Transition for Commercial Banking at NatWest, said: “Financial markets have already seen an initial shift towards SONIA as a reference rate, such as the bond amendment recently carried out by Associated British Ports, where NatWest Markets acted as Solicitation Agent.<br>
+<br>
+“As the UK’s biggest supporter of businesses, it’s important that NatWest is at the forefront of this shift in the lending market. Since the FCA welcomed our initial announcement, we’ve seen high levels of interest from customers and across the wider industry. We are pleased to be working with National Express on the next stage of the transition away from LIBOR through this pilot.”<br>
+<br>
+Simon Jenkins, Senior Director, Corporate Coverage at NatWest said, “We are delighted to have completed the first SONIA debt facility with National Express as part of our LIBOR transition pilot. The development of the SONIA lending market not only requires financial institutions to develop their products accordingly, but also requires corporates to be innovative in their approach and embrace SONIA-related change. By working in partnership with first movers such as National Express, NatWest is developing a range of solutions to support customers seeking to transition away from LIBOR.”<br>
+<br>
+For more on the LIBOR Transition please visit <a adhocenable="false" href="https://www.rbs.com/rbs/libortransition.html" target="_blank">https://www.rbs.com/rbs/libortransition.html</a><br>
+&nbsp;</p>
+</div>
+   <div class="grid ">
+	<div class="grid__item desk--one--whole">
+						<div class="comp-rich-text " data-rte="0.5549072278658225" >
+            Posted In</div>
+   
+
+
+    
+
+
+
+
+	
+        
+    		
+				<input id="news-about-RBS" type="hidden" value="/content/rbs_com/en_uk/rbs/news/blog-search.html?tag=news-about-RBS&tagname=Our news"/>
+	   			<a class="tag-list-item" href="#" id="news-about-RBS_anchor" title="Our news"> Our news </a>
+			 
+    	
+   
+
+
+
+
+
+</div>
+			     </div>
+<div class="clear"></div>
+<div class="grid ">
+	<div class="grid__item desk--one--whole">
+						<div class="comp-rich-text " data-rte="0.9408757667721339" >
+            Tagged</div>
+   
+
+    
+
+
+
+
+    
+         
+		     <input id="2019" type="hidden" value="/content/rbs_com/en_uk/rbs/news/blog-search.html?tag=2019&tagname=2019"/>
+             <a class="tag-list-item" id="2019_anchor" title="2019" href="#"> 2019 </a>
+    	
+		     <input id="natwest" type="hidden" value="/content/rbs_com/en_uk/rbs/news/blog-search.html?tag=natwest&tagname=NatWest"/>
+             <a class="tag-list-item" id="natwest_anchor" title="NatWest" href="#"> NatWest </a>
+    	
+	
+
+
+
+
+
+
+
+</div>
+			     </div>
+<div class="clear"></div>
+
+</div>
+		    <div class="grid__item desk--one-third">
+				
+</div>
+		</div>
+<div class="clear"></div>
+
+</div>	
+    <div class= ""></div>
+</section><link rel="stylesheet" href="/etc.clientlibs/dmp/arete_clientlibs/automatedlist_clientlibs/rbs-com/rbs-com_desktop-_7ad603327c300d88c7efdd686a27d4b6.min.css" type="text/css"/>
+<section id="" class='shelf theme--white '>
+    <div class="shelf__inner shelf--padded">
+       
+
+
+
+    
+
+
+
+
+
+
+
+<div class="automated-list-wrap">
+	
+    		
+
+
+    
+    	
+    
+    
+
+
+
+   
+    
+    
+        
+            
+            
+			<div class="automated-list-cta"></div>
+         
+      
+	  
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+    
+	
+</div>
+
+
+
+
+
+
+</div>
+</section>
+      
+
+
+
+
+<div style="display:inline;" class="cq-dd-paragraph"><style>
+    .lm-blog-breadcrumb-theme .breadcrumb__list li a, 
+    .lm-blog-breadcrumb-theme .breadcrumb__list li a span, 
+    .lm-blog-breadcrumb-theme .breadcrumb__list .last a span,
+    .lm-blog-breadcrumb-theme .breadcrumb__list .breadcrumb__slash {
+        color:#fff;
+	}
+</style>
+<section id="" class='shelf theme--light-grey  canvas-shelf' >
+    <div class= "canvas-top-separator"></div>
+
+	<div class="lifemoments-blog">
+        
+</div>
+
+	<div class="shelf__inner shelf--padded ">
+		<div class="grid ">
+	<div class="grid__item desk--two-thirds">
+				<div class="comp-rich-text " data-rte="0.45026282794282046" >
+            <h3>We’re now NatWest Group</h3>
+<p>Come and visit us for all our latest news, insights and everything <a href="https://www.natwestgroup.com">NatWest Group</a>.</p>
+</div>
+   
+</div>
+		    <div class="grid__item desk--one-third">
+				
+</div>
+		</div>
+<div class="clear"></div>
+
+</div>	
+    <div class= ""></div>
+</section></div>
+</div><footer class="grid__item footer" role="navigation">
+			<div class="main_Footer rebrand-legal-footer">
+			 <ul class="footer__list">
+            </ul>
+        <div class="find-us">
+                  <span class="find-us__head">
+                       </span>
+                  <ul class="find-us__list">  
+                           </ul>
+        </div>
+       </div>
+			 <div class="regulatory-footer">
+						<p>  </p>
+					</div>
+					<div class="feedback feedback-bottom">
+						<a class="feedbacklink" target="_blank" rel="noopener" href="/" title="Leave feedback for ">
+									<i class="fa fa-comments fa-lg">
+									</i> Feedback</a>
+						</div>
+					</footer>
+	<script src="/etc.clientlibs/dmp/clientlibs/globalnav/clientlibs-globalnav-js-v1_0-_7edf6b5990f5e83ef64641a9ae4d5028.min.js" defer></script>
+<script src="/etc.clientlibs/dmp/clientlibs/clientlibs_base-_014361c0ae757f33248bf169625be1de.min.js" defer></script>
+<script type="text/javascript" src="/etc.clientlibs/dmp/clientlibs/browsermap_standard/resources/libs/browsermap/bmaputil-_7ad603327c300d88c7efdd686a27d4b6.js" defer></script>
+<script async>
+				$(document).ready(function() {
+						var isIE11 = !!navigator.userAgent.match(/Trident.*rv\:11\./);
+							if(isIE11){
+								$('body').append('<link rel="stylesheet" type="text/css" href="/etc.clientlibs/dmp/arete_clientlibs/rbs-com_clientlibs/clientlibs_rbs-com_desktop-v1_0/resources/css/ie.min.css">');
+							}
+				});
+			</script>
+		</div>
+        <div id="modal-overlay" class="modal-overlay">
+            <a id="overly-settab" href="#" class="wai">Set Tab for lightbox</a>
+            <div class="contentWrap">
+            </div>
+        </div>
+        <div class="overlay-wrap">
+            <a id="overly-settab" href="#" class="wai">Set Tab for lightbox</a>
+            <div id="overlay_content" class="overlay-content">
+            </div>
+        </div>
+        <span record="'',{'cq_pageName':':NATWESTGROUP_COM>RBS>NEWS>2019>07>NATWEST-COMPLETES-MARKETS-FIRST-SONIA-LOAN-FOR-NATIONAL-EXPRESS>INDEX','cq_hier1':'NATWESTGROUP_COM>RBS>NEWS>2019>07','cq_channel':getChannel(':NATWESTGROUP_COM>RBS>NEWS>2019>07>NATWEST-COMPLETES-MARKETS-FIRST-SONIA-LOAN-FOR-NATIONAL-EXPRESS>INDEX')}"></span>
+<script type="text/javascript">
+			try{
+				_satellite.pageBottom();
+			}catch(e){
+				console.log("base/body_wrapper: "+e.message);
+			}
+		</script>
+		
+    </body>
+</html>

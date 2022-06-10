@@ -1,0 +1,2208 @@
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html lang="en" class="ie9 no-js"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="en" class="no-js menu-closed">
+<!--<![endif]-->
+<head>
+    
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=1">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png?v=1">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=1">
+
+	<link rel="icon" href="/favicon.ico?v=1" sizes="any">
+	<link rel="icon" href="/favicon.svg?v=1" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="/favicon-180x180.png?v=1"> 
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    
+<title>Future Forum 2018: the highlights | Bank of England</title>
+<meta name="description" content="From 2 November to 28 January 2019 we are hosting our first ever online Future Forum. The theme for this year is ‘Let’s decide the future of money’."/>
+<meta name="format-detection" content="telephone=no" />
+
+<meta property="og:title" content="Future Forum 2018: the highlights">
+<meta property="og:description" content="Our online event took place between 2 November 2018 and 28 January 2019.&#160;">
+<meta property="og:image" content="https://www.bankofengland.co.uk/-/media/boe/images/logo/boe-default ">
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.bankofengland.co.uk/get-involved/future-forum-2018" />
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Future Forum 2018: the highlights">
+<meta name="twitter:description" content="Our online event took place between 2 November 2018 and 28 January 2019.&#160;">
+<meta name="twitter:image" content="https://www.bankofengland.co.uk/-/media/boe/images/logo/boe-default ">
+
+<meta name="google-site-verification" content="TMRiNtp8GCBvvipq7gLAwhRkMFbnFlPPJe_Yt71B47Y" />
+<!-- Google Tag Manager -->
+       <script>
+
+              var CheckCookies = {
+                     getCookie: function (cname) {
+                           var name = cname + "=";
+                           var decodedCookie = decodeURIComponent(document.cookie);
+                           var ca = decodedCookie.split(';');
+                           for (var i = 0; i < ca.length; i++) {
+                                  var c = ca[i];
+                                  while (c.charAt(0) === ' ') {
+                                         c = c.substring(1);
+                                  }
+                                  if (c.indexOf(name) === 0) {
+                                         return c.substring(name.length, c.length);
+                                  }
+                           }
+                           return "";
+                     }
+              };
+              var SetAnalytics = {
+                     setTagManager: function () {
+
+                           var hasConsentAnalytics = CheckCookies.getCookie('boeconsent');
+
+                           if (hasConsentAnalytics === "analytics") {
+                                  (function (w, d, s, l, i) {
+                                         w[l] = w[l] || []; w[l].push({
+                                                'gtm.start':
+                                                       new Date().getTime(), event: 'gtm.js'
+                                         }); var f = d.getElementsByTagName(s)[0],
+                                                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                                                       'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+                                  })(window, document, 'script', 'dataLayer', 'GTM-5H35J9');
+                           }
+                     },
+              }
+              SetAnalytics.setTagManager();
+       </script>
+       <!-- End Google Tag Manager -->    <script>
+    	var el = document.getElementsByTagName('html')[0];
+    	if (el.classList) {
+    		el.classList.remove('no-js');
+    	} else {
+    		el.className = el.className.replace('no-js', '');
+    	}
+    </script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    
+    <link href="/styles/boe.vendor.min.css?v=1" rel="stylesheet" />
+<link href="/styles/BoE.min.css?v=3" rel="stylesheet" />
+
+
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="9R3WH-S6EDC-8JGQW-55286-CGTTF",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"9R3WH-S6EDC-8JGQW-55286-CGTTF",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="2nicxktioxtkeysmiqha-f-e5003593f-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"32","ak.cp":"445139","ak.ai":parseInt("286733",10),"ak.ol":"0","ak.cr":238,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"8f9ebcf","ak.r":19610,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"211.80.43.0","ak.cport":6026,"ak.gh":"165.254.96.16","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1649165326","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==pcWgjAmvRwebpqJ2yUlfYemC9COjwYN9d7PQdKNRe4WbaTVvbaoRhnTI8cys/UCKQQ+u13OLGpETywwXld8DWcajzKCUGCrmvEb+kSUx+Q3HMCkfe7mJzszOVKquZc2z/AGtglP/xPQfwOvIk6JiUQFBTZlWqtJNt5b03bSmXlLJD/nwYVjEKvFq1h1OUJmfBUB/eL2i5Y6sUQaV5D0HvfgZYg1LYQOJwOaMhI1fD4g2FTVPHGlfwZdWcKMDiclZzkTHdKXhDxvx5xPJVv+JD1fghmEFh5A2imByaOhsdDsILrnlpTu5PRI7fNlkYs66SpiutMjMA2BcwOXtPISIW8qJlJ8kGkbDQ4XY02eApdKv6nuCIxZLJB2OCTpEUuKlkyiQlGnzVf2PgEF8JQgrf9UJzTfOZIR8O3npi8dHSVA=","ak.pv":"257","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body >
+
+    <div class="wrap" itemscope="" itemtype="http://schema.org/WebPage">
+        
+<div class="cookie-notice">
+	<div class="cookie-notice__panel">
+		<div class="cookie-content content-block">
+			<h2 class="cookie-title exclude-navigation">Our use of cookies</h2>
+
+			<p>We use necessary cookies to make our site work (for example, to manage your session). We&rsquo;d also like to use some non-essential cookies (including third-party cookies) to help us improve the site. By clicking &lsquo;Accept recommended settings&rsquo; on this banner, you accept our use of optional cookies.</p>
+
+
+			<table class="cookie-notice__table">
+				<tr>
+						<th>Necessary cookies</th>
+											<th>Analytics cookies</th>
+											<td class="table-header">&nbsp;</td>
+				</tr>
+				<tr>
+					<td>Yes</td>
+					<td>Yes</td>
+					<td>
+						<button class="cookie__button btn btn-default" data-cookie="analytics">Accept recommended cookies</button>
+					</td>
+				</tr>
+				<tr>
+					<td>Yes</td>
+					<td>No</td>
+					<td><button class="cookie__button btn btn-default btn-neutral" data-cookie="necessary">Proceed with necessary cookies only</button></td>
+				</tr>
+			</table>
+
+			<h3>Necessary cookies</h3>
+			<p>Necessary cookies enable core functionality on our website such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions. </p>
+						<h3>Analytics cookies</h3>
+			<p>We use analytics cookies so we can keep track of the number of visitors to various parts of the site and understand how our website is used. For more information on how these cookies work please see our <a href="/legal/privacy-and-cookie-policy">Cookie policy</a>.</p>
+		</div>
+	</div>
+</div>
+
+        <div class="nav-bypass">
+            <a href="#main-content" class="nav-bypass__link">Skip to main content</a>
+        </div>
+        
+<header class="global-header" itemscope="" itemtype="http://schema.org/WPHeader">
+    <div class="container">
+        <div class="col12">
+            <div class="header-brand" itemscope="" itemtype="http://schema.org/Organisation">
+                
+
+
+	<a class="header-logo " itemscope itemtype="http://schema.org/Brand" href="/">
+		<img src="/-/media/boe/images/logo/logo-boe.svg?la=en&amp;mh=61&amp;hash=0CD1D514D1E9041B46E7208F34964A41C1DA1C69" alt="Bank of England" />
+    
+	</a>
+
+            </div>
+
+            <div class="header-nav " id="menu">
+                <nav class="container-nav-primary" id="container-nav-primary" role="navigation" aria-label="Main navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement" data-nav-primary>
+                    <button class="nav-primary__button" href="#" aria-controls="main-menu" data-nav-toggle>
+                        <span class="icon-menu"><span class="visually-hidden">Main menu</span></span>
+                        <span class="icon-cross"><span class="visually-hidden">Close main menu</span></span>
+                    </button>
+                    <ul class="nav-primary" id="main-menu">
+                        
+                        
+
+<li class="nav-primary__list-item nav-primary__list-item--has-children" data-nav-has-children>
+    <a class="nav-primary__link" href="#">
+        Explore
+    </a>
+    <button class="nav-primary__dropdown-toggle">
+		<span class="visually-hidden">
+			Open Explore sub menu
+		</span>
+	</button>
+    <ul class="nav-primary__sublist">
+        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                Back <span class="visually-hidden">to main menu</span>
+            </a>
+        </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/banknotes" class="nav-primary__sublist-link">
+                        Banknotes
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Banknotes sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/banknotes/banknote-characters" class="nav-primary__sublist-link">
+                                    Choosing banknote characters 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/banknotes/counterfeit-banknotes" class="nav-primary__sublist-link">
+                                    Counterfeit banknotes 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/banknotes/current-banknotes" class="nav-primary__sublist-link">
+                                    Current banknotes 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/banknotes/damaged-and-contaminated-banknotes" class="nav-primary__sublist-link">
+                                    Damaged and contaminated banknotes 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/banknotes/exchanging-old-banknotes" class="nav-primary__sublist-link">
+                                    Exchanging old banknotes 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/banknotes/note-circulation-scheme" class="nav-primary__sublist-link">
+                                    Note Circulation Scheme 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/banknotes/scottish-and-northern-ireland-banknotes" class="nav-primary__sublist-link">
+                                    Scottish and Northern Ireland banknotes 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/banknotes/using-images-of-banknotes" class="nav-primary__sublist-link">
+                                    Using images of banknotes 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/banknotes/withdrawn-banknotes" class="nav-primary__sublist-link">
+                                    Withdrawn banknotes 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/careers" class="nav-primary__sublist-link">
+                        Careers
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Careers sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/careers/career-stories" class="nav-primary__sublist-link">
+                                    Career stories 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/careers/early-careers" class="nav-primary__sublist-link">
+                                    Early careers 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/careers/information-for-job-applicants" class="nav-primary__sublist-link">
+                                    Information for job applicants 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/careers/why-you-should-join-us" class="nav-primary__sublist-link">
+                                    Why you should join us 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item" >
+                    <a href="/climate-change" class="nav-primary__sublist-link">
+                        Climate change
+                    </a>
+                            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/education" class="nav-primary__sublist-link">
+                        Education
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Education sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/education/competitions" class="nav-primary__sublist-link">
+                                    Competitions 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/education/education-resources" class="nav-primary__sublist-link">
+                                    Education resources 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/education/research-support-programme" class="nav-primary__sublist-link">
+                                    Research support programme 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/education/school-visits" class="nav-primary__sublist-link">
+                                    Request a speaker for your school 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/financial-stability" class="nav-primary__sublist-link">
+                        Financial stability
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Financial stability sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/financial-stability/financial-market-infrastructure-supervision" class="nav-primary__sublist-link">
+                                    Financial market infrastructure supervision 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/financial-stability/operational-resilience-of-the-financial-sector" class="nav-primary__sublist-link">
+                                    Operational resilience of the financial sector 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/financial-stability/resolution" class="nav-primary__sublist-link">
+                                    Resolution 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/get-involved" class="nav-primary__sublist-link">
+                        Get involved
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Get involved sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/get-involved/citizens-panels" class="nav-primary__sublist-link">
+                                    Citizens’ Forum 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/get-involved/community-forums" class="nav-primary__sublist-link">
+                                    Community forums 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/get-involved/community-partners" class="nav-primary__sublist-link">
+                                    Partners 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/get-involved/flagship-seminars" class="nav-primary__sublist-link">
+                                    Flagship seminars 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/get-involved/youth-forum" class="nav-primary__sublist-link">
+                                    Youth Forum 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item" >
+                    <a href="/gold" class="nav-primary__sublist-link">
+                        Gold
+                    </a>
+                            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/markets" class="nav-primary__sublist-link">
+                        Markets
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Markets sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/covid-corporate-financing-facility" class="nav-primary__sublist-link">
+                                    Covid Corporate Financing Facility (CCFF) 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/eligible-collateral" class="nav-primary__sublist-link">
+                                    Eligible collateral 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/fair-and-effective-markets" class="nav-primary__sublist-link">
+                                    Fair and Effective Markets  
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/foreign-currency-reserves" class="nav-primary__sublist-link">
+                                    Foreign currency reserves 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/greening-the-corporate-bond-purchase-scheme" class="nav-primary__sublist-link">
+                                    Greening our Corporate Bond Purchase Scheme (CBPS) 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/market-intelligence" class="nav-primary__sublist-link">
+                                    Market intelligence 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/money-markets-committee-and-uk-money-markets-code" class="nav-primary__sublist-link">
+                                    Money Markets Committee and UK Money Markets Code 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/bank-of-england-market-operations-guide" class="nav-primary__sublist-link">
+                                    Bank of England Market Operations Guide 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/collateral-and-settlement" class="nav-primary__sublist-link">
+                                    Settlement and collateral management 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/sonia-benchmark" class="nav-primary__sublist-link">
+                                    SONIA interest rate benchmark 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/the-sterling-bond-portfolio" class="nav-primary__sublist-link">
+                                    The Sterling Bond Portfolio 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/markets/transition-to-sterling-risk-free-rates-from-libor" class="nav-primary__sublist-link">
+                                    Transition from LIBOR to risk-free rates 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/monetary-policy" class="nav-primary__sublist-link">
+                        Monetary policy
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Monetary policy sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/monetary-policy/inflation" class="nav-primary__sublist-link">
+                                    Inflation and the 2% target 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/monetary-policy/quantitative-easing" class="nav-primary__sublist-link">
+                                    What is quantitative easing? 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/monetary-policy/the-interest-rate-bank-rate" class="nav-primary__sublist-link">
+                                    Interest rates and Bank Rate 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/payment-and-settlement" class="nav-primary__sublist-link">
+                        Payment and settlement
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Payment and settlement sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/payment-and-settlement/chaps" class="nav-primary__sublist-link">
+                                    CHAPS 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/payment-and-settlement/cross-border-payments" class="nav-primary__sublist-link">
+                                    Cross-border payments 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/payment-and-settlement/payment-and-settlement-statistics" class="nav-primary__sublist-link">
+                                    Payment and settlement statistics 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/payment-and-settlement/rtgs-renewal-programme" class="nav-primary__sublist-link">
+                                    RTGS Renewal Programme 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/prudential-regulation" class="nav-primary__sublist-link">
+                        Prudential regulation
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Prudential regulation sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/prudential-regulation/authorisations" class="nav-primary__sublist-link">
+                                    Authorisations 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/prudential-regulation/new-bank-start-up-unit" class="nav-primary__sublist-link">
+                                    New Bank Start-up Unit 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/prudential-regulation/new-insurer-start-up-unit" class="nav-primary__sublist-link">
+                                    New Insurer Start-up Unit 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/prudential-regulation/policy" class="nav-primary__sublist-link">
+                                    Policy 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/prudential-regulation/pra-statutory-powers" class="nav-primary__sublist-link">
+                                    The PRA’s statutory powers and enforcement 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/prudential-regulation/regulatory-reporting" class="nav-primary__sublist-link">
+                                    Regulatory reporting 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/prudential-regulation/secondary-competition-objective" class="nav-primary__sublist-link">
+                                    Our competition objective 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/prudential-regulation/supervision" class="nav-primary__sublist-link">
+                                    Supervision 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/research" class="nav-primary__sublist-link">
+                        Research
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Research sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/research/bank-of-england-agenda-for-research" class="nav-primary__sublist-link">
+                                    Bank of England Agenda for Research 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/research/digital-currencies" class="nav-primary__sublist-link">
+                                    UK central bank digital currency 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/research/fintech" class="nav-primary__sublist-link">
+                                    Fintech 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/research/future-finance" class="nav-primary__sublist-link">
+                                    The Future of Finance - our response 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/research/visitor-programme" class="nav-primary__sublist-link">
+                                    Research Visitor Programme 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/research/research-funding-and-fellowships" class="nav-primary__sublist-link">
+                                    Research funding and fellowships 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/research/researchers" class="nav-primary__sublist-link">
+                                    Researchers 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+            <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children>
+                    <a href="/statistics" class="nav-primary__sublist-link">
+                        Statistics
+                    </a>
+                                    <button class="nav-primary__dropdown-toggle">
+                        <span class="visually-hidden">Open Statistics sub menu</span>
+                    </button>
+                    <ul class="nav-primary__sublist">
+                        <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                            <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                Back <span class="visually-hidden">to main menu</span>
+                            </a>
+                        </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/banknote" class="nav-primary__sublist-link">
+                                    Banknote statistics 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/tables" class="nav-primary__sublist-link">
+                                    Bankstats tables 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/data-collection" class="nav-primary__sublist-link">
+                                    Data collection 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/exchange-rates" class="nav-primary__sublist-link">
+                                    Exchange rates 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/gold" class="nav-primary__sublist-link">
+                                    Gold statistics 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/gdp-real-time-database" class="nav-primary__sublist-link">
+                                    Gross Domestic Product Real-Time Database 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/option-implied-probability-density-functions" class="nav-primary__sublist-link">
+                                    Option-implied probability density functions 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/research-datasets" class="nav-primary__sublist-link">
+                                    Research datasets 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/statistics-requested-by-users" class="nav-primary__sublist-link">
+                                    Statistics requested by users 
+                                </a>
+                            </li>
+                            <li class="nav-primary__sublist-item">
+                                <a href="/statistics/yield-curves" class="nav-primary__sublist-link">
+                                    Yield curves 
+                                </a>
+                            </li>
+					</ul>
+            </li>
+    </ul>
+</li>
+
+                        
+                                <li class="nav-primary__list-item nav-primary__list-item--has-children" data-nav-has-children>
+
+            <a href="/about" class="nav-primary__link" >
+                <span>About</span>
+            </a>
+				<button class="nav-primary__dropdown-toggle">
+					<span class="visually-hidden">Open About sub menu</span>
+			    </button>
+				<ul class="nav-primary__sublist">
+					<li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+						<a href="#" class="nav-primary__sublist-link" data-nav-back>
+							Back <span class="visually-hidden">to main menu</span>
+						</a>
+					</li>
+                    <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children >
+                        <a href="/about/governance-and-funding" class="nav-primary__sublist-link" >
+                                Governance and funding
+                        </a>
+                            <button class="nav-primary__dropdown-toggle">
+                                <span class="visually-hidden">Open Governance and funding sub menu</span>
+                            </button>
+                            <ul class="nav-primary__sublist">
+                                <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                                    <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                        Back <span class="visually-hidden">to main menu</span>
+                                    </a>
+                                </li>
+                                        <li class="nav-primary__sublist-item">
+                                            <a href="/about/governance-and-funding/staff-codes-and-policies" class="nav-primary__sublist-link" >
+                                                Staff codes and policies
+                                            </a>
+                                        </li>
+                            </ul>
+                    </li>
+                    <li class="nav-primary__sublist-item"  >
+                        <a href="/about/history" class="nav-primary__sublist-link" >
+                                History
+                        </a>
+                    </li>
+                    <li class="nav-primary__sublist-item  nav-primary__sublist-item--has-children" data-nav-has-children >
+                        <a href="/about/people" class="nav-primary__sublist-link" >
+                                Our people
+                        </a>
+                            <button class="nav-primary__dropdown-toggle">
+                                <span class="visually-hidden">Open Our people sub menu</span>
+                            </button>
+                            <ul class="nav-primary__sublist">
+                                <li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+                                    <a href="#" class="nav-primary__sublist-link" data-nav-back>
+                                        Back <span class="visually-hidden">to main menu</span>
+                                    </a>
+                                </li>
+                                        <li class="nav-primary__sublist-item">
+                                            <a href="/about/people/agents" class="nav-primary__sublist-link" >
+                                                Agents
+                                            </a>
+                                        </li>
+                                        <li class="nav-primary__sublist-item">
+                                            <a href="/about/people/chief-cashiers" class="nav-primary__sublist-link" >
+                                                Chief Cashiers
+                                            </a>
+                                        </li>
+                                        <li class="nav-primary__sublist-item">
+                                            <a href="/about/people/court-of-directors" class="nav-primary__sublist-link" >
+                                                Court of Directors
+                                            </a>
+                                        </li>
+                                        <li class="nav-primary__sublist-item">
+                                            <a href="/about/people/executive-directors" class="nav-primary__sublist-link" >
+                                                Executive Directors
+                                            </a>
+                                        </li>
+                                        <li class="nav-primary__sublist-item">
+                                            <a href="/about/people/financial-policy-committee" class="nav-primary__sublist-link" >
+                                                Financial Policy Committee
+                                            </a>
+                                        </li>
+                                        <li class="nav-primary__sublist-item">
+                                            <a href="/about/people/governors" class="nav-primary__sublist-link" >
+                                                Governors
+                                            </a>
+                                        </li>
+                                        <li class="nav-primary__sublist-item">
+                                            <a href="/about/people/monetary-policy-committee" class="nav-primary__sublist-link" >
+                                                Monetary Policy Committee
+                                            </a>
+                                        </li>
+                                        <li class="nav-primary__sublist-item">
+                                            <a href="/about/people/prudential-regulation-committee" class="nav-primary__sublist-link" >
+                                                Prudential Regulation Committee
+                                            </a>
+                                        </li>
+                            </ul>
+                    </li>
+				</ul>
+		</li>
+        <li class="nav-primary__list-item nav-primary__list-item--has-children" data-nav-has-children>
+
+            <a href="/news" class="nav-primary__link" >
+                <span>News and publications</span>
+            </a>
+				<button class="nav-primary__dropdown-toggle">
+					<span class="visually-hidden">Open News and publications sub menu</span>
+			    </button>
+				<ul class="nav-primary__sublist">
+					<li class="nav-primary__sublist-item nav-primary__sublist-item--back">
+						<a href="#" class="nav-primary__sublist-link" data-nav-back>
+							Back <span class="visually-hidden">to main menu</span>
+						</a>
+					</li>
+                    <li class="nav-primary__sublist-item"  >
+                        <a href="/news/events" class="nav-primary__sublist-link" >
+                                Events
+                        </a>
+                    </li>
+                    <li class="nav-primary__sublist-item"  >
+                        <a href="/news/news" class="nav-primary__sublist-link" >
+                                News and minutes
+                        </a>
+                    </li>
+                    <li class="nav-primary__sublist-item"  >
+                        <a href="/news/prudential-regulation" class="nav-primary__sublist-link" >
+                                Prudential regulation publications
+                        </a>
+                    </li>
+                    <li class="nav-primary__sublist-item"  >
+                        <a href="/news/publications" class="nav-primary__sublist-link" >
+                                Publications
+                        </a>
+                    </li>
+                    <li class="nav-primary__sublist-item"  >
+                        <a href="/news/speeches" class="nav-primary__sublist-link" >
+                                Speeches
+                        </a>
+                    </li>
+                    <li class="nav-primary__sublist-item"  >
+                        <a href="/news/statistics" class="nav-primary__sublist-link" >
+                                Statistical releases
+                        </a>
+                    </li>
+                    <li class="nav-primary__sublist-item"  >
+                        <a href="/news/upcoming" class="nav-primary__sublist-link" >
+                                Upcoming
+                        </a>
+                    </li>
+				</ul>
+		</li>
+        <li class="nav-primary__list-item" >
+
+            <a href="/museum" class="nav-primary__link" >
+                <span>Museum</span>
+            </a>
+		</li>
+        <li class="nav-primary__list-item" >
+
+            <a href="/contact" class="nav-primary__link" >
+                <span>Contact</span>
+            </a>
+		</li>
+
+
+                        
+                            <li class="nav-primary__list-item">
+                                
+
+
+<div class="search-widget general-search" data-id="search-input" data-type="searchPage" data-placeholder="Search the Bank of England" data-empty="Search the Bank of England">
+    <form action="/search#" method="get" onsubmit="return CP.SEARCH.Submit('/search#', 'cludoquery', '');">
+        <div class="search-widget-fields">
+            <label for="search-input" class="label-hidden">Search</label>
+            <div id="search-autocomplete" class="autocomplete-wrap"></div>
+            <button class="search-widget-clear" aria-label="Clear the field" type="button"></button>
+            <button class="search-widget-btn" type="submit">Search</button>
+            <div role="alert" class="search-widget-error" id="search-error"></div>
+        </div>
+    </form>
+</div>
+
+    
+        <script type="text/javascript">
+        	var CP = CP || {};
+        	CP.BOE = CP.BOE || {};
+        	CP.BOE.ContentPageSearchDataSourceID = CP.BOE.ContentPageSearchDataSourceID || "{CE377CC8-BFBC-418B-B4D9-DBC1C64774A8}";
+        </script>
+    
+
+                            </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+        <main class="main" id="main-content" role="main">
+            
+
+ 
+
+
+<section class="page-banner">
+    <div class="page-banner__head">
+        <div class="container">
+            <div class="col9">
+                <nav aria-label="Breadcrumb">
+
+	<ol class="list-breadcrumbs">
+		<li class="list-breadcrumbs__item">
+			<a href="/" class="list-breadcrumbs__link">
+				Home
+			</a>
+		</li>
+		<li class="list-breadcrumbs__item">
+			<a href="/get-involved" class="list-breadcrumbs__link">
+				Get involved
+			</a>
+		</li>
+
+		<li class="list-breadcrumbs__item list-breadcrumbs__item--active" aria-current="page">
+			Future Forum 2018: the highlights
+		</li>
+
+	</ol>
+</nav>
+
+
+				<h1 itemprop="name">Future Forum 2018: the highlights</h1>
+            </div>
+        </div>
+
+    </div>
+    <div class="page-banner__body">
+        <div class="container">
+                <div class="col9 m-3_4">
+
+                        <div class="page-description" itemprop="description">       
+                            <span class="hero">Our online event took place between 2 November 2018 and 28 January 2019.&#160;</span>
+                        </div>
+                </div>
+                            <div class="col3 m-1_4">
+                    
+<div class="related-links-wrap">
+	<ul class="accordion" data-accordion-mobile>
+		<li>
+			<div class="accordion-head">
+				<h2 class="exclude-navigation">
+					<span class="display-lap-desk">Related links</span>
+					<button class="accordion-button">
+						Related links
+						<span class="accordion-toggle"></span>
+					</button>
+				</h2>
+			</div>
+			<div class="accordion-content">
+				<ul class="related-links">
+					
+
+<li>
+		<a href="/news/2018/november/launch-of-the-future-forum-2018-lets-decide-the-future-of-money"  >
+			Launch of the Future Forum 2018: Let’s Decide the Future of Money
+		</a>
+</li>
+
+<li>
+		<a href="/events/2017/november/future-forum-2017"  >
+			Future Forum 2017
+		</a>
+</li>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</div>
+                </div>
+
+        </div>
+    </div>
+
+</section>
+
+
+<section class="page-section  ">
+  <div class="container">
+     <div class="col9">
+          <div class="content-block">
+        <div class="page-content" data-id="d950df08106f45328b9930931292488f">
+            <p>Nearly 1000 people shared their views, ideas and concerns about the future of money with us on our online event, Future Forum 2018. </p>
+<p>Over three months, we received almost 100 different ideas on topics such as closing high street banks and the possibilities of new financial technology. It led to some great debates generating more than 1000 comments. </p>
+<p>We held this event online so more people could join in and tell us what they think our role in society should be.  </p>
+<p>We invited the most active commentators to our closing event at the Bank of England on 28 January 2019 so they could talk directly to our Governors about the future of money. </p>
+<ul class="list-links">
+    <li class="list-links__item">               <a class="list-links__link" href="https://www.youtube.com/watch?v=--8t85ipwvo" target="_blank">Watch a recording of the event</a>           </li>
+</ul>
+<p>We’ve rounded up the highlights below. </p>
+        </div>
+    </div>
+
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+
+</section>
+<section class="page-section  ">
+  <div class="container">
+     <div class="col9">
+          <div class="content-block">
+        <div class="page-content" data-id="fb9796ec1c1a4df693151a55f2c02d06">
+            <h2>Fintech: New technologies, old risks?</h2>
+<p>Listen to Deputy Governor for Financial Stability, Jon Cunliffe, and Tom Mutton, Director of Fintech, discuss the risks and possibilities of fintech.</p>
+<p><a class="btn btn-cta btn-lg icon-link-ext" target="_blank" href="https://soundcloud.com/bankofengland/fintech" title="Visit the Soundcloud website to listen to the podcast. Opens in a new window">Listen to podcast</a></p>
+        </div>
+    </div>
+
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+
+</section>
+<section class="page-section  ">
+  <div class="container">
+     <div class="col9">
+          <div class="content-block">
+        <div class="page-content" data-id="4bf859b7a70f45469e01b085974f6455">
+            <h2>Could you go cashless or only use cash for a week? </h2>
+<p>We launched Future Forum with a cash vs cashless challenge. We asked people who mainly use cash to go cashless for a week and those who rely on card to use only cash. </p>
+<p>We also asked our Twitter followers how they pay for things. The results were: </p>
+<p>What forms of payment do you use the most? <br />
+<br />
+a.<span>  </span>Cash - 28.6%<br />
+b.<span>  </span>Card - 58.3%<br />
+c.<span>  </span>Cheque - 2.4%<br />
+d.<span>  </span>Apple Pay - 10.7%</p>
+        </div>
+    </div>
+
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+
+</section>
+<section class="page-section  ">
+  <div class="container">
+     <div class="col9">
+          <div class="content-block">
+        <div class="page-content" data-id="9e66fe72caf84a66a914fb7591d6c753">
+            <h2>Discover the history of money</h2>
+<p>If you want to know more about what came before crypto-assets, contactless cards and even cash, explore our timeline of the history of money. </p>
+<p><a href="https://spark.adobe.com/page/dAUnMuJIMNGMO/" target="_blank" title="Opens in a new window"><img height="788" alt="How has money changed over time?" width="1178" src="/-/media/boe/images/knowledgebank/how-has-money-changed-over-time.jpg?la=en&amp;hash=79F6434FC71897EEA964AC2B39A629C9463A4ADC" /></a></p>
+        </div>
+    </div>
+
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+
+</section>
+<section class="page-section  ">
+  <div class="container">
+     <div class="col9">
+          <div class="content-block">
+        <div class="page-content" data-id="e1eb7591015b44a1953c8608f364f235">
+            <h2>How often do you use your bank?</h2>
+<p>We asked people on the street how often they go into their bank or building society.</p>
+        </div>
+    </div>
+
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+<div class="container">
+     <div class="col6">
+          <div class="content-block">
+        <div class="page-content" data-id="7686e1fb158d4d3f9de8e27bf255699d">
+            <a href="https://twitter.com/bankofengland/status/1086589839728730112" target="_blank" title="Visit Twitter. Opens in a new window"><img alt="Tweet asking 'How often do you go into a bank or building society?'" src="/-/media/boe/images/outreach/future-forum-2018-twitter.jpg?h=1381&amp;w=1015&amp;hash=369ABFDF44FE3AC6DFFDA9AC7E81D8FC9CF1BEEB&amp;la=en" /></a>
+        </div>
+    </div>
+
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+
+</section>
+<section class="page-section  ">
+  <div class="container">
+     <div class="col9">
+          <div class="content-block">
+        <div class="page-content" data-id="664c02d07f0946359da89a007874f3f4">
+            <h2>See a visual summary of the popular online Q&amp;A sessions with our Governors</h2>
+        </div>
+    </div>
+
+ </div>
+ 
+ <div class="col12">
+      
+
+
+<div class="img-carousel-wrap">
+        <div class="img-carousel" id="cf53f2fa66474befb3e82949e2669ce8-1">
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-01.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-01.jpg?mh=658&amp;mw=1170&amp;hash=82808BA7B7C0A0A918FA550F5252332CE4A418FE" alt="Visual scribe on cash" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-02.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-02.jpg?mh=658&amp;mw=1170&amp;hash=648A7C1CC1EE1962B8351172090245B96B457A02" alt="Visual scribe - your opinion on digital cash" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-03.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-03.jpg?mh=658&amp;mw=1170&amp;hash=6A4FB167AB4848BBB509D5D5A0E86D698F55C540" alt="Visual scribe on digital currency" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-04.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-04.jpg?mh=658&amp;mw=1170&amp;hash=46C9B0137BD5FE4DA551B592E133B80580E095AA" alt="Visual scribe - Bank to the future with Chief Operating Officer Jo Place" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-05.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-05.jpg?mh=658&amp;mw=1170&amp;hash=8AF6FC063ED477E5BEF1C7C69DBE9CAC73CF3637" alt="Visual scribe - Bank to the future with Chief Operating Officer Jo Place part 2" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-06.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-06.jpg?mh=658&amp;mw=1170&amp;hash=C7661E547EFE8171B91CBD7D764A003C353215F1" alt="Visual scribe on youth forum with Deputy Governor Ben Broadbent" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-07.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-07.jpg?mh=658&amp;mw=1170&amp;hash=8077E5191F88F0D432B1CCA5A47978F73BB46692" alt="Visual scribe on youth forum with Deputy Governor Ben Broadbent part 2" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-08.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-08.jpg?mh=658&amp;mw=1170&amp;hash=E6C36E402455D58E460CEB360DDF70B307089C1E" alt="Visual scribe - Banking on a new world with Deputy Governor Jon Cunliffe" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-09.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-09.jpg?mh=658&amp;mw=1170&amp;hash=192CFE12A9BC431A4E052C613557F34AFB632923" alt="Visual scribe - Banking on a new world with Deputy Governor Jon Cunliffe part 2" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-10.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-10.jpg?mh=658&amp;mw=1170&amp;hash=1AC7F6AD63FF75B54E8AE0DE3D8E73182C68CDB6" alt="Visual scribe - Future of money with Governor Mark Carney" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-11.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-11.jpg?mh=658&amp;mw=1170&amp;hash=B48FFE89103E65BFCB19981AF9473FBC7AE37748" alt="Visual scribe - Future of money with Governor Mark Carney part 2" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-12.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-12.jpg?mh=658&amp;mw=1170&amp;hash=3A3C9BC250625EEAC5CA9097DF5421F31709A6AC" alt="Visual scribe - Future Forum culmination event" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-13.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-13.jpg?mh=658&amp;mw=1170&amp;hash=80991C552418DF172A13B4D3FAE1BE519E3D6974" alt="Visual scribe - Future Forum culmination event part 2" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-14.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-14.jpg?mh=658&amp;mw=1170&amp;hash=26DBD343B138461E4CEE26FE04D2F087C781F0A9" alt="Visual scribe - Future Forum culmination event part 3" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-15.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-15.jpg?mh=658&amp;mw=1170&amp;hash=0AC46D5BFA13749547E5B6D8B909394249DEDAB9" alt="Visual scribe - Future Forum culmination event part 4" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-16.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-16.jpg?mh=658&amp;mw=1170&amp;hash=99AB65B455220856ED7A84F3F750AAB3F9A73F54" alt="Visual scribe - Future Forum culmination event part 5" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+        </div>
+        <div class="img-carousel-nav-wrap">
+            <div class="img-carousel-nav" id="cf53f2fa66474befb3e82949e2669ce8">
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-01.jpg?mh=2147483647&amp;mw=130&amp;hash=81D446F25EB9CA62E63212155ADA19645EE31DC1" alt="Visual scribe on cash" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide00"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-02.jpg?mh=2147483647&amp;mw=130&amp;hash=7D249E7F75DBE441D0DFCA4524F8D56207B912C2" alt="Visual scribe - your opinion on digital cash" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide01"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-03.jpg?mh=2147483647&amp;mw=130&amp;hash=C3E620CE1E9E918D453FCFEDED7573D708792367" alt="Visual scribe on digital currency" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide02"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-04.jpg?mh=2147483647&amp;mw=130&amp;hash=DAB6C114C889508BACBF8FA75A13EFB5250E157F" alt="Visual scribe - Bank to the future with Chief Operating Officer Jo Place" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide03"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-05.jpg?mh=2147483647&amp;mw=130&amp;hash=76CDFC12486798E149FB323D9F6C9ECF938016B3" alt="Visual scribe - Bank to the future with Chief Operating Officer Jo Place part 2" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide04"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-06.jpg?mh=2147483647&amp;mw=130&amp;hash=1862132ADC7995EE6006EF6558B9B1A39C5363D6" alt="Visual scribe on youth forum with Deputy Governor Ben Broadbent" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide05"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-07.jpg?mh=2147483647&amp;mw=130&amp;hash=39D7393E33126F05FACDA9454A120EFD4B883139" alt="Visual scribe on youth forum with Deputy Governor Ben Broadbent part 2" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide06"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-08.jpg?mh=2147483647&amp;mw=130&amp;hash=A9E9F8BCE32335501FDEFAA6628445BC9E125E8C" alt="Visual scribe - Banking on a new world with Deputy Governor Jon Cunliffe" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide07"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-09.jpg?mh=2147483647&amp;mw=130&amp;hash=DB1B2D1850996583E25E18C5089F8321479D3C12" alt="Visual scribe - Banking on a new world with Deputy Governor Jon Cunliffe part 2" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide08"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-10.jpg?mh=2147483647&amp;mw=130&amp;hash=297F433B4F8288B504F6896ED72BA6A51C81094D" alt="Visual scribe - Future of money with Governor Mark Carney" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide09"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-11.jpg?mh=2147483647&amp;mw=130&amp;hash=80E2639F18D3CF6A2332C18670F7EC1369CCB546" alt="Visual scribe - Future of money with Governor Mark Carney part 2" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide10"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-12.jpg?mh=2147483647&amp;mw=130&amp;hash=2A061EF105DABE262A946647553E13E8144F3BF5" alt="Visual scribe - Future Forum culmination event" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide11"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-13.jpg?mh=2147483647&amp;mw=130&amp;hash=B939B9D1986286D4CAD97B58D8126664C9893C76" alt="Visual scribe - Future Forum culmination event part 2" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide12"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-14.jpg?mh=2147483647&amp;mw=130&amp;hash=2BA1ECAF2A74069F710779405177A5F8A6E3E926" alt="Visual scribe - Future Forum culmination event part 3" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide13"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-15.jpg?mh=2147483647&amp;mw=130&amp;hash=85E4DEFBF8C9CB84F181ECCA286136E41B212E4C" alt="Visual scribe - Future Forum culmination event part 4" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide14"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-scribe-16.jpg?mh=2147483647&amp;mw=130&amp;hash=CEF31F5F6A2674E73065DD1B4163355B5A5055F4" alt="Visual scribe - Future Forum culmination event part 5" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide15"></div>
+                        </div>
+
+
+            </div>
+        </div>
+</div>
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+
+</section>
+<section class="page-section  ">
+  <div class="container">
+     <div class="col9">
+          <div class="content-block">
+        <div class="page-content" data-id="9b96473889e34351983afdc8e4c92a3e">
+            <h2>See pictures from the closing event on 28 January 2019</h2>
+        </div>
+    </div>
+
+ </div>
+ 
+ <div class="col12">
+      
+
+
+<div class="img-carousel-wrap">
+        <div class="img-carousel" id="68965ea0aedf444cbeea352d5ec646be-1">
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-01.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-01.jpg?mh=658&amp;mw=1170&amp;hash=E158DEE1B50211D8650C54BCEB07F47018FCCEB0" alt="Mark Carney at Future Forum 2018" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-02.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-02.jpg?mh=658&amp;mw=1170&amp;hash=E6DB7F2BD86AA5694C71CB633CE33C297072F971" alt="Public roundtable at Future Forum event" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-03.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-03.jpg?mh=658&amp;mw=1170&amp;hash=CE02E34C8553899F22FF24E73C0BC138E1DDE18E" alt="Mark Carney speaking at Future Forum roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-04.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-04.jpg?mh=658&amp;mw=1170&amp;hash=6E1C4D641D4BC72B0121F00D5056E4B7DF4FA267" alt="Sir Dave Ramsden at Future Forum roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-05.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-05.jpg?mh=658&amp;mw=1170&amp;hash=7C7947B54BA5E35024948ED3CE106C602A44DF6A" alt="Joanna Place speaking at Future Forum roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-06.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-06.jpg?mh=658&amp;mw=1170&amp;hash=34052FF23174E4B4D90EA43970DCABA46616246B" alt="Future Forum commentators at the public roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-07.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-07.jpg?mh=658&amp;mw=1170&amp;hash=74B3DA46D6E6553059F2AF140FDB313E559D1401" alt="Future Forum commentators speaking at the public roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-08.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-08.jpg?mh=658&amp;mw=1170&amp;hash=C15227D984B0E4586ABA6FD265E9F61F8251B5C5" alt="Future Forum commentators speaking at the public roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-09.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-09.jpg?mh=658&amp;mw=1170&amp;hash=67EF1D191AED320F0EB1C9EF0BDE184DFC2E7D6A" alt="Governor Mark Carney speaking at the Future Forum public roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-10.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-10.jpg?mh=658&amp;mw=1170&amp;hash=F60F83D8411826E49164944149A238F330CCEE85" alt="Future Forum commentators speaking at the public roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-11.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-11.jpg?mh=658&amp;mw=1170&amp;hash=3832A1FDE44C50066947D7AC3AC30215E2109F03" alt="Sam Woods and commentators at the public roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-12.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-12.jpg?mh=658&amp;mw=1170&amp;hash=376A4133086D821DD384307FED7FF5E7EFFC5F71" alt="Let&#39;s decide the future of money board" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-13.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-13.jpg?mh=658&amp;mw=1170&amp;hash=3305C0EF1D0320D1836C34478A0DFCAE41F84647" alt="Mark Carney at the public roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-14.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-14.jpg?mh=658&amp;mw=1170&amp;hash=030BDB95E98E2B6439C26E15DE1A9A6839500F36" alt="Ben Broadbent talking at the public roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/future-forum-2018-15.jpg" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-15.jpg?mh=658&amp;mw=1170&amp;hash=3706B52A22A3F64B66F968C1CD32A7478363DD46" alt="Sarah John at the public roundtable" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+        </div>
+        <div class="img-carousel-nav-wrap">
+            <div class="img-carousel-nav" id="68965ea0aedf444cbeea352d5ec646be">
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-01.jpg?mh=2147483647&amp;mw=130&amp;hash=D311997238BD54B395C7F5AAB46B9D04362FBA6C" alt="Mark Carney at Future Forum 2018" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide00"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-02.jpg?mh=2147483647&amp;mw=130&amp;hash=C7C3C53E26E88F68C480E5D1DF4451393C9B350B" alt="Public roundtable at Future Forum event" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide01"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-03.jpg?mh=2147483647&amp;mw=130&amp;hash=8A1ACD7193E1F5EAE8D55455B4EA1AD159C22F0D" alt="Mark Carney speaking at Future Forum roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide02"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-04.jpg?mh=2147483647&amp;mw=130&amp;hash=B316C082DEF86DDC6126942884C4C924C7E67B77" alt="Sir Dave Ramsden at Future Forum roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide03"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-05.jpg?mh=2147483647&amp;mw=130&amp;hash=2611582C1ECB18D36162DD2FFB7A4AB15E67DE33" alt="Joanna Place speaking at Future Forum roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide04"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-06.jpg?mh=2147483647&amp;mw=130&amp;hash=826CFDC7F48417EF220508AED2EF96075E3A2AAC" alt="Future Forum commentators at the public roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide05"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-07.jpg?mh=2147483647&amp;mw=130&amp;hash=68FAD3E45121A2EA91733E2CA1C8CCEE2CE0BF3E" alt="Future Forum commentators speaking at the public roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide06"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-08.jpg?mh=2147483647&amp;mw=130&amp;hash=E4D38ADC5CD6EB51AFDBAE400AF36C4490EC0289" alt="Future Forum commentators speaking at the public roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide07"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-09.jpg?mh=2147483647&amp;mw=130&amp;hash=E275EC941BBC1A03647A1C853F5FE32489F77BAE" alt="Governor Mark Carney speaking at the Future Forum public roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide08"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-10.jpg?mh=2147483647&amp;mw=130&amp;hash=91FB46A46DE5A9A9856A7A0F1413EABEF5FB40B6" alt="Future Forum commentators speaking at the public roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide09"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-11.jpg?mh=2147483647&amp;mw=130&amp;hash=835649D75C841312F3B6730F3A7B608672B3CCB1" alt="Sam Woods and commentators at the public roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide10"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-12.jpg?mh=2147483647&amp;mw=130&amp;hash=18EAFD957C9D6C5994228ADF7D6776473CC202D3" alt="Let&#39;s decide the future of money board" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide11"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-13.jpg?mh=2147483647&amp;mw=130&amp;hash=E57F3AF1D616E6C8ED510059D349F26E2637B13E" alt="Mark Carney at the public roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide12"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-14.jpg?mh=2147483647&amp;mw=130&amp;hash=FC916AB9DF3DA72AB4842E8EF389A49B11B65C2F" alt="Ben Broadbent talking at the public roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide13"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/future-forum-2018-15.jpg?mh=2147483647&amp;mw=130&amp;hash=BD405AB0F9E6047AF44FE5007264FFD7D37E3CD8" alt="Sarah John at the public roundtable" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide14"></div>
+                        </div>
+
+
+            </div>
+        </div>
+</div>
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+
+</section>
+<section class="page-section  ">
+  <div class="container">
+     <div class="col9">
+          <div class="content-block">
+        <div class="page-content" data-id="ce5646ba28dd4d45b0742d7c78b42a88">
+            <h2>Cashless, contactless, frictionless – what’s next? </h2>
+<p>The EMEA managing director of Sutherland Global, Sonia Sedler, guest blogs about the future of money.
+</p>
+<p><a href="/-/media/boe/files/events/2018/the-blurred-transaction-sonia-sedler-blog.pdf?la=en&amp;hash=06CB0C563EA4C488D3AE0B0506E9F88E56CA682F" target="_blank" title="Opens in a new window">Read Sonia's blog</a></p>
+<p>“Our relationships with money are rapidly evolving as money changes hands in less tangible ways: cashless has evolved into contactless, transactions are in turn becoming frictionless – so what comes next?”</p>
+        </div>
+    </div>
+
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+
+</section>
+<section class="page-section  ">
+  <div class="container">
+     <div class="col9">
+          <div class="content-block">
+        <div class="page-content" data-id="415d70107ef746aaa81accd6a1c96e8c">
+            <h2>How has the British High Street changed? </h2>
+<p>Discover how your high street is changing in five charts. </p>
+        </div>
+    </div>
+
+ </div>
+ 
+ <div class="col12">
+      
+
+
+<div class="img-carousel-wrap">
+        <div class="img-carousel" id="416c60cb1b0c480e966469347eb01287-1">
+                    <a href="/-/media/boe/images/events/future-forum-2018/bank-branches.png" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/bank-branches.png?mh=658&amp;mw=1170&amp;hash=A149FFB67F50F619721C62F51F2186E585D8CEC9" alt="Bank branches are disappearing on the High Street chart" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/empty-shops.png" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/empty-shops.png?mh=658&amp;mw=1170&amp;hash=1F012BB99E23B393CC1253BCF13E795897F8E67B" alt="Poorer regions struggle with higher rates of empty shops chart" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/internet-and-online-banking.png" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/internet-and-online-banking.png?mh=658&amp;mw=1170&amp;hash=81B447C486F18604DBC51068E0DADC938435AB9C" alt="Seven in ten people use online banking chart" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/online-sales.png" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/online-sales.png?mh=658&amp;mw=1170&amp;hash=F85D40720A18258A38E0F78FDAA22FC9929C8C62" alt="High street shops are losing out to online sales" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+                    <a href="/-/media/boe/images/events/future-forum-2018/openings-and-closures.png" class="img-carousel-link" >
+                            <div class="figure">
+        <figure>
+            <span class="media-wrap media-wrap--16-9">
+                <img src="/-/media/boe/images/events/future-forum-2018/openings-and-closures.png?mh=658&amp;mw=1170&amp;hash=6A766093B6740AA1AF17E1BD268880636494CE8D" alt="Change in number of shops in 2017" class="media-wrap__item" />
+            </span>
+        </figure>
+    </div>
+
+                    </a>
+        </div>
+        <div class="img-carousel-nav-wrap">
+            <div class="img-carousel-nav" id="416c60cb1b0c480e966469347eb01287">
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/bank-branches.png?mh=2147483647&amp;mw=130&amp;hash=024052E9C84A23945E686595EAC5B314F0CEAA6C" alt="Bank branches are disappearing on the High Street chart" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide00"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/empty-shops.png?mh=2147483647&amp;mw=130&amp;hash=0C1E39BD4778AF716E06D79A73169A117E506DEF" alt="Poorer regions struggle with higher rates of empty shops chart" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide01"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/internet-and-online-banking.png?mh=2147483647&amp;mw=130&amp;hash=611549AC54CA8C021ECD122288E29BC5B70C15B1" alt="Seven in ten people use online banking chart" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide02"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/online-sales.png?mh=2147483647&amp;mw=130&amp;hash=5BFDB5C20FBD61D3E39DBF855725DDF954206517" alt="High street shops are losing out to online sales" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide03"></div>
+                        </div>
+                        <div class="img-carousel-nav-slide">
+                            <span class="media-wrap media-wrap--16-9">
+                                <img src="/-/media/boe/images/events/future-forum-2018/openings-and-closures.png?mh=2147483647&amp;mw=130&amp;hash=8831209D991F0715F3F4F1B27B9DEABD3010FA64" alt="Change in number of shops in 2017" class="media-wrap__item" />
+                            </span>
+                            <div class="slide-desc" id="slick-slide04"></div>
+                        </div>
+
+
+            </div>
+        </div>
+</div>
+ </div>
+ 
+
+    <div class="clear"></div>
+</div>
+
+</section>                <section class="page-section page-section--last">
+                    <div class="container">
+                        <div class="col12">
+                            <p class="txtr">
+                                <a class="scroll-to-top" href="#">Back to top</a>
+                            </p>
+                        </div>
+                    </div>
+                </section>
+
+
+
+
+<section class="page-section-survey">
+    <div class="container">
+        <div class="col12">          
+			<div class="page-survey">
+				<div class="page-last-updated">This page was last updated 26 January 2022</div>
+				<div class="page-survey-survey">
+					<h2 class="visually-hidden exclude-navigation">Give your feedback</h2>
+					
+
+<link href="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/content/Fields.css" rel="stylesheet"/>
+
+<link href="/sitecore%20modules/shell/Web%20Forms%20for%20Marketers/themes/Custom.css" rel="stylesheet"/>
+
+<form action="/form/Index?wffm.FormItemId=b2374739-7a58-4e95-bdf5-15e196939598&amp;wffm.Id=f2cca16d-7524-4e99-8ee0-78ff6394a3b3" class="text-left" data-wffm="{B2374739-7A58-4E95-BDF5-15E196939598}" data-wffm-ajax="True" enctype="multipart/form-data" id="wffmf2cca16d75244e998ee078ff6394a3b3" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="C33JADHeH9M3gH-k3U-NiMCWYG8unUnKUI57dpzTNJtN1TplUMNBhoTW62LIl4wKASHWjMniZEBJbFSYLooyyo9fHKA1" /><input id="wffmf2cca16d75244e998ee078ff6394a3b3_Id" name="wffmf2cca16d75244e998ee078ff6394a3b3.Id" type="hidden" value="f2cca16d-7524-4e99-8ee0-78ff6394a3b3" /><input id="wffmf2cca16d75244e998ee078ff6394a3b3_FormItemId" name="wffmf2cca16d75244e998ee078ff6394a3b3.FormItemId" type="hidden" value="{B2374739-7A58-4E95-BDF5-15E196939598}" />    <div class="has-error has-feedback">
+      <div class="validation-summary-valid" data-valmsg-summary="true"><ul class="list-group"><li style="display:none"></li>
+</ul></div>
+    </div>
+    <fieldset class="scfSectionBorder">
+        <legend>Was this page useful?</legend>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="page-survey-answer-yes form-group"><input id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_0__Id" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[0].Id" type="hidden" value="{DF3FF2C7-3490-45A7-98AB-6FDBB7647857}" /><label class="control-label" for="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_0__Value">Yes, it was useful</label>        <div class="page-survey-answer-yes radio">
+            <table class="page-survey-answer-yes">
+                    <tr>
+                            <td>
+                                    <input id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_0__Value" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[0].Value" type="radio" value="Yes" />
+                                    Yes
+                            </td>
+                    </tr>
+            </table>
+        </div>
+<span class="field-validation-valid help-block" data-valmsg-for="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[0].Value" data-valmsg-replace="true"></span></div><div class="page-survey-answer-no form-group"><input id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_1__Id" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[1].Id" type="hidden" value="{F1467CD2-EFE7-42FE-9534-96EF4E0FB883}" /><label class="control-label" for="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_1__Value">No, it wasn&#39;t useful</label>        <div class="page-survey-answer-no radio">
+            <table class="page-survey-answer-no">
+                    <tr>
+                            <td>
+                                    <input id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_1__Value" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[1].Value" type="radio" value="No" />
+                                    No
+                            </td>
+                    </tr>
+            </table>
+        </div>
+<span class="field-validation-valid help-block" data-valmsg-for="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[1].Value" data-valmsg-replace="true"></span></div><div class="hidden  form-group"><input id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_2__Id" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[2].Id" type="hidden" value="{B0356896-3C52-4334-A063-FB6772AF5CD5}" /><label class="control-label" for="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_2__Value">Page Url</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Page Url field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_2__Value" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[2].Value" placeholder="" style="" type="text" value="http://www.bankofengland.co.uk/get-involved/future-forum-2018" /><span class="field-validation-valid help-block" data-valmsg-for="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[2].Value" data-valmsg-replace="true"></span></div><div class="hidden  form-group"><input id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_3__Id" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[3].Id" type="hidden" value="{3F49CCB7-5701-4ED9-852E-06EF31E28ED7}" /><label class="control-label" for="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_3__Value">Is Mobile</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Is Mobile field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_3__Value" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[3].Value" placeholder="" style="" type="text" value="False" /><span class="field-validation-valid help-block" data-valmsg-for="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[3].Value" data-valmsg-replace="true"></span></div><div class="hidden  form-group"><input id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_4__Id" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[4].Id" type="hidden" value="{FAB0672E-B547-407E-A899-55265321FB39}" /><label class="control-label" for="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_4__Value">Browser</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Browser field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_4__Value" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[4].Value" placeholder="" style="" type="text" value="Unknown" /><span class="field-validation-valid help-block" data-valmsg-for="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[4].Value" data-valmsg-replace="true"></span></div><div class="hidden  form-group"><input id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_5__Id" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[5].Id" type="hidden" value="{61E8220E-7EFF-45E1-B851-CBF18B56A42A}" /><label class="control-label" for="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_5__Value">IP Address</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The IP Address field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_5__Value" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[5].Value" placeholder="" style="" type="text" value="192.168.35.14" /><span class="field-validation-valid help-block" data-valmsg-for="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[5].Value" data-valmsg-replace="true"></span></div><div class="hidden  form-group"><input id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_6__Id" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[6].Id" type="hidden" value="{EA06F6C1-BAD4-41B2-B965-61C450705F8B}" /><label class="control-label" for="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_6__Value">Operating System</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Operating System field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffmf2cca16d75244e998ee078ff6394a3b3_Sections_0__Fields_6__Value" name="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[6].Value" placeholder="" style="" type="text" value="Unknown" /><span class="field-validation-valid help-block" data-valmsg-for="wffmf2cca16d75244e998ee078ff6394a3b3.Sections[0].Fields[6].Value" data-valmsg-replace="true"></span></div>
+            </div>
+        </div>
+    </fieldset>
+<div class="form-submit-border"><input class="btn  btn-default" type="submit" value="Submit" /></div></form>
+
+<script src="/scripts/BoE.wffm.vendor.min.js"></script>
+
+					<div class="survey-submited page-survey-copy">
+						<p class="page-survey-result" aria-live="polite" role="alert">
+							Thanks!
+							<a href="#survey-more-detail" class="survey-more-detail" role="button">Would you like to give more detail? </a>
+							<span class="visually-hidden">Press Spacebar or Enter to select</span>
+						</p>
+					</div>
+				</div>
+			<div class="clear"></div>
+			<div id="survey-more-detail" class="give-more-detail">
+				
+
+
+
+<form action="/form/Index?wffm.FormItemId=b9655bfd-6985-4d29-ad83-f02be0367ed1&amp;wffm.Id=1fc5c5c2-2887-41c1-8d8a-2547ecc834f0" class="text-left" data-wffm="{B9655BFD-6985-4D29-AD83-F02BE0367ED1}" data-wffm-ajax="True" enctype="multipart/form-data" id="wffm1fc5c5c2288741c18d8a2547ecc834f0" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="KZkhgK9pCxDRvyLgkcDnx4gW7MuCIeMeoIJfgFwvL2hDLPPEo19Fjnbt35seG0yqYVpbQHDPHac-Dm7i7xHgnHT2HoU1" /><input id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Id" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Id" type="hidden" value="1fc5c5c2-2887-41c1-8d8a-2547ecc834f0" /><input id="wffm1fc5c5c2288741c18d8a2547ecc834f0_FormItemId" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.FormItemId" type="hidden" value="{B9655BFD-6985-4D29-AD83-F02BE0367ED1}" />    <div class="has-error has-feedback">
+      <div class="validation-summary-valid" data-valmsg-summary="true"><ul class="list-group"><li style="display:none"></li>
+</ul></div>
+    </div>
+<div class="required-field details form-group"><input id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_0__Id" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[0].Id" type="hidden" value="{D4BF6030-5840-4B40-81BA-447785CF54C6}" /><label class="control-label" for="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_0__Value">What did you think of this page?</label><textarea class="form-control" cols="1" data-val="true" data-val-length="The What did you think of this page? field must be a string with a minimum length of 0 and a maximum length of 2000." data-val-length-max="2000" data-val-required="The What did you think of this page? field is required." data-val-required-tracking="{7E86B2F5-ACEC-4C60-8922-4EB5AE5D9874}" id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_0__Value" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[0].Value" rows="4">
+</textarea><span class="field-validation-valid help-block" data-valmsg-for="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[0].Value" data-valmsg-replace="true"></span><span class="help-block">Add your details...</span></div><div class="hidden  form-group"><input id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_1__Id" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[1].Id" type="hidden" value="{CC6B6FD9-3344-4BB2-8297-BE6373260646}" /><label class="control-label" for="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_1__Value">Page Url</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Page Url field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_1__Value" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[1].Value" placeholder="" style="" type="text" value="http://www.bankofengland.co.uk/get-involved/future-forum-2018" /><span class="field-validation-valid help-block" data-valmsg-for="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[1].Value" data-valmsg-replace="true"></span></div><div class="hidden  form-group"><input id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_2__Id" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[2].Id" type="hidden" value="{08090417-AB74-4346-83DD-A8CE7CB4CCA9}" /><label class="control-label" for="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_2__Value">Is Mobile</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Is Mobile field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_2__Value" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[2].Value" placeholder="" style="" type="text" value="False" /><span class="field-validation-valid help-block" data-valmsg-for="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[2].Value" data-valmsg-replace="true"></span></div><div class="hidden  form-group"><input id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_3__Id" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[3].Id" type="hidden" value="{865F1F00-6DE5-4A86-9061-FD24CE4CFEE9}" /><label class="control-label" for="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_3__Value">Browser</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Browser field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_3__Value" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[3].Value" placeholder="" style="" type="text" value="Unknown" /><span class="field-validation-valid help-block" data-valmsg-for="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[3].Value" data-valmsg-replace="true"></span></div><div class="hidden  form-group"><input id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_4__Id" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[4].Id" type="hidden" value="{F082EE02-AE43-4CDD-9476-DA1196D880CF}" /><label class="control-label" for="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_4__Value">Operating System</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Operating System field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_4__Value" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[4].Value" placeholder="" style="" type="text" value="Unknown" /><span class="field-validation-valid help-block" data-valmsg-for="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[4].Value" data-valmsg-replace="true"></span></div>
+
+<div class=" form-group"><input id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_5__Id" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[5].Id" type="hidden" value="{E23FFB91-60F7-4A87-8D0E-1847EE27C446}" /><label class="control-label" for="g-recaptcha-response">Please prove that you&#39;re not a robot:</label><input data-val="true" data-val-length="The Please prove that you&#39;re not a robot: field must be a string with a minimum length of 0 and a maximum length of 0." data-val-length-max="0" id="wffm1fc5c5c2288741c18d8a2547ecc834f0_Sections_0__Fields_5__Value" name="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[5].Value" type="hidden" value="" /><div class="g-recaptcha" data-sitekey="6Lfn0GEUAAAAAH5ITtEgBFeOCAK75TV3p210gHp3" data-theme="light" data-type="image"></div><script src="https://www.google.com/recaptcha/api.js"></script><span class="field-validation-valid help-block" data-valmsg-for="wffm1fc5c5c2288741c18d8a2547ecc834f0.Sections[0].Fields[5].Value" data-valmsg-replace="true"></span></div><div class="form-submit-border"><input class="btn  btn-default" type="submit" value="Submit" /></div></form>
+
+
+			</div>
+			</div>
+        </div>
+    </div>
+</section>
+
+
+    
+        </main>
+
+        <div class="clear"></div>
+        <footer class="global-footer" itemscope="" itemtype="http://schema.org/WPFooter">
+            <div class="container">
+	<div class="grid">
+		<div class="grid__col col-desk--1-5 col-lap--1-2">
+			<div class="footer-social-bank">
+				<ul class="accordion" data-accordion-mobile>
+					<li>
+						<div class="accordion-head">
+							<h3 class="exclude-navigation">
+								<span class="display-lap-desk">Follow us</span>
+								<button class="accordion-button">
+									Follow us
+									<span class="accordion-toggle"></span>
+								</button>
+							</h3>
+						</div>
+						<div class="accordion-content">
+							
+
+<div class="footer-social-bank">
+        <ul class="social-links">
+                <li class="social-item">
+                        <a class="social-link "
+                           href="https://www.facebook.com/bankofengland.co.uk"
+                           target="_blank"
+						    title="Opens in a new window">
+                                <span class="icon-facebook"></span>
+                            <span class="si-text">Add us on Facebook</span>
+                        </a>
+				</li>
+                <li class="social-item">
+                        <a class="social-link "
+                           href="https://twitter.com/bankofengland"
+                           target="_blank"
+						    title="Opens in a new window">
+                                <span class="icon-twitter-bird"></span>
+                            <span class="si-text">Follow us on Twitter</span>
+                        </a>
+				</li>
+                <li class="social-item">
+                        <a class="social-link "
+                           href="https://www.linkedin.com/company/bank-of-england/"
+                           target="_blank"
+						    title="Opens in a new window">
+                                <span class="icon-linkedin"></span>
+                            <span class="si-text">Connect with us on LinkedIn</span>
+                        </a>
+				</li>
+                <li class="social-item">
+                        <a class="social-link "
+                           href="https://www.youtube.com/user/bankofenglanduk"
+                           target="_blank"
+						    title="Opens in a new window">
+                                <span class="icon-youtube-play"></span>
+                            <span class="si-text">Watch us on Youtube</span>
+                        </a>
+				</li>
+                <li class="social-item">
+                        <a class="social-link "
+                           href="https://www.flickr.com/photos/bankofengland/albums"
+                           target="_blank"
+						    title="Opens in a new window">
+                                <span class="icon-flickr"></span>
+                            <span class="si-text">Find us on Flickr</span>
+                        </a>
+				</li>
+        </ul>
+</div>
+							
+
+<div class="footer-social-bank">
+			<h3 class="exclude-navigation">Museum</h3>
+        <ul class="social-links">
+                <li class="social-item">
+                        <a class="social-link "
+                           href="https://www.facebook.com/boemuseum"
+                           target="_blank"
+						    title="Opens in a new window">
+                                <span class="icon-facebook"></span>
+                            <span class="si-text">Like the museum on Facebook</span>
+                        </a>
+				</li>
+                <li class="social-item">
+                        <a class="social-link "
+                           href="https://twitter.com/boemuseum"
+                           target="_blank"
+						    title="Opens in a new window">
+                                <span class="icon-twitter-bird"></span>
+                            <span class="si-text">Follow us the museum Twitter</span>
+                        </a>
+				</li>
+                <li class="social-item">
+                        <a class="social-link "
+                           href="http://instagram.com/_u/boemuseum/"
+                           target="_blank"
+						    title="Opens in a new window">
+                                <span class="icon-instagram"></span>
+                            <span class="si-text">Follow us on Instagram</span>
+                        </a>
+				</li>
+        </ul>
+</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+
+		</div>
+		<div class="grid__col col-desk--1-5 col-lap--1-2">
+			
+  
+<div class="footer-topics">
+    <ul class="accordion" data-accordion-mobile>
+        <li>
+                <div class="accordion-head">
+                    <h3 class="exclude-navigation">
+                        <span class="display-lap-desk">Browse topics</span>
+                        <button class="accordion-button">Browse topics<span class="accordion-toggle"></span></button>
+                    </h3>
+                </div>
+			<div class="accordion-content">
+				<ul class="footer-links">
+						<li class="footer-item">
+                                <a href="/banknotes" class="footer-link" >
+                                    Banknotes
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/careers" class="footer-link" >
+                                    Careers
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/education" class="footer-link" >
+                                    Education
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/financial-stability" class="footer-link" >
+                                    Financial stability
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/gold" class="footer-link" >
+                                    Gold
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/markets" class="footer-link" >
+                                    Markets
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/monetary-policy" class="footer-link" >
+                                    Monetary policy
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/payment-and-settlement" class="footer-link" >
+                                    Payment and settlement
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/prudential-regulation" class="footer-link" >
+                                    Prudential regulation
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/research" class="footer-link" >
+                                    Research
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/statistics" class="footer-link" >
+                                    Statistics
+                                </a>
+						</li>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</div>
+		</div>
+		<div class="grid__col col-desk--1-5 col-lap--1-2">
+			
+  
+<div class="footer-topics">
+    <ul class="accordion" data-accordion-mobile>
+        <li>
+                <div class="accordion-head">
+                    <h3 class="exclude-navigation">
+                        <span class="display-lap-desk">Useful links</span>
+                        <button class="accordion-button">Useful links<span class="accordion-toggle"></span></button>
+                    </h3>
+                </div>
+			<div class="accordion-content">
+				<ul class="footer-links">
+						<li class="footer-item">
+                                <a href="/contact" class="footer-link" >
+                                    Contact us
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/subscribe-to-emails" class="footer-link" >
+                                    Subscribe to emails
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/faq" class="footer-link" >
+                                    FAQs
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/freedom-of-information" class="footer-link" >
+                                    Freedom of Information
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/ccbs" class="footer-link" >
+                                    CCBS
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/knowledgebank" class="footer-link" >
+                                    KnowledgeBank
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/archive" class="footer-link" >
+                                    The Archive
+                                </a>
+						</li>
+						<li class="footer-item">
+                                <a href="/museum" class="footer-link" >
+                                    Museum
+                                </a>
+						</li>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</div>
+		</div>
+		<div class="grid__col col-desk--1-5 col-lap--1-2">
+			<div class="footer-contact">
+				
+<h3 class="exclude-navigation">Bank of England</h3>
+<ul class="footer-contact-info">
+    <li class="footer-address">Threadneedle Street, London, EC2R 8AH</li>
+    <li class="footer-tel">Switchboard: <a class="footer-tel-link" href="tel://00442034614444" target="_blank" title="Switchboard">+44(0)20 3461 4444</a></li>
+    <li class="footer-tel">Enquiries: <a class="footer-tel-link" href="tel://00442034614878" target="_blank" title="Enquiries">+44(0)20 3461 4878</a></li>
+</ul>
+				
+
+<h3 class="exclude-navigation">Bank of England Museum</h3>
+<ul class="footer-contact-info">
+    <li class="footer-address">Bartholomew Lane, London, EC2R 8AH</li>
+</ul>
+			</div>
+		</div>
+		<div class="grid__col col-desk--1-5">
+			
+<div class="container-seal">
+    <a class="icon-seal" href="/"   class="footer-logo"><img src="/-/media/boe/images/logo/footer-logo.svg?la=en&amp;mh=50&amp;mw=240&amp;hash=C4503E3FD50ED5BF057ADE2DCFABA76008F93199" alt="Bank of England" /></a>
+</div>
+
+		</div>
+	</div>
+</div>
+<div class="footer-copyright">
+	<div class="container">
+		<div class="col12">
+			
+<ul class="list-inline">
+	    <li class="list-inline__item">
+			    <a href="/accessibility" class="list-inline__link" >
+				    Accessibility statement
+			    </a>
+	    </li>
+	    <li class="list-inline__item">
+			    <a href="/legal/privacy-and-cookie-policy" class="list-inline__link" >
+				    Cookies
+			    </a>
+	    </li>
+	    <li class="list-inline__item">
+			    <a href="/about/gymraeg" class="list-inline__link" >
+				    Cymraeg
+			    </a>
+	    </li>
+	    <li class="list-inline__item">
+			    <a href="/legal" class="list-inline__link" >
+				    Legal
+			    </a>
+	    </li>
+	    <li class="list-inline__item">
+			    <a href="/legal/privacy" class="list-inline__link" >
+				    Privacy
+			    </a>
+	    </li>
+	    <li class="list-inline__item">
+			    <a href="/sitemap" class="list-inline__link" >
+				    Sitemap
+			    </a>
+	    </li>
+</ul>
+
+
+			
+
+<p class="text-copyright">&#169;2022 Bank of England&#160;</p>
+		</div>
+	</div>
+</div>
+        </footer>
+        <script src="/scripts/boe.vendor.min.js?v=1"></script>
+<script src="/scripts/boe.min.js?v=1"></script>
+
+
+        
+    </div>
+</body>
+</html>

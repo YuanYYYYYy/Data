@@ -1,0 +1,1603 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en" prefix="og: http://ogp.me/ns# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"><meta charset="utf-8">
+<link href="https://www.eiopa.europa.eu/sites/default/files/favicon-32x32.png" rel="shortcut icon" type="image/png">
+<meta content="Symmetric adjustment of the equity capital charge" name="description">
+<meta content="follow, index" name="robots">
+<link href="https://www.eiopa.europa.eu/tools-and-data/symmetric-adjustment-equity-capital-charge_en" rel="canonical">
+<link href="https://www.eiopa.europa.eu/tools-and-data/symmetric-adjustment-equity-capital-charge_en" rel="shortlink">
+<meta content="en" http-equiv="content-language">
+<meta content="15 days" name="revisit-after">
+<meta content="Eiopa Basic page" property="og:type">
+<meta content="Eiopa - European Commission" property="og:site_name">
+<meta content="Symmetric adjustment of the equity capital charge - Eiopa European Commission" property="og:title">
+<meta content="https://www.eiopa.europa.eu/tools-and-data/symmetric-adjustment-equity-capital-charge_en" property="og:url">
+<meta content="Symmetric adjustment of the equity capital charge" property="og:description">
+<meta content="2022-04-05T11:45:00+02:00" property="og:updated_time">
+<meta content="2019-08-20T15:04:05+02:00" property="article:published_time">
+<meta content="2022-04-05T11:45:00+02:00" property="article:modified_time">
+<meta content="Symmetric adjustment of the equity capital charge" name="dcterms.title">
+<meta content="Jan Plock" name="dcterms.creator">
+<meta content="2019-08-20T15:04+02:00" name="dcterms.date">
+<meta content="Text" name="dcterms.type">
+<meta content="text/html" name="dcterms.format">
+<meta content="https://www.eiopa.europa.eu/tools-and-data/symmetric-adjustment-equity-capital-charge_en" name="dcterms.identifier">
+<meta content="en" name="dcterms.language">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="COMM/DG/UNIT" name="creator">
+<meta content="Eiopa" name="reference">
+<meta content="05/04/2022 - 11:45" name="date">
+    <title>Symmetric adjustment of the equity capital charge | Eiopa</title>
+  <link href="https://www.eiopa.europa.eu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://www.eiopa.europa.eu/sites/default/files/css/css_sWLEVNWEjGNeDn8D8atBsfPh7nWbF1rG-UhHciJmfIY.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://www.eiopa.europa.eu/sites/default/files/css/css_IRV-wtzYF2U2WiuIR_lTTba7UflRsGnxHfowF2VmnJg.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://www.eiopa.europa.eu/sites/default/files/css/css_E7U0QN8v8J7sFbvfnEJYpLpq10YgANJ_ewtq22FRA6Y.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://www.eiopa.europa.eu/sites/default/files/css/css_WcPBVs0q78mr73JPQ0__WAcpPe0D27Hbpz09VeyS7AY.css" media="all" rel="stylesheet" type="text/css">
+  <script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/misc/jquery-extend-3.4.0.js?v=1.10.2" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/misc/jquery.once.js?v=1.2" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/misc/drupal.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/sites/default/modules/contrib/tocify/jquery.tocify.js?v=1.9.0" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/sites/default/modules/contrib/tocify/tocify.js?v=1.9.0" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/misc/form.js?v=7.88" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/misc/ajax.js?v=7.88" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/modules/contrib/media_colorbox/media_colorbox.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/libraries/colorbox/jquery.colorbox-min.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/modules/contrib/colorbox/js/colorbox.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/modules/contrib/colorbox/styles/default/colorbox_style.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/modules/contrib/colorbox/js/colorbox_load.js?r9lwav" type="text/javascript"></script>
+<script src="//europa.eu/webtools/load.js?globan=1110" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/misc/collapse.js?v=7.88" type="text/javascript"></script>
+<script type="text/javascript">jQuery.extend(Drupal.settings, { "pathToTheme": "sites/default/themes/eiopa_theme" });</script>
+<script type="text/javascript">jQuery.extend(Drupal.settings, { "pathToTheme": "sites/default/themes/eiopa_theme" });</script>
+<script src="https://www.eiopa.europa.eu/sites/default/modules/features/eiopa_wysiwyg/js/eiopa_wysiwyg.admin.js?r9lwav" type="text/javascript"></script>
+<script src="https://apis.google.com/js/platform.js" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/modules/custom/language_selector_page/js/language_selector_page.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/misc/progress.js?v=7.88" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/libraries/fancybox/jquery.fancybox.pack.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/libraries/fancybox/helpers/jquery.fancybox-buttons.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/libraries/fancybox/helpers/jquery.fancybox-media.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/profiles/multisite_drupal_standard/libraries/fancybox/helpers/jquery.fancybox-thumbs.js?r9lwav" type="text/javascript"></script>
+<script defer="defer" src="//europa.eu/webtools/load.js" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/sites/default/modules/contrib/colorbox_node/colorbox_node.js?r9lwav" type="text/javascript"></script>
+<script type="text/javascript">jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"eiopa_theme","theme_token":"W0sFXVdmwBiDdZA53WIEz2E_6cH4mlSIhm4DQHh2A2w","jquery_version":"1.10","js":{"sites\/default\/themes\/eiopa_theme\/assets\/js\/popper.min.js":1,"sites\/default\/themes\/eiopa_theme\/assets\/js\/bootstrap.min.js":1,"sites\/default\/themes\/eiopa_theme\/assets\/js\/jquery.actual.min.js":1,"sites\/default\/themes\/eiopa_theme\/assets\/js\/imagesloaded.pkgd.min.js":1,"sites\/default\/themes\/eiopa_theme\/assets\/js\/eiopa.js":1,"sites\/default\/themes\/eiopa_theme\/js\/eiopa_custom.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/default\/modules\/contrib\/tocify\/jquery.tocify.js":1,"sites\/default\/modules\/contrib\/tocify\/tocify.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/multisite_drupal_standard\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"\/\/europa.eu\/webtools\/load.js?globan=1110":1,"misc\/collapse.js":1,"0":1,"1":1,"sites\/default\/modules\/features\/eiopa_wysiwyg\/js\/eiopa_wysiwyg.admin.js":1,"https:\/\/apis.google.com\/js\/platform.js":1,"profiles\/multisite_drupal_standard\/modules\/custom\/language_selector_page\/js\/language_selector_page.js":1,"misc\/progress.js":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/jquery.fancybox.pack.js":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-buttons.js":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-media.js":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-thumbs.js":1,"\/\/europa.eu\/webtools\/load.js":1,"sites\/default\/modules\/contrib\/colorbox_node\/colorbox_node.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/default\/modules\/contrib\/tocify\/jquery.tocify.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/default\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"profiles\/multisite_drupal_standard\/modules\/features\/cce_basic_config\/cce_basic_config.css":1,"sites\/default\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"sites\/default\/modules\/contrib\/footnotes\/footnotes.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/views\/css\/views.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/rate\/rate.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/tagclouds\/tagclouds.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"profiles\/multisite_drupal_standard\/modules\/custom\/nexteuropa_newsroom\/styles\/nexteuropa_newsroom.css":1,"profiles\/multisite_drupal_standard\/modules\/custom\/multisite_drupal_toolbox\/icons\/style.css":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/jquery.fancybox.css":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-buttons.css":1,"profiles\/multisite_drupal_standard\/libraries\/fancybox\/helpers\/jquery.fancybox-thumbs.css":1,"sites\/default\/themes\/eiopa_theme\/assets\/css\/eiopa.css":1,"sites\/default\/themes\/eiopa_theme\/css\/eiopa_custom.min.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"urlIsAjaxTrusted":{"\/tools-and-data\/symmetric-adjustment-equity-capital-charge_en":true},"tocify":{"context":"div.main-content","selectors":"h3"},"colorbox_node":{"width":"600px","height":"600px"},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});</script>
+</head>
+<body class="html i18n-en node-type-eiopa-basic-page not-front not-logged-in page-node page-node- page-node-2558 section-tools-and-data/symmetric-adjustment-equity-capital-charge">
+
+
+<div class="page" role="document">
+  <div class="container-fluid">
+    
+    <!-- ANCHOR l-header region -->
+    
+<header role="banner" class="l-header">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <!-- top bar -->
+    <div class="eiopa-top-bar">
+      <!-- menu toggler -->
+      <button class="navbar-toggler" type="button">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- logo -->
+      <div id="logo">
+        
+
+<a href="https://www.eiopa.europa.eu/" title="European Insurance And Occupational Pensions Authority - EIOPA">
+  <img src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/assets/images/logo-no-description.svg" class="logo-small d-lg-none" alt="European Insurance And Occupational Pensions Authority - EIOPA">
+  <img src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/assets/images/logo.svg" class="logo-large d-none d-lg-block" alt="European Insurance And Occupational Pensions Authority - EIOPA">
+</a>
+      </div>
+
+      <!-- search toggler -->
+      <button class="search-toggler" type="button">
+        <span class="navbar-search-icon"></span>
+      </button>
+    </div>
+
+    <!-- ANCHOR menu -->
+    <div class="eiopa-menu">
+      <div class="eiopa-menu-top">
+                  <div class="d-lg-display">
+            <section class="block-menu block-menu-menu-eiopa-secondary-menu first odd weight-0" id="block-menu-menu-eiopa-secondary-menu" role="navigation">
+          <div class="block-content">
+      <ul class="menu_tree-level-1"><li class="first leaf"><a class="internal-link" href="https://www.eiopa.europa.eu/about/careers/open-vacancies_en">Careers</a>
+</li>
+<li class="leaf"><a class="internal-link" href="https://www.eiopa.europa.eu/about/contact-us_en">Contact us</a>
+</li>
+<li class="last leaf"><a class="external-link" href="https://register.eiopa.europa.eu/Pages/Extranet/Extranet_access.aspx" target="_blank">Extranet</a>
+</li>
+</ul>
+    </div>
+</section>
+          </div>
+                      </div>
+
+      <!-- ANCHOR search form -->
+      <div class="collapse search-collapse" id="header-search-form">
+        
+<form accept-charset="UTF-8" action="/tools-and-data/symmetric-adjustment-equity-capital-charge_en" class="form-inline" id="search-block-form" method="post">
+      
+              <input class="form-control" id="edit-search-block-form--2" maxlength="128" name="search_block_form" placeholder="Search for..." size="15" title="Enter the terms you wish to search for." type="search text" value=""/><button class="btn" type="submit">Search</button>      
+  
+  
+  <input class="form-hidden" id="form-ulJzQfwYtEe1esIEWm0fDQEzPJsJMqvT_07sCNDSXlw" name="form_build_id" type="hidden" value="form-ulJzQfwYtEe1esIEWm0fDQEzPJsJMqvT_07sCNDSXlw"/>
+<input class="form-hidden" id="edit-search-block-form" name="form_id" type="hidden" value="search_block_form"/>
+    
+  </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+              <aside class="gray-background region-navigation" id="eiopa-region-navigation" role="complementary"><div id="eiopa-navigation">
+  <div id="eiopa-navigation-menu" class="eiopa-relative">
+    <a class="d-none d-xxl-block internal-link" href="https://www.eiopa.europa.eu/node_en" id="eiopa-main-menu-logo"><img src = "/sites/default/themes/eiopa_theme/assets/images/main-menu/eiopa-logo-horizontal-simplified.svg" ></a>
+    <ul class="navbar-nav"><li class="first has-children nav-item" data-display-title="1"><a class="internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about_en" role="button">About</a>
+<ul class="collapse level-1 light-gray-background menu"><li class="first menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about_en">About</a>
+</li>
+<li class="first has-children menu-item"><a class="internal-link navigation-toggler" href="/about/eiopa-glance_en" role="button">EIOPA at a glance</a>
+<ul class="level-2 menu"><li class="first menu-item"><a class="d-lg-none internal-link" href="/about/eiopa-glance_en">EIOPA at a glance</a>
+</li>
+<li class="first has-no-children menu-item"><a class="internal-link" href="/about/eiopa-glance/mission-and-tasks_en">Mission and tasks</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/about/eiopa-glance/work-programme-2022-2024_en">Work programme 2022-2024</a>
+</li>
+<li class="last menu-item"><a class="internal-link" href="/about/eiopa-glance/history_en">History</a>
+</li>
+</ul>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/legal-framework-and-regulation_en">Legal framework</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/about/annual-reports-0_en">Annual reports</a>
+</li>
+<li class="has-children menu-item" data-display-title="1"><a class="internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/careers_en" role="button">Careers</a>
+<ul class="level-2 menu"><li class="menu-item" data-display-title="1"><a class="d-lg-none internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/careers_en">Careers</a>
+</li>
+<li class="first menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/careers/why-eiopa_en">Why EIOPA?</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/careers/how-you-can-join-us_en">How you can join us</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/careers/open-vacancies_en">Vacancies</a>
+</li>
+<li class="last menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/careers/living-frankfurt_en">Living in Frankfurt</a>
+</li>
+</ul>
+</li>
+<li class="has-children menu-item"><a class="internal-link navigation-toggler" href="/about/governance-structure_en" role="button">Governance structure</a>
+<ul class="level-2 menu"><li class="menu-item"><a class="d-lg-none internal-link" href="/about/governance-structure_en">Governance structure</a>
+</li>
+<li class="first menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/governance-structure/board-of-supervisors_en">Board of Supervisors</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/about/governance-structure/management-board_en">Management Board</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/governance-structure/internal-organisation_en">Internal organisation</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/governance-structure/working-groups_en">Working groups</a>
+</li>
+<li class="has-children menu-item" data-display-title="1"><a class="internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/governance-structure/working-stakeholders_en" role="button">Working with stakeholders</a>
+<ul class="level-3 menu"><li class="menu-item" data-display-title="1"><a class="d-lg-none internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/governance-structure/working-stakeholders_en">Working with stakeholders</a>
+</li>
+<li class="first menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/working-stakeholders/insurance-and-reinsurance-stakeholder-group_en">Insurance and reinsurance stakeholder group</a>
+</li>
+<li class="last menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/working-stakeholders/occupational-pensions-stakeholder-group_en">Occupational pensions stakeholder group</a>
+</li>
+</ul>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/decisionmaking/board-appeal_en">Joint Board of Appeal</a>
+</li>
+<li class="has-children menu-item"><a class="internal-link navigation-toggler" href="/about/governance-structure/joint-committee_en" role="button">Joint Committee</a>
+<ul class="level-3 menu"><li class="menu-item"><a class="d-lg-none internal-link" href="/about/governance-structure/joint-committee_en">Joint Committee</a>
+</li>
+<li class="first menu-item"><a class="internal-link" href="/about/cooperation-european-level/joint-committee/cross-sectoral-work_en">Cross sectoral work</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/about/governance-structure/joint-committee/joint-qas_en">Joint Q&amp;As</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/about/cooperation-european-level/joint-committee/library-of-joint-committee_en">Library of the Joint Committee</a>
+</li>
+<li class="last menu-item"><a class="internal-link" href="/about/cooperation-european-level/joint-committee/consultations_en">Consultations</a>
+</li>
+</ul>
+</li>
+<li class="has-no-children last menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/governance-structure/cooperation-european-level_en">Cooperation at European level</a>
+</li>
+</ul>
+</li>
+<li class="has-children menu-item" data-display-title="1"><a class="internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/accountability-and-transparency_en" role="button">Accountability and transparency</a>
+<ul class="level-2 menu"><li class="menu-item" data-display-title="1"><a class="d-lg-none internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/accountability-and-transparency_en">Accountability and transparency</a>
+</li>
+<li class="first menu-item"><a class="internal-link" href="/about/accountability-and-transparency/guiding-principles_en">Guiding principles</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/accountability-and-transparency/budget-and-accounts_en">Budget and accounts</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/accountability-and-transparency/data-exchange-agreements_en">Data exchange agreements</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/accountability-and-transparency/public-access-documents_en">Public access to documents</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/about/accountability-and-transparency/record-of-meetings_en">Record of meetings</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/about/accountability-and-transparency/report-former-senior-managers_en">Report on former senior managers</a>
+</li>
+<li class="last menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/accountability-and-transparency/whistleblowing_en">Whistleblowing</a>
+</li>
+</ul>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/procurement_en">Procurement</a>
+</li>
+<li class="last menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/contact-us_en">Contact</a>
+</li>
+</ul>
+</li>
+<li class="has-children nav-item" data-display-title="1"><a class="internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse_en" role="button">Browse</a>
+<ul class="collapse level-1 light-gray-background menu"><li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse_en">Browse</a>
+</li>
+<li class="first has-children menu-item"><a class="internal-link navigation-toggler" href="/browse/regulation-and-policy_en" role="button">Regulation and policy</a>
+<ul class="level-2 menu"><li class="first menu-item"><a class="d-lg-none internal-link" href="/browse/regulation-and-policy_en">Regulation and policy</a>
+</li>
+<li class="first has-children menu-item" data-display-title="1"><a class="internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/solvency-2_en" role="button">Solvency II</a>
+<ul class="level-3 menu"><li class="first menu-item" data-display-title="1"><a class="d-lg-none internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/solvency-2_en">Solvency II</a>
+</li>
+<li class="first last menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/solvency-ii/2020-review-of-solvency-ii_en">2020 Solvency II review</a>
+</li>
+</ul>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/regulation-and-policy/insurance-distribution-directive-idd_en">Insurance Distribution Directive (IDD)</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/regulation-and-policy/packaged-retail-and-insurance-based-investment-products-priips_en">Packaged retail and insurance-based investment products (PRIIPs)</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/regulation-and-policy/occupational-pensions-iorp-ii_en">Occupational pensions (IORP II)</a>
+</li>
+<li class="has-no-children menu-item"><a class="internal-link" href="/browse/regulation-and-policy/pan-european-personal-pension-product-pepp_en">Pan-European Personal Pension Product (PEPP)</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/regulation-and-policy/international-relations-and-equivalence_en">International relations and equivalence</a>
+</li>
+<li class="last menu-item"><a class="internal-link" href="/browse/regulation-and-policy/covid-19-measures_en">COVID-19 measures</a>
+</li>
+</ul>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/consumer-protection_en">Consumer protection</a>
+</li>
+<li class="has-children menu-item"><a class="internal-link navigation-toggler" href="/browse/supervisory-convergence_en" role="button">Supervisory convergence</a>
+<ul class="level-2 menu"><li class="menu-item"><a class="d-lg-none internal-link" href="/browse/supervisory-convergence_en">Supervisory convergence</a>
+</li>
+<li class="first menu-item"><a class="internal-link" href="/browse/supervisory-convergence/union-wide-strategic-supervisory-priorities_en">Union-wide strategic supervisory priorities</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/supervisory-convergence/supervisory-convergence-plan_en">Supervisory convergence plan</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/supervisory-convergence/common-supervisory-culture_en">Common supervisory culture</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/supervisory-convergence/common-benchmarks-supervisory-practices_en">Common benchmarks for supervisory practices</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/supervisory-convergence/peer-reviews_en">Peer Reviews</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/supervisory-convergence/thematic-reviews_en">Thematic Reviews</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/supervisory-convergence/eiopas-independent-assessments_en">EIOPA's independent assessments</a>
+</li>
+<li class="last menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/qa-regulation_en">Q&amp;A on regulation</a>
+</li>
+</ul>
+</li>
+<li class="has-no-children menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/crisis-prevention_en">Crisis Prevention</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/financial-stability-and-crisis-prevention_en">Financial stability</a>
+</li>
+<li class="has-children menu-item"><a class="internal-link navigation-toggler" href="/browse/digitalisation-and-financial-innovation_en" role="button">Digitalisation and financial innovation</a>
+<ul class="level-2 menu"><li class="menu-item"><a class="d-lg-none internal-link" href="/browse/digitalisation-and-financial-innovation_en">Digitalisation and financial innovation</a>
+</li>
+<li class="first menu-item"><a class="internal-link" href="/browse/digitalisation-and-financial-innovation/artificial-intelligence-and-big-data_en">Artificial intelligence and Big Data</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/digitalisation-and-financial-innovation/blockchain-and-crypto-assets_en">Blockchain and crypto assets</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/digitalisation-and-financial-innovation/cyber-operational-resilience-and-cyber-insurance_en">Cyber operational resilience and cyber insurance</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/digitalisation-and-financial-innovation/open-insurance_en">Open insurance</a>
+</li>
+<li class="last menu-item"><a class="internal-link" href="/browse/digitalisation-and-financial-innovation/supervisory-technology_en">Supervisory Technology</a>
+</li>
+</ul>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/consumers_en">Tips for consumers</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/browse/sustainable-finance_en">Sustainable finance</a>
+</li>
+<li class="last menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/consultations-and-surveys_en">Consultations and surveys</a>
+</li>
+</ul>
+</li>
+<li class="active-trail has-children nav-item" data-display-title="1"><a class="active-trail internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/tools-and-data_en" role="button">Tools and data</a>
+<ul class="collapse level-1 light-gray-background menu"><li class="active-trail menu-item" data-display-title="1"><a class="active-trail internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/tools-and-data_en">Tools and data</a>
+</li>
+<li class="first menu-item"><a class="internal-link" href="/rulebook_en">Solvency II Single Rulebook</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/idd-rulebook_en">IDD Single Rulebook</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/tools-and-data/risk-free-interest-rate-term-structures_en">Risk-free interest rate</a>
+</li>
+<li class="active active-trail menu-item"><a class="active-trail internal-link" href="/tools-and-data/symmetric-adjustment-equity-capital-charge_en">Symmetric adjustment</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/tools-and-data/supervisory-reporting-dpm-and-xbrl_en">Supervisory reporting - DPM and XBRL</a>
+</li>
+<li class="has-children menu-item"><a class="internal-link navigation-toggler" href="/tools-and-data/statistics-and-risk-dashboards_en" role="button">Statistics and risk dashboards</a>
+<ul class="level-2 menu"><li class="menu-item"><a class="d-lg-none internal-link" href="/tools-and-data/statistics-and-risk-dashboards_en">Statistics and risk dashboards</a>
+</li>
+<li class="first menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/tools-and-data/statistics-and-risk-dashboards/insurance-statistics_en">Insurance statistics</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/tools-and-data/statistics-and-risk-analysis/occupational-pensions-statistics_en">Occupational pensions statistics</a>
+</li>
+<li class="last menu-item"><a class="internal-link" href="/tools-and-data/statistics-and-risk-dashboards/risk-dashboard_en">Risk dashboard</a>
+</li>
+</ul>
+</li>
+<li class="has-children menu-item" data-display-title="1"><a class="internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/tools-and-data/registers_en" role="button">Registers</a>
+<ul class="level-2 menu"><li class="menu-item" data-display-title="1"><a class="d-lg-none internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/tools-and-data/registers_en">Registers</a>
+</li>
+<li class="first menu-item"><a class="internal-link" href="/tools-and-data/registers/register-of-insurance-intermediaries_en">Register of insurance intermediaries</a>
+</li>
+<li class="menu-item"><a class="external-link" href="https://register.eiopa.europa.eu/registers/register-of-insurance-undertakings" target="_blank">Register of insurance undertakings</a>
+</li>
+<li class="menu-item"><a class="external-link" href="https://register.eiopa.europa.eu/registers/register-of-institutions-for-occupational-retirement-provision" target="_blank">Register of Institutions for Occupational Retirement Provision</a>
+</li>
+<li class="menu-item"><a class="external-link" href="https://register.eiopa.europa.eu/registers/register-of-iorps-prudential-provisions" target="_blank">Register of IORPs Prudential Provisions</a>
+</li>
+<li class="menu-item"><a class="external-link" href="https://register.eiopa.europa.eu/registers/database-of-pension-plans-and-products-in-the-eea" target="_blank">Database of pension plans and products in the EEA</a>
+</li>
+<li class="menu-item"><a class="external-link" href="https://pepp.eiopa.europa.eu/" target="_blank">Central PEPP register</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/tools-and-data/registers/register-of-national-laws-regulations-and-administrative-provisions_en">Register of PEPP provisions</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/tools-and-data/registers/idd-general-good-provisions_en">IDD General Good Provisions</a>
+</li>
+<li class="last menu-item"><a class="internal-link" href="/tools-and-data/registers/list-of-internationally-active-insurance-groups-iaigs-headquartered-eu_en">List of Internationally Active Insurance Groups (IAIGs) in the EU</a>
+</li>
+</ul>
+</li>
+<li class="last menu-item"><a class="internal-link" href="/content/financial-education-map_en">Financial education map</a>
+</li>
+</ul>
+</li>
+<li class="has-children nav-item opens-left" data-display-title="1"><a class="internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/document-library_en" role="button">Document library</a>
+<ul class="collapse level-1 light-gray-background menu"><li class="menu-item opens-left" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/document-library_en">Document library</a>
+</li>
+<li class="first menu-item"><a class="internal-link" href="https://www.eiopa.europa.eu/document-library_en">All documents</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/document-library/corporate-documents-0_en">Corporate documents</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/document-library/guidelines_en">Guidelines</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/document-library/letters-requests-and-submissions-ec_en">Letters</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="https://www.eiopa.europa.eu/document-library/opinions_en">Opinions</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/document-library/protocols-decisions-and-memoranda_en">Protocols, decisions and memoranda</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/document-library/reports-and-research_en">Reports and research</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/document-library/supervisory-statements-0_en">Supervisory statements</a>
+</li>
+<li class="last menu-item"><a class="internal-link" href="/document-library/technical-standards-0_en">Technical standards</a>
+</li>
+</ul>
+</li>
+<li class="has-children last nav-item opens-left" data-display-title="1"><a class="internal-link navigation-toggler" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/news-events_en" role="button">Media</a>
+<ul class="collapse level-1 light-gray-background menu"><li class="last menu-item opens-left" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/news-events_en">Media</a>
+</li>
+<li class="first menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/newsroom/news-press_en">News</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/newsroom/speeches-presentations_en">Speeches and presentations</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/newsroom/interviews-contribution_en">Interviews and contributions</a>
+</li>
+<li class="menu-item" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/newsroom/events_en">Events</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/media/feature-articles-0_en">Feature articles</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/media/eiopa-podcast_en">Podcast</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/contact/media-contact_en">Media contact</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/media/image-gallery_en">Image gallery</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/media/infographics_en">Infographics</a>
+</li>
+<li class="menu-item"><a class="internal-link" href="/media/newsletter-and-email-alerts_en">Newsletter and email alerts</a>
+</li>
+<li class="last menu-item"><a class="internal-link" href="/media/videos-and-explainer-films_en">Videos and explainer films</a>
+</li>
+</ul>
+</li>
+</ul>
+    <div id="eiopa-main-menu-loop" class="d-none">&nbsp</div>
+  </div>
+    <div id="eiopa-navigation-search-form" class="d-none eiopa-no-opacity" >
+      <form accept-charset="UTF-8" action="/tools-and-data/symmetric-adjustment-equity-capital-charge_en" class="form-inline" id="search-block-form--2" method="post">
+      
+              <input class="form-control" id="edit-search-block-form--4" maxlength="128" name="search_block_form" placeholder="Search for..." size="15" title="Enter the terms you wish to search for." type="search text" value=""/><button class="btn" type="submit">Search</button>      
+  
+  
+  <input class="form-hidden" id="form-W-4pewRBOqaVI40iGsM1NWG5m3fbaBS_Ed1fHVWaOUY" name="form_build_id" type="hidden" value="form-W-4pewRBOqaVI40iGsM1NWG5m3fbaBS_Ed1fHVWaOUY"/>
+<input class="form-hidden" id="edit-search-block-form--3" name="form_id" type="hidden" value="search_block_form"/>
+    
+  </form>
+    </div>
+</div>
+</aside>
+    
+    <!-- ANCHOR breadcrumb -->
+    
+<nav aria-label="breadcrumb" class="d-lg-block d-none">
+      <ol itemscope class="breadcrumb" itemtype="http://data-vocabulary.org/Breadcrumb">
+                                <li class="breadcrumb-item"><span itemprop="title"><a class="internal-link" href="/node_en">Eiopa</a>
+</span></li>
+                                                  <li class="breadcrumb-item active"><span itemprop="title"><a class="easy-breadcrumb_segment easy-breadcrumb_segment-1 internal-link" href="/tools-and-data_en">Tools and data</a>
+</span></li>
+          </ol>
+  </nav>
+    
+    
+    <!-- ANCHOR l-main region -->
+    <main role="main" class="l-main">
+      <div class="main">
+        
+                                    
+        
+<!-- ANCHOR l-title region -->
+<div class="l-title row">
+      <!-- ANCHOR title-right region -->
+    <div class="title-right col-lg-8">
+      <!-- ANCHOR title-image region -->
+        <!-- ANCHOR title-image region -->
+        <div class="title-image">
+          
+  
+<img  alt="" src="https://www.eiopa.europa.eu/sites/default/files/styles/eiopa_image_style/public/images/adobestock_symmetric_adjustment_or.jpg?itok=9bjeZzjx" typeof="foaf:Image" />
+          </div>
+    </div>
+    <!-- ANCHOR title-left region -->
+  <div class="title-left col-lg-8">
+
+    <!-- ANCHOR title-main region -->
+    <div class="title-main">
+      <h1>
+  Symmetric adjustment of the equity capital charge</h1>
+    </div>
+
+    <!-- ANCHOR title-bottom region -->
+    <div class="title-bottom">
+      <!-- ANCHOR subtitle and metadata are rendered here -->
+              
+<div>
+  <div class="rich-text subtitle">
+          <h2>Compulsory information to be applied now by EU insurance and reinsurance undertakings</h2>
+      </div>
+</div>
+          </div>
+  </div>
+</div>
+
+<!-- ANCHOR l-content region -->
+<div class="l-content row">
+
+  <!-- ANCHOR main-content region -->
+  <div class="main-content col-lg-8" id="main-content">
+
+    <!-- ANCHOR content region -->
+    <div class="content">
+      
+              <!-- ANCHOR rich text -->
+        <div class="rich-text">
+          <div class="field field-label-hidden field-name-field-eiopa-body field-type-text-long item-list">
+
+  
+            <div class="field-items">
+    
+          <div class="even field-item first last">
+        <h3>Monthly calculations</h3>
+<p>Publication is done on a monthly basis.</p>
+<p><strong>Upcoming publication dates in 2022 are set as follows</strong>:  4 May, 3 June, 5 July, 3 August, 5 September, 6 October, 7 November, 5 December</p>
+<p>The calculation of the symmetric adjustment based on the behaviour of an equity index built by EIOPA exclusively for that purpose. The legal requirements on the determination of the symmetric adjustment and of the EIOPA equity index are set out in the Directive 2009/138/EC (as amended by Directive 2014/51/EU), the Implementing Measures of that Directive, and also in the Implementing Technical Standard on the EIOPA equity index.​</p>
+<h3>Extraordinary EDA calculations</h3>
+<p>During the COVID-19 outbreak in 2020, EIOPA carried out  extraordinary calculations in the period 24 March - 15 September 2020 to monitor the evolution of the symmetric adjustment to equity risk (ED) and to support insurance and reinsurance undertakings in the monitoring of their solvency and financial position. </p>
+<p>The information is published on this page, in the section “Extraordinary Symmetric adjustment updates” .</p>
+<h3>EDA previous releases</h3>
+<p>Publications symmetric adjustment of the equity capital charge calculations before December 2019 .</p>
+<p><a class="btn btn-lg btn-primary external" href="http://wayback.archive-it.org/org-1495/20191229145313/https://eiopa.europa.eu/regulation-supervision/insurance/solvency-ii-technical-information/symmetric-adjustment-of-the-equity-capital-charge" target="_blank">GO TO the PREVIOUS EDA RELEASES</a></p>
+      </div>
+    
+          </div>
+      
+  </div>
+        </div>
+            
+                  
+      
+      
+                </div>
+  </div>
+            
+  <!-- ANCHOR sidebar-second region -->
+  <aside role="complementary" class="sidebar sidebar-second col-lg-4">
+    
+  <div class="table-of-content">
+    <!-- h3>Table of contents</h3 -->
+    <div id="tocify"></div>      
+  </div>
+  </aside>
+</div>
+
+<!-- ANCHOR content-footer region -->
+<div class="content-footer row">
+  <div class="content-footer-inner col-lg-8">
+    
+          <!-- ANCHOR attached documents -->
+      <span id="attached_documents"></span>
+      
+<div class="paragraphs-items paragraphs-items-field-attached-documents paragraphs-items-field-attached-documents-expand-collapse paragraphs-items-expand-collapse">
+  <div class="group-related-resources">
+  <h2>Related resources</h2>
+  
+            <div class="toggler-wrapper">
+        <div class="toggler-header">
+          <span class="title">
+                          <div class="field field-label-hidden field-name-field-paragraph-title-documents field-type-text item-list">
+
+  
+            <div class="field-items">
+    
+          <div class="even field-item first last">
+        Symmetric Adjustment of the equity capital charge 2022      </div>
+    
+          </div>
+      
+  </div>
+                      </span>
+        </div>
+        
+  <div class="toggler-body collapse">
+          
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_march_2022.xlsx" download="EIOPA symmetric adjustment equity capital charge March 2022.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge March 2022.xlsx      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_february_2022.xlsx" download="EIOPA symmetric adjustment equity capital charge February 2022.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge February 2022.xlsx      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_january_2022.xlsx" download="EIOPA symmetric adjustment equity capital charge January 2022.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge January 2022.xlsx      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_december_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge December 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge December 2021.xlsx      <div class="file-meta">
+        <span>1.88 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+        </div>
+      </div>
+                <div class="toggler-wrapper">
+        <div class="toggler-header">
+          <span class="title">
+                          <div class="field field-label-hidden field-name-field-paragraph-title-documents field-type-text item-list">
+
+  
+            <div class="field-items">
+    
+          <div class="even field-item first last">
+        Symmetric Adjustment of the equity capital charge 2021      </div>
+    
+          </div>
+      
+  </div>
+                      </span>
+        </div>
+        
+  <div class="toggler-body collapse">
+          
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_november_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge November 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge November 2021.xlsx      <div class="file-meta">
+        <span>1.88 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/copy-of-eiopa_symmetric_adjustment_equity_capital_charge_october_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge October 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge October 2021.xlsx      <div class="file-meta">
+        <span>1.88 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_september_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge September 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge September 2021.xlsx      <div class="file-meta">
+        <span>1.88 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_august_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge August 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge August 2021.xlsx      <div class="file-meta">
+        <span>1.88 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_july_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge July 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge July 2021.xlsx      <div class="file-meta">
+        <span>1.88 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_june_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge june 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge june 2021.xlsx      <div class="file-meta">
+        <span>1.88 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_may_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge May 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge May 2021.xlsx      <div class="file-meta">
+        <span>1.87 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_april_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge April 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge April 2021.xlsx      <div class="file-meta">
+        <span>1.87 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_march_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge March 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge March 2021.xlsx      <div class="file-meta">
+        <span>1.87 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_february_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge February 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge February 2021.xlsx      <div class="file-meta">
+        <span>1.87 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_january_2021.xlsx" download="EIOPA symmetric adjustment equity capital charge January 2021.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge January 2021.xlsx      <div class="file-meta">
+        <span>1.87 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_december_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge December 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge December 2020.xlsx      <div class="file-meta">
+        <span>1.87 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+        </div>
+      </div>
+                <div class="toggler-wrapper">
+        <div class="toggler-header">
+          <span class="title">
+                          <div class="field field-label-hidden field-name-field-paragraph-title-documents field-type-text item-list">
+
+  
+            <div class="field-items">
+    
+          <div class="even field-item first last">
+        Symmetric adjustment of the equity capital charge (2015-2020)      </div>
+    
+          </div>
+      
+  </div>
+                      </span>
+        </div>
+        
+  <div class="toggler-body collapse">
+          
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_november_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge November 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge November 2020.xlsx      <div class="file-meta">
+        <span>1.86 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_october_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge October 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge October 2020.xlsx      <div class="file-meta">
+        <span>1.86 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_september_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge September 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge September 2020.xlsx      <div class="file-meta">
+        <span>1.86 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_august_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge August 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge August 2020.xlsx      <div class="file-meta">
+        <span>1.86 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_14_07_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 14 July 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 14 July 2020.xlsx      <div class="file-meta">
+        <span>1.86 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_16_06_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 16 June 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 16 June 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_may_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge May 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge May 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_april_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge April 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge April 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa-symmetric-adjustment-equity-capital-charge-march-2020.xlsx" download="EIOPA symmetric adjustment equity capital charge March 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge March 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_february_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge February 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge February 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+                  <span class="new-file">
+          New file          </span>
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_january_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge January 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge January 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_december_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge December 2019.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge December 2019.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_november_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge November 2019.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge November 2019.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_october_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge October 2019.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge October 2019.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_september_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge September 2019.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge September 2019.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_august_2019_0.xlsx" download="EIOPA symmetric adjustment equity capital charge August 2019_0.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge August 2019_0.xlsx      <div class="file-meta">
+        <span>1.84 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_july_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge July 2019 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge July 2019      <div class="file-meta">
+        <span>1.84 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_june_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge June 2019 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge June 2019      <div class="file-meta">
+        <span>1.84 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_may_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge May 2019 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge May 2019      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_april_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge April 2019 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge April 2019      <div class="file-meta">
+        <span>1.84 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge._march_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge March 2019 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge March 2019      <div class="file-meta">
+        <span>1.84 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_february_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge February 2019 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge February 2019      <div class="file-meta">
+        <span>1.94 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_january_2019.xlsx" download="EIOPA symmetric adjustment equity capital charge January 2019 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge January 2019      <div class="file-meta">
+        <span>1.94 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_december_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge December 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge December 2018      <div class="file-meta">
+        <span>1.94 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_november_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge November 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge November 2018      <div class="file-meta">
+        <span>1.94 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_october_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge October 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge October 2018      <div class="file-meta">
+        <span>1.94 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_september_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge September 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge September 2018      <div class="file-meta">
+        <span>1.94 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_august_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge August 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge August 2018      <div class="file-meta">
+        <span>1.93 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_july_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge July 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge July 2018      <div class="file-meta">
+        <span>1.93 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_june_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge June 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge June 2018      <div class="file-meta">
+        <span>1.93 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_may_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge May 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge May 2018      <div class="file-meta">
+        <span>1.93 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_april_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge April 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge April 2018      <div class="file-meta">
+        <span>1.93 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_march_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge March 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge March 2018      <div class="file-meta">
+        <span>1.92 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_february_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge February 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge February 2018      <div class="file-meta">
+        <span>1.92 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_january_2018.xlsx" download="EIOPA symmetric adjustment equity capital charge January 2018 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge January 2018      <div class="file-meta">
+        <span>1.92 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_december_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge December 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge December 2017      <div class="file-meta">
+        <span>1.92 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_november_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge November 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge November 2017      <div class="file-meta">
+        <span>1.92 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_october_2017_corr.xlsx" download="EIOPA symmetric adjustment equity capital charge October 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge October 2017      <div class="file-meta">
+        <span>1.91 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_sept_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge September 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge September 2017      <div class="file-meta">
+        <span>1.92 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_august_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge August 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge August 2017      <div class="file-meta">
+        <span>1.91 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_july_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge July 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge July 2017      <div class="file-meta">
+        <span>1.91 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_june_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge June 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge June 2017      <div class="file-meta">
+        <span>1.91 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_may_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge May 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge May 2017      <div class="file-meta">
+        <span>1.91 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_april_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge April 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge April 2017      <div class="file-meta">
+        <span>1.91 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_march_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge March 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge March 2017      <div class="file-meta">
+        <span>1.91 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_february_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge February 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge February 2017      <div class="file-meta">
+        <span>1.91 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_january_2017.xlsx" download="EIOPA symmetric adjustment equity capital charge January 2017 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge January 2017      <div class="file-meta">
+        <span>1.91 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_december_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge December 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge December 2016      <div class="file-meta">
+        <span>1.9 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_november_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge November 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge November 2016      <div class="file-meta">
+        <span>1.9 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_october_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge October 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge October 2016      <div class="file-meta">
+        <span>1.9 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_september_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge September 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge September 2016      <div class="file-meta">
+        <span>1.9 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_august_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge August 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge August 2016      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_july_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge July 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge July 2016      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_june_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge June 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge June 2016      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_may-2016.xlsx" download="EIOPA symmetric adjustment equity capital charge May 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge May 2016      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_april_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge April 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge April 2016      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_march_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge March 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge March 2016      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_febraury_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge February 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge February 2016      <div class="file-meta">
+        <span>1.89 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_january_2016.xlsx" download="EIOPA symmetric adjustment equity capital charge January 2016 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge January 2016      <div class="file-meta">
+        <span>1.88 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_dec_2015.xlsx" download="EIOPA symmetric adjustment equity capital charge December 2015 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge December 2015      <div class="file-meta">
+        <span>1.88 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+        </div>
+      </div>
+                <div class="toggler-wrapper">
+        <div class="toggler-header">
+          <span class="title">
+                          <div class="field field-label-hidden field-name-field-paragraph-title-documents field-type-text item-list">
+
+  
+            <div class="field-items">
+    
+          <div class="even field-item first last">
+        Extraordinary Symmetric adjustment updates      </div>
+    
+          </div>
+      
+  </div>
+                      </span>
+        </div>
+        
+  <div class="toggler-body collapse">
+          
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_15092020.xlsx" download="EIOPA symmetric adjustment equity capital charge 15 September 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 15 September 2020.xlsx      <div class="file-meta">
+        <span>1.86 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_11_08_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 14 August 2020 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 14 August 2020      <div class="file-meta">
+        <span>1.86 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_14_07_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 14 July 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 14 July 2020.xlsx      <div class="file-meta">
+        <span>1.86 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_16_06_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 16 June 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 16 June 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_26_05_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 26 May 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 26 May 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_12_05_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 12 May 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 12 May 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_27_april_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 27 April 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 27 April 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_21_april_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 21 April 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 21 April 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_14_april_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 14 April 2020.xlsx - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 14 April 2020.xlsx      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_06_april_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 06 April 2020 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 06 April 2020      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+            
+  <a href="https://www.eiopa.europa.eu/sites/default/files/symmetric_adjustment/eiopa_symmetric_adjustment_equity_capital_charge_24_march_2020.xlsx" download="EIOPA symmetric adjustment equity capital charge 24 March 2020 - EN.xlsx" class="related-item file-type-excel">
+    EIOPA symmetric adjustment equity capital charge 24 March 2020      <div class="file-meta">
+        <span>1.85 MB</span>
+        <span>EN</span>
+        
+        
+      </div>
+  </a>
+        </div>
+      </div>
+      </div>
+</div>
+    
+        
+    
+    <!-- ANCHOR metadata -->
+      </div>                            
+</div>
+
+<!-- ANCHOR content-full region -->
+<div  class="content-full">
+  
+    
+  </div>
+
+<div class="group-top-metadata" style="margin-bottom: 1rem;">
+  <div>
+    <div class="metadata-label">Last updated on: </div>
+    <div class="metadata-item">5 Apr 2022</div>
+  </div>
+</div>
+<!-- ANCHOR content-footer-full region -->
+<div  class="content-footer-full">
+  <!-- ANCHOR share buttons -->
+  <div class="group-share-buttons">
+    <h2>Share this</h2>
+    <div>
+    <div class="field field-label-hidden field-name-field-json-object field-type-json-settings item-list">
+
+  
+            <div class="field-items">
+    
+          <div class="even field-item first last">
+        <script type="application/json">{
+          "service": "sbkm",
+          "popup": false,
+          "icon": true,
+          "to": [
+            "twitter",
+            "facebook",
+            "linkedin",
+            "e-mail"
+          ],
+          "via": "eiopa_europa_eu",
+          "selection": false
+        }</script>      </div>
+    
+          </div>
+      
+  </div>
+</div>
+    <div class="print-pdf">
+      <a href="https://www.eiopa.europa.eu/print-pdf/2558" target="_blank" title="Display a PDF version of this page.">Download as PDF</a>
+    </div>
+  </div>
+</div>
+        
+      </div>
+    </main>
+    
+    <!-- ANCHOR l-footer region -->
+    
+
+<footer role="contentinfo" class="l-footer">
+  <div class="row footer-top align-items-start">
+    <div class="col-sm-12 col-lg-4 footer-top-left">
+      <img src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/assets/images/logo-no-description.svg">
+      <div class="social-media">
+        <h2>Follow Us</h2>
+        <ul>
+          <li class="social-link-twitter"><a href="https://twitter.com/eiopa_europa_eu" target="_blank">Follow us on Twitter</a></li>
+          <li class="social-link-facebook"><a href="https://www.facebook.com/eiopa.europa.eu" target="_blank">Follow us on Facebook</a></li>
+          <li class="social-link-linkedin"><a href="https://www.linkedin.com/company/eiopa-eu" target="_blank">Follow us on LinkedIn</a></li>
+          <li class="social-link-youtube"><a href="https://www.youtube.com/channel/UCIu5w4xQH-3cSnlZsXslx5Q" target="_blank">Follow us on Youtube</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="col-sm-12 col-lg-4 footer-top-center">
+      <h2>Useful links</h2>
+      <ul class="menu_tree-level-1"><li class="first leaf"><a class="external-link" href="https://ec.europa.eu/newsroom/eiopa/user-subscriptions/2078/create" target="_blank">Subscribe to our newsletter</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/sitemap" target="_blank">Sitemap</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/about/careers_en" target="_blank">Careers</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/glossary_en" target="_blank">Glossary</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="external-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="https://register.eiopa.europa.eu/Pages/Extranet/Extranet_access.aspx" target="_blank">Extranet</a>
+</li>
+<li class="leaf"><a class="external-link" href="https://wayback.archive-it.org/org-1495/20191229100044/https:/eiopa.europa.eu/" target="_blank">EIOPA Archive</a>
+</li>
+<li class="last leaf" data-display-title="1"><a class="external-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="https://register.eiopa.europa.eu/CEIOPS-Archive" target="_blank">CEIOPS archive</a>
+</li>
+</ul>
+      <ul class="menu_tree-level-1"><li class="first leaf" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/browse/consumers_en">Tips for consumers</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="https://www.eiopa.europa.eu/tools-and-data/registers_en">Registers</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="external-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="https://esas-joint-committee.europa.eu" target="_blank">Joint Committee</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="external-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="https://www.esma.europa.eu" target="_blank">ESMA</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="external-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="https://eba.europa.eu" target="_blank">EBA</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="external-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="https://www.esrb.europa.eu/home/html/index.en.html" target="_blank">ESRB</a>
+</li>
+<li class="last leaf" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="https://www.eiopa.europa.eu/about/accountability-and-transparency/whistleblowing_en">Whistleblowing</a>
+</li>
+</ul>
+    </div>
+    <div class="col-sm-12 col-lg-4 footer-top-right">
+      <h2>Get in touch</h2>
+      <ul>
+        <li>Westhafenplatz 1, 60327 Frankfurt am Main</li>
+        <li>T: +49 (0) 69 95 11 19 20</li>
+        <li>F: +49 (0) 69 95 11 19 19</li>
+        <li>E: info@eiopa.europa.eu</li>
+      </ul>
+      <div>
+        <div class="contact-us"><a href="https://www.eiopa.europa.eu/contact/contact-us" class="more-link">Contact us</a></div>
+              </div>
+      <div class="rss-feed">      
+        <a href="https://www.eiopa.europa.eu/rss/news" class="feed-icon" title="Subscribe to EIOPA RSS News">
+          <img typeof="foaf:Image" src="https://www.eiopa.europa.eu/misc/feed.png" width="16" height="16" alt="Subscribe to EIOPA RSS News">
+          Subscribe to EIOPA RSS News        </a>
+      </div> 
+    </div>
+  </div>
+
+  <div class="row footer-bottom align-items-center">
+    <div class="col-sm-12 col-lg-4 footer-bottom-left">
+      <ul>
+        <li>2022 EIOPA</li>
+        <li>All Rights Reserved</li>
+      </ul>
+    </div>
+    <div class="col-sm-12 col-lg-4 footer-bottom-center">
+      <ul class="menu_tree-level-1"><li class="first leaf" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/how-can-i-complain_en">Complaints</a>
+</li>
+<li class="leaf" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/legal-notice_en">Legal notice</a>
+</li>
+<li class="last leaf" data-display-title="1"><a class="internal-link" data-display-title="1" data-hide-children="0" data-remove-class="0" href="/node_en">Cookies</a>
+</li>
+</ul>
+    </div>
+    <div class="col-sm-12 col-lg-4 footer-bottom-right">
+      <span>A body of the European Union</span>
+      <img src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/assets/images/eu-flag.svg">
+    </div>
+  </div>
+</footer>
+
+  </div>
+</div>
+<script src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/assets/js/popper.min.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/assets/js/bootstrap.min.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/assets/js/jquery.actual.min.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/assets/js/imagesloaded.pkgd.min.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/assets/js/eiopa.js?r9lwav" type="text/javascript"></script>
+<script src="https://www.eiopa.europa.eu/sites/default/themes/eiopa_theme/js/eiopa_custom.js?r9lwav" type="text/javascript"></script>
+<script type="application/json">{"utility":"globan","theme":"dark","logo":true,"link":true,"mode":true,"zindex":40}</script>
+<script type="application/json">{"utility":"cck"}</script>
+<script type="application/json">{"utility":"piwik","siteID":"95","sitePath":["www.eiopa.europa.eu"],"is404":false,"is403":false,"instance":"europa.eu"}</script>
+</body>
+</html>
